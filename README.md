@@ -1,9 +1,21 @@
-# VPN Key Collector - Windows GUI Application
+# VPN Config RKN - Автоматическая проверка VLESS ключей
 
-Приложение для автоматического сбора и проверки VLESS ключей с GitHub для обхода глушилок и белых списков в России.
+🚀 Автоматическая система сбора и проверки VLESS ключей для обхода глушилок и белых списков в России. Проверяет 25+ источников ключей с GitHub, фильтрует нерабочие и сортирует по скорости.
 
-## Функции
+## 🌐 Проект на GitHub
 
+**Репозиторий:** https://github.com/vsvavan2/vpn-config-rkn
+
+## ✨ Особенности
+
+### GitHub Actions Автоматизация
+- ⏰ **Автоматическая проверка** каждый час
+- 🔍 **Проверка 25+ источников** ключей
+- 📊 **Фильтрация и сортировка** по скорости
+- 💾 **Автосохранение** рабочих ключей в репозитории
+- 📡 **Доступ к результатам** через GitHub
+
+### Windows GUI Приложение
 - 🔄 **Автоматический сбор ключей** с GitHub репозиториев
 - 🔍 **Проверка работоспособности** ключей (TCP-доступность + пинг)
 - 📊 **Сортировка по задержке** - лучшие ключи сверху
@@ -12,7 +24,59 @@
 - 💾 **Сохранение** рабочих ключей в файл
 - 🚀 **Интеграция с v2rayN** для подключения
 
-## Установка
+## 📂 Результаты работы
+
+После автоматической проверки в папке `output/` появляются файлы:
+- `working_keys.json` - все результаты в JSON формате
+- `all_working_keys.txt` - все рабочие ключи
+- `best_key.txt` - лучший (самый быстрый) ключ
+- `*_working.txt` - рабочие ключи по каждому источнику
+
+## 🔗 Быстрый доступ к ключам
+
+**Лучший ключ:**
+```
+https://raw.githubusercontent.com/vsvavan2/vpn-config-rkn/main/output/best_key.txt
+```
+
+**Все рабочие ключи:**
+```
+https://raw.githubusercontent.com/vsvavan2/vpn-config-rkn/main/output/all_working_keys.txt
+```
+
+**Результаты в JSON:**
+```
+https://raw.githubusercontent.com/vsvavan2/vpn-config-rkn/main/output/working_keys.json
+```
+
+## 📋 Источники ключей (25 источников)
+
+**BLACK (обычный VPN):**
+- BLACK (обычный VPN), BLACK Mobile, BLACK SS+All
+
+**WHITE (белые списки) - для глушилок:**
+- WHITE CIDR (белые списки), WHITE CIDR All, WHITE SNI (белые списки)
+- WHITE Reality Mobile, WHITE Reality Mobile 2
+
+**Дополнительные источники:**
+- VPN-sub (yror382)
+
+**V2Box (vorz1k) - глобальные подписки:**
+- V2Box Supreme 1, 2, 3
+
+**Kort0881 - проверенные конфиги:**
+- Kort0881 VLESS Clean, VMess Clean, Trojan Clean, Shadowsocks Clean
+
+**Barry-Far - обновляются каждые 15 минут:**
+- Barry-Far All Configs, Sub 1-3, VLESS, VMess
+
+**Epodonios - обновляются каждые 5 минут:**
+- Epodonios All Configs, Sub 1-3, VLESS, VMess
+
+**Hans-Thomas - свежие серверы:**
+- Hans-Thomas Servers
+
+## 💻 Установка Windows GUI приложения
 
 ### Требования
 
@@ -32,7 +96,13 @@ pip install requests
 python vpn_key_app.py
 ```
 
-## Использование
+Подробная инструкция установки: [INSTALLATION_GUIDE_RU.md](INSTALLATION_GUIDE_RU.md)
+
+## 🤖 Настройка GitHub Actions
+
+Подробная инструкция по настройке автоматической проверки: [GITHUB_ACTIONS_GUIDE.md](GITHUB_ACTIONS_GUIDE.md)
+
+## 🎯 Использование
 
 ### 1. Выбор источника ключей
 
@@ -131,12 +201,30 @@ VPN-Key-Collector/
 └── README.md              # Этот файл
 ```
 
-## Лицензия
+## 👤 Автор
 
-MIT License
+**Сайт автора:** [phphack.ru](https://phphack.ru)
 
-## Полезные ссылки
+**О сайте phphack.ru:**
+- 📚 **Бесплатные курсы и тренинги** - тысячи платных курсов бесплатно
+- 💼 **Бизнес курсы** - схемы заработка, создание бизнеса
+- 🖥️ **Программирование** - Python, C#, C++, AI, IDE
+- 🎨 **Графика и дизайн** - создание контента
+- 🔍 **SEO & SMM** - продвижение сайтов
+- 💰 **Криптовалюта** - инвестиции и трейдинг
+- 🌐 **Сайтостроение** - создание и разработка сайтов
+- 📱 **Rust Oxide** - плагины, скрипты, программы для Rust
+- 🔐 **VPN решения** - безлимитные VLESS ключи
+
+На форуме phphack.ru вы найдете бесплатные обучающие материалы по программированию, бизнесу, дизайну и многим другим темам, а также полезные инструменты и скрипты.
+
+## 📞 Полезные ссылки
 
 - [v2rayN](https://github.com/2dust/v2rayN) - Windows VPN клиент
 - [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia) - Источник ключей
 - [tiagorrg/vless-checker](https://github.com/tiagorrg/vless-checker) - Оригинальный checker
+- [phphack.ru](https://phphack.ru) - Форум с бесплатными курсами и инструментами
+
+## 📜 Лицензия
+
+MIT License
