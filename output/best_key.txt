@@ -1,1 +1,1 @@
-vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638901790535245808.brussels-prx-dnraaal.info&type=ws&alpn=&host=638901790535245808.brussels-prx-dnraaal.info&path=/gflzprws#4Sarina-4872
+vless://29af39ed-f8c8-49b8-9a5f-ea24fad97a09@151.101.129.203:443?path=/%3Fed%3D1024&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=fastopra.com&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=video.nordkapp-boats.no#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40minovpnch%20%231
