@@ -1,1 +1,1 @@
-vless://4d63dcc0-d836-4101-9618-a15306d5d8ba@python.org:80?encryption=none&security=none&type=xhttp&host=dataxlondon.global.ssl.fastly.net&path=%2Fdatax_proxy&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%5BBL%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#%3E%3E%40v2nodes%3A%3AUS
