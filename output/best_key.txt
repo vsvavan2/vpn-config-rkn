@@ -1,1 +1,1 @@
-vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#%F0%9F%87%AE%F0%9F%87%B915272%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+vless://60b06b38-77cc-470a-a3f4-2bcffce72e31@pypi.org:80?encryption=none&security=none&type=ws&host=sabzeu.global.ssl.fastly.net&path=%2Fdownload#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Estenfeld%20%28M%C3%BChlhausen%29%20%5BBL%5D
