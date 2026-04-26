@@ -1,20 +1,20 @@
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#iDeathBirth
-vless://e741cfe8-e020-4d69-b343-60a62649771d@abr.superip.ir:2086?path=/API/superip&security=none&encryption=none&host=tu.bi6x.ir&type=ws#mobo_game_land ♟
-vless://d17f8922-93e7-4756-be18-c15c8ee59b63@varzesh3.com:80?path=/&security=none&encryption=none&host=nobody.panivo.ir&type=ws#TEL;Father_vpn
 vless://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?type=xhttp&security=tls&sni=vercel.com&alpn=h2&fp=chrome&host=grand-short-auto-shahriar.vercel.app&path=/&mode=packet-up#iDeathBirth
-vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
-vless://c334010c-b5eb-4d80-bc93-9d7b52b03e6e@varzesh3.com:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=pt.novatechplus.ir&path=/#https://t.me/Config0plus
-vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=/movie&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#canfingV2rayNG-295
-vless://b4a40580-8670-4b44-aa08-7a2c17e35d66@arvancloud.ir:80?path=/ed=2048&security=none&encryption=none&host=panel.s7r.ir&type=ws#filembad-288
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&host=y6-3cj.PAgES.DEV&path=/&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#byiroh
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#iDeathBirth
 vless://cf487d7d-1048-4484-be05-d52af399afdb@vercel.com:443?encryption=none&security=tls&sni=vercel.com&type=xhttp&path=/mypath&host=vercel-relay-six-pied.vercel.app&mode=auto#JOMONG-4
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.20.5.134:2053?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=qyi.fqjd663.ggff.net&fp=chrome&type=ws&allowInsecure=1&sni=qyi.fqjd663.ggff.net#T.me/dalis_news
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&type=ws&security=tls&path=/&host=y6-3cj.PAgES.DEV&sni=y6-3cj.PAgES.DEV&allowInsecure=1#filembad-254
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#canfingV2rayNG-309
-vless://d340e519-6b0f-4a84-84d7-431a72a98440@104.20.6.134:8443?path=/&security=tls&encryption=none&insecure=1&host=a1d.bioritalin.ir&type=ws&allowInsecure=1&sni=a1d.bioritalin.ir#TEL;Father_vpn
 vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=&encryption=none&host=ws.ab841.com.&type=xhttp#p1ctok
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.20.6.134:2053?encryption=none&security=tls&sni=qyi.fqjd663.ggff.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=qyi.fqjd663.ggff.net&path=/#T.me/irmeliy 4
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.5.134:2053?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#T.me/dalis_news
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2083?path=/%2F&security=tls&encryption=none&insecure=1&host=cIAllO-EGB.pAGES.dev&type=ws&allowInsecure=1&sni=cIAllO-EGB.pAGES.dev#T.me/dalis_news
+vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
+vless://d340e519-6b0f-4a84-84d7-431a72a98440@104.20.6.134:8443?path=/&security=tls&encryption=none&insecure=1&host=a1d.bioritalin.ir&type=ws&allowInsecure=1&sni=a1d.bioritalin.ir#TEL;Father_vpn
 vless://d4f44cf4-cbca-4313-9156-5a8498b20387@glob.thisiswe.uno:2053?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=godplease11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=godplease11.thisiswe.uno#canfingV2rayNG-328
+vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.5.134:2053?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#T.me/dalis_news
+vless://e558a01d-cac3-4052-8dc5-51a97f159352@104.20.6.134:2083?path=/home?ed=2048&security=tls&encryption=none&insecure=0&host=ultraserverh.ultrascarface.ir&type=ws&allowInsecure=0&sni=ultraserverp.ultrascarface.ir#https://t.me/ConfigX2ray
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#canfingV2rayNG-309
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2083?path=/%2F&security=tls&encryption=none&insecure=1&host=cIAllO-EGB.pAGES.dev&type=ws&allowInsecure=1&sni=cIAllO-EGB.pAGES.dev#T.me/dalis_news
+vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&type=xhttp&mode=auto&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&security=tls&fp=chrome&sni=f927b3b16dff26f5.mizgerdiran.com&alpn=h3,h2,http/1.1#https://t.me/bomb_server
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.20.5.134:2053?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=qyi.fqjd663.ggff.net&fp=chrome&type=ws&allowInsecure=1&sni=qyi.fqjd663.ggff.net#T.me/dalis_news
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.20.6.134:2053?encryption=none&security=tls&sni=qyi.fqjd663.ggff.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=qyi.fqjd663.ggff.net&path=/#T.me/irmeliy 4
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&type=ws&security=tls&path=/&host=y6-3cj.PAgES.DEV&sni=y6-3cj.PAgES.DEV&allowInsecure=1#filembad-254
+vless://98ef96cd-7f4c-420c-8feb-8f16268017e2@104.18.12.149:8443?encryption=none&security=tls&sni=turkiye-fast.rocketset.fun&alpn=h2,http/1.1&fp=chrome&type=ws&host=turkiye-fast.rocketset.fun&path=/?ed=2560#
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&host=y6-3cj.PAgES.DEV&path=/&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#byiroh
+vless://c334010c-b5eb-4d80-bc93-9d7b52b03e6e@varzesh3.com:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=pt.novatechplus.ir&path=/#https://t.me/Config0plus

@@ -1,20 +1,20 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.5.134:80?path=/&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#T.me/dalis_news
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=/&host=sni.jpmj.dev&sni=sni.jpmj.dev&allowInsecure=1#https://t.me/ConfigX2ray
-vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?type=xhttp&encryption=none&path=/&host=dalag.master33varkarjoo.ir&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=tls&fp=chrome&alpn=h2,http/1.1&sni=dalag.master33varkarjoo.ir#neet_done👈چنل تلگراممون
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.20.5.134:2053?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com&fp=chrome&mode=auto#Neet_done👈چنل تلگراممون
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#TEL;Father_vpn
-vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=dalag.master33varkarjoo.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dalag.master33varkarjoo.ir#p1ctok
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&security=none&type=ws&host=vip.yaml7.ggff.net&path=/#T.me/MiTiVPN 2
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?path=/&security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#p1ctok
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
 vless://441239f9-3017-4ab3-b123-23eeaa48133b@104.20.6.134:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.hosseincapri.sbs&path=/ws&sni=cdn.hosseincapri.sbs&fp=chrome#eror404
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?type=xhttp&encryption=none&path=/&host=dalag.master33varkarjoo.ir&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=tls&fp=chrome&alpn=h2,http/1.1&sni=dalag.master33varkarjoo.ir#neet_done👈چنل تلگراممون
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#TEL;Father_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=/&host=sni.jpmj.dev&sni=sni.jpmj.dev&allowInsecure=1#https://t.me/ConfigX2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.20.5.134:2053?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com&fp=chrome&mode=auto#Neet_done👈چنل تلگراممون
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?path=/&security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#p1ctok
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&security=none&type=ws&host=vip.yaml7.ggff.net&path=/#T.me/MiTiVPN 2
+vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=dalag.master33varkarjoo.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dalag.master33varkarjoo.ir#p1ctok
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.5.134:80?path=/&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#T.me/dalis_news
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://62bc3662-5366-45ff-84d6-7218ddf5eddf@185.143.233.5:443?path=/voip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=isna.ir#https://t.me/Configir98
 vless://59ab21e3-c0cc-42d6-9ff5-fd49abfc0780@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#KurdConfing
-vless://56798082-a253-9505-e1cf-ac7ee9a0ddb1@i-love-iran.amlakayuni.ir:2087?path=?ed=2087&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#Black_Star_Vpn
 vless://4075727e-3199-440c-9c8f-7b9e0b4d4478@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#mobo_game_land 🎾
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#
+vless://62bc3662-5366-45ff-84d6-7218ddf5eddf@185.143.233.5:443?path=/voip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=isna.ir#vipV2rayNGnp
