@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#%3E%3E%40v2nodes%3A%3AUS
+vless://60b06b38-77cc-470a-a3f4-2bcffce72e31@pypi.org:80?encryption=none&security=none&type=ws&host=sabzeu.global.ssl.fastly.net&path=%2Fdownload#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Estenfeld%20%28M%C3%BChlhausen%29%20%5BBL%5D
