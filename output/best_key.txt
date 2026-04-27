@@ -1,1 +1,1 @@
-vless://6ec46182-5075-4633-a692-3debfe10de0f@amdiww.fastly80.hosting-ip.com:80?path=/&security=&encryption=none&host=speedtest.net.pl&type=ws#🇩🇪
+vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.223.84.84:443?security=tls&sni=gcore.com&type=ws&host=ipcfusa.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-92.223.84.84:443
