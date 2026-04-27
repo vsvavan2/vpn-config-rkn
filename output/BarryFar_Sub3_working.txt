@@ -1,20 +1,20 @@
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=vercel.com#https://t.me/ConfigX2ray
-vless://92fe3760-ec58-4ed5-aede-627d54df6150@vercel.com:443?mode=auto&path=/tt&security=tls&encryption=none&host=vercel-http-relay-z7tx.vercel.app&type=xhttp&sni=vercel.com#TestVercel
 vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=vercel.com#https://t.me/RezZonez
-vless://a80feb04-fd45-4462-a0a9-f9f36f56a5ca@ano.vipsite.top:2083?type=tcp&security=7325987430-63949
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=vercel.com#https://t.me/ConfigX2ray
+vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-304
+vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
+vless://98ef96cd-7f4c-420c-8feb-8f16268017e2@104.18.12.149:8443?encryption=none&security=tls&sni=turkiye-fast.rocketset.fun&alpn=h2,http/1.1&fp=chrome&type=ws&host=turkiye-fast.rocketset.fun&path=/?ed=2560#
 vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
 vless://d340e519-6b0f-4a84-84d7-431a72a98440@104.20.6.134:8443?path=/&security=tls&encryption=none&insecure=1&host=a1d.bioritalin.ir&type=ws&allowInsecure=1&sni=a1d.bioritalin.ir#TEL;Father_vpn
-vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-304
-vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&type=xhttp&mode=auto&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&security=tls&fp=chrome&sni=f927b3b16dff26f5.mizgerdiran.com&alpn=h3,h2,http/1.1#https://t.me/bomb_server
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.20.6.134:2053?encryption=none&security=tls&sni=qyi.fqjd663.ggff.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=qyi.fqjd663.ggff.net&path=/#T.me/irmeliy 4
-vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
+vless://a80feb04-fd45-4462-a0a9-f9f36f56a5ca@ano.vipsite.top:2083?type=tcp&security=7325987430-63949
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
-vless://98ef96cd-7f4c-420c-8feb-8f16268017e2@104.18.12.149:8443?encryption=none&security=tls&sni=turkiye-fast.rocketset.fun&alpn=h2,http/1.1&fp=chrome&type=ws&host=turkiye-fast.rocketset.fun&path=/?ed=2560#
-vless://d17f8922-93e7-4756-be18-c15c8ee59b63@varzesh3.com:80?path=/&security=none&encryption=none&host=nobody.panivo.ir&type=ws#TEL;Father_vpn
-vless://eed64110-dfd3-4881-b78c-7234a40e69aa@abr.superip.ir:2095?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#filembad-350
-vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=/vless&security=tls&encryption=none&insecure=0&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=0#NetMeli9-302
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
+vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&type=xhttp&mode=auto&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&security=tls&fp=chrome&sni=f927b3b16dff26f5.mizgerdiran.com&alpn=h3,h2,http/1.1#https://t.me/bomb_server
+vless://b2d01b0c-9305-4486-bd51-6720e7195c2c@varzesh3.com:80?path=/&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#byiroh( 🫟 )
+vless://a6a57835-a142-4ad1-8178-a73ae046a5c5@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#NormanV2ray-274
+vless://9e8d2012-bafc-4f43-8baf-94ac4de60784@abr.superip.ir:2082?path=/API/superip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#https://t.me/Configir98
+vless://9e8d2012-bafc-4f43-8baf-94ac4de60784@abr.superip.ir:2082?path=/API/superip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#https://t.me/byiroh
+vless://9aeae0a6-c278-4207-98d8-accf79cb90d3@pov.iran-mehrbu.ir:8080?path=/&security=none&encryption=none&host=pro.kazempets.shop&type=ws#mobo_game_land
 vless://e741cfe8-e020-4d69-b343-60a62649771d@abr.superip.ir:2086?path=/API/superip&security=none&encryption=none&host=tu.bi6x.ir&type=ws#mobo_game_land ♟
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#
-vless://ceb70fc0-4886-4462-9651-d53b6367846d@snapp.ir:80?path=/FIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#TEL;Father_vpn
