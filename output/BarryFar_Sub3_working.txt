@@ -1,20 +1,20 @@
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=vercel.com#https://t.me/RezZonez
-vless://e04dda98-9005-4a32-a4a0-05d198c1dc78@react.dev:443?mode=auto&path=/24f9d3afb14d&security=tls&alpn=h2&encryption=none&host=edge-svc-a24ef8.vercel.app&fp=chrome&type=xhttp&sni=react.dev#filembad-334
 vless://d340e519-6b0f-4a84-84d7-431a72a98440@104.20.6.134:8443?path=/&security=tls&encryption=none&insecure=1&host=a1d.bioritalin.ir&type=ws&allowInsecure=1&sni=a1d.bioritalin.ir#TEL;Father_vpn
 vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@104.17.111.184:443?encryption=none&type=ws&security=tls&path=/&host=zh.hollowspot.ir&sni=zh.hollowspot.ir&alpn=http/1.1&allowInsecure=1&flow=xtls-rprx-vision#LoopLine_Ir-306
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=vercel.com#https://t.me/RezZonez
 vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
+vless://983da2df-bc52-4226-84c1-bbfef0704427@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#canfingV2rayNG-217
 vless://98ef96cd-7f4c-420c-8feb-8f16268017e2@104.18.12.149:8443?encryption=none&security=tls&sni=turkiye-fast.rocketset.fun&alpn=h2,http/1.1&fp=chrome&type=ws&host=turkiye-fast.rocketset.fun&path=/?ed=2560#
-vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=/vless&security=tls&encryption=none&insecure=0&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=0#NetMeli9-261
-vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=&encryption=none&host=app.s7r.ir&type=ws#https://t.me/Configir98
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
+vless://b859b367-0165-420a-8ded-8d3bd66d28e8@snapp.ir:8880?path=/ws?ed=2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#filembad-261
 vless://9aeae0a6-c278-4207-98d8-accf79cb90d3@pov.iran-mehrbu.ir:8080?path=/&security=none&encryption=none&host=pro.kazempets.shop&type=ws#mobo_game_land
-vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=none&spx=&encryption=none&host=app.s7r.ir&type=ws#sorenaconfig
-vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=&encryption=none&host=app.s7r.ir&type=ws#https://t.me/byiroh
-vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=&encryption=none&host=app.s7r.ir&type=ws#https://t.me/ConfigX2ray
+vless://dc4fa7a3-beab-4298-a20d-38c69aa54a93@haikino.nahidapp.com:443?path=/h1/&security=tls&encryption=none&insecure=0&host=haikino.nahidapp.com&type=ws&allowInsecure=0#t.me/ConfigFori  -  Config 9665
+vless://fb67587a-b272-415f-ae0e-7ddd0ce6010f@185.143.233.5:443?encryption=none&type=ws&security=tls&path=/chat?ed=128&host=en.8lack.ir&sni=en.8lack.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#filembad-327
 vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?path=/&security=none&encryption=none&host=kootahkon.ir&type=ws#TEL;Father_vpn
-vless://aefac71e-6111-4c51-9adc-9836e12f3000@snapp.ir:8880?path=/w&security=none&encryption=none&host=p.mofidserver.ir&type=ws#t.me/ConfigFori  -  Config 9505
-vless://aefac71e-6111-4c51-9adc-9836e12f3000@snapp.ir:8880?path=/w&security=none&encryption=none&host=p.mofidserver.ir&type=ws#t.me/ConfigFori  -  Config 9508
-vless://aefac71e-6111-4c51-9adc-9836e12f3000@snapp.ir:8880?path=/w&security=none&encryption=none&host=p.mofidserver.ir&type=ws#t.me/ConfigFori  -  Config 9506
+vless://b28b10e2-5f2d-4413-973c-a13b6ebb53dd@snapp.ir:8080?type=ws&encryption=none&path=/&host=in1.datagconnect.ir&security=none#t.me/ConfigFori  -  Config 9655
 vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?path=/&security=none&encryption=none&host=kootahkon.ir&type=ws#mobo_game_land 😉
+vless://fd060ba4-f3bc-42ac-8184-b5f2b022a873@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=bn.8lack.ir&fp=chrome&type=ws&sni=bn.8lack.ir#fbyiroh 555
+vless://9c8d96af-f255-472f-8107-ba718a03d77c@141.ir:8080?path=/&security=none&encryption=none&host=h.nagambarat.ir&type=ws#t.me/ConfigFori  -  Config 9652
+vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#TROWER_NEWS
 vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#
+vless://b05e30fb-d2a6-414b-9384-b875ee4a6d61@snapp.ir:80?type=ws&encryption=none&path=/&host=z6.dovira.ir&security=none#t.me/ConfigFori  -  Config 9646
+vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=&encryption=none&host=app.s7r.ir&type=ws#https://t.me/Configir98
