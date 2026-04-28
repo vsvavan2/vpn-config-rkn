@@ -1,1 +1,1 @@
-vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
+vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?path=/tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40deli_servers%20%231
