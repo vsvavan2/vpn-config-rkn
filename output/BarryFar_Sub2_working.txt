@@ -1,20 +1,20 @@
-vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto&path=/zyphervpnsalle&security=tls&encryption=none&insecure=1&host=vercel-xhttp-beta-flame.vercel.app&type=xhttp&allowInsecure=1&sni=nextjs.org#https://t.me/Configir98
+vless://53be9f61-cf58-4f9d-b0fc-a737857e0b28@arvancloud.ir:80?encryption=none&host=sharefiles.fitvitamin.ir&path=/upload?ed=256&security=none&type=ws#byiroh
 vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&type=xhttp&mode=auto&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&security=tls&fp=chrome&sni=f927b3b16dff26f5.mizgerdiran.com&alpn=h3,h2,http/1.1#https://t.me/bomb_server
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://5ea0379f-e5a6-4124-94e2-4add78b45a5a@arvancloud.ir:80?path=/&security=none&encryption=none&host=parmin10.passer01.ir&type=ws#mobo_game_land ⚽
+vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?type=xhttp&encryption=none&path=/&host=dalag.master33varkarjoo.ir&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=tls&fp=chrome&alpn=h2,http/1.1&sni=dalag.master33varkarjoo.ir#neet_done👈چنل تلگراممون
+vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto&path=/zyphervpnsalle&security=tls&encryption=none&insecure=1&host=vercel-xhttp-beta-flame.vercel.app&type=xhttp&allowInsecure=1&sni=nextjs.org#https://t.me/Configir98
 vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=/&security=tls&encryption=none&insecure=0&host=my.vulmart.ir&type=ws&allowInsecure=0&sni=my.vulmart.ir#FastNetTools3
 vless://7f6a8bf3-e8fc-473e-8acb-acee6321ec40@8.6.112.6:443?path=/test&security=tls&encryption=none&insecure=1&host=tbp.zuhn.ir&fp=chrome&type=ws&allowInsecure=1&sni=tbp.zuhn.ir#FastNetToolsترکیبی
-vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?type=xhttp&encryption=none&path=/&host=dalag.master33varkarjoo.ir&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=tls&fp=chrome&alpn=h2,http/1.1&sni=dalag.master33varkarjoo.ir#neet_done👈چنل تلگراممون
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.20.5.134:2053?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com&fp=chrome&mode=auto#Neet_done👈چنل تلگراممون
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#TEL;Father_vpn
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://53be9f61-cf58-4f9d-b0fc-a737857e0b28@arvancloud.ir:80?encryption=none&host=sharefiles.fitvitamin.ir&path=/upload?ed=256&security=none&type=ws#byiroh
-vless://5ea0379f-e5a6-4124-94e2-4add78b45a5a@arvancloud.ir:80?path=/&security=none&encryption=none&host=parmin10.passer01.ir&type=ws#mobo_game_land ⚽
-vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#iDeathBirth
-vless://53a26616-e6cc-4a89-84fc-6da466f16720@khan13.tarfandgallery.sbs:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan13.tarfandgallery.sbs#https://t.me/npv_tunnels
-vless://50e13a40-364d-4291-9279-5028a1410f4a@snapp.ir:80?type=ws&encryption=none&path=/&host=newbalance.zivaroid.ir&security=none#5G-skyportall
-vless://7d8212ef-d86b-4f75-9ab9-1f2bdb4e9f41@snapp.ir:80?encryption=none&type=ws&security=none&host=cpi.lithiumnet.ir&path=https://t.me/drvpn7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#TEL;Father_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
+vless://72005558-6498-4925-a005-98583360d500@snapp.ir:2052?path=/rsvpn&security=&encryption=none&host=rsvpn2.xchitozx.org&type=ws#NetMeli9-177
+vless://6b5373d4-ad2b-fe29-d01f-bb660553dac5@sdl.ciliko.ir:80?path=/&security=&encryption=none&type=ws#filembad-169
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#
 vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#https://t.me/ConfigX2ray
 vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#https://t.me/byiroh
-vless://6b5373d4-ad2b-fe29-d01f-bb660553dac5@sdl.ciliko.ir:80?path=/&security=&encryption=none&type=ws#filembad-169
+vless://65b13fcb-d6f8-45ed-a4d3-010234a07e55@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=an.8lack.ir&fp=chrome&type=ws&sni=an.8lack.ir#https://t.me/Configir98
+vless://88d75faf-ffc5-4c3f-bcc4-566019490d6a@185.143.233.5:80?path=/gamescore?ed=128&security=none&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=cdn3.restaurantworld.ir&type=ws#neet_done👈چنل تلگراممون
