@@ -1,20 +1,20 @@
-vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-215
 vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=vercel.com#https://t.me/RezZonez
 vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
-vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
 vless://d340e519-6b0f-4a84-84d7-431a72a98440@104.20.6.134:8443?path=/&security=tls&encryption=none&insecure=1&host=a1d.bioritalin.ir&type=ws&allowInsecure=1&sni=a1d.bioritalin.ir#TEL;Father_vpn
-vless://983da2df-bc52-4226-84c1-bbfef0704427@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#canfingV2rayNG-217
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
 vless://98ef96cd-7f4c-420c-8feb-8f16268017e2@104.18.12.149:8443?encryption=none&security=tls&sni=turkiye-fast.rocketset.fun&alpn=h2,http/1.1&fp=chrome&type=ws&host=turkiye-fast.rocketset.fun&path=/?ed=2560#
-vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?path=/&security=none&encryption=none&host=kootahkon.ir&type=ws#mobo_game_land 😉
+vless://983da2df-bc52-4226-84c1-bbfef0704427@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#canfingV2rayNG-217
+vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-215
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
+vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
 vless://9aeae0a6-c278-4207-98d8-accf79cb90d3@pov.iran-mehrbu.ir:8080?path=/&security=none&encryption=none&host=pro.kazempets.shop&type=ws#mobo_game_land
 vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?path=/&security=none&encryption=none&host=kootahkon.ir&type=ws#TEL;Father_vpn
-vless://a67f0b8a-b3ef-4f94-aa76-18e64c82250b@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 9757
-vless://a67f0b8a-b3ef-4f94-aa76-18e64c82250b@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 9752
-vless://a67f0b8a-b3ef-4f94-aa76-18e64c82250b@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 9758
-vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=none&spx=&encryption=none&host=app.s7r.ir&type=ws#sorenaconfig
+vless://b859b367-0165-420a-8ded-8d3bd66d28e8@snapp.ir:8880?path=/ws?ed=2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#filembad-261
+vless://95051aa9-b4a0-4344-9c8f-a40e1ffcc4f7@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=bn.8lack.ir&fp=chrome&type=ws&sni=bn.8lack.ir#mobo_game_land 🥏
+vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?path=/&security=none&encryption=none&host=kootahkon.ir&type=ws#mobo_game_land 😉
 vless://a67f0b8a-b3ef-4f94-aa76-18e64c82250b@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 9749
-vless://eaa8c37d-3991-4e5d-ba50-bd69e51952d8@vipfast.photoggenic.ir:80?path=/download&security=none&encryption=none&host=ftrox.hiilbertt.ir&type=ws#t.me/ConfigFori  -  Config 9755
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&security=none&type=ws&path=/getWorkerUpdates#
-vless://a67f0b8a-b3ef-4f94-aa76-18e64c82250b@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 9754
-vless://c99807ac-00cf-4e66-8771-8a892e2d103a@185.143.233.5:80?path=/gamescore?ed=128&security=none&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=cdn3.restaurantworld.ir&type=ws#telgram%Black_Star_Vpn
+vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=none&spx=&encryption=none&host=app.s7r.ir&type=ws#sorenaconfig
+vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=&encryption=none&host=app.s7r.ir&type=ws#https://t.me/ConfigX2ray
+vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=/ws&security=&encryption=none&host=app.s7r.ir&type=ws#https://t.me/byiroh
+vless://a67f0b8a-b3ef-4f94-aa76-18e64c82250b@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 9758
+vless://a67f0b8a-b3ef-4f94-aa76-18e64c82250b@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 9753
+vless://a67f0b8a-b3ef-4f94-aa76-18e64c82250b@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 9752
