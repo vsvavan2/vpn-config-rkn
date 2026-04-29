@@ -1,1 +1,1 @@
-vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@lactation.ucdavis.edu:443?path=/vless&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&fp=chrome&type=ws&sni=lactation.ucdavis.edu#4Mohsen-11954
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#%3E%3E%40v2nodes%3A%3AUS
