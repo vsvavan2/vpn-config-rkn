@@ -1,20 +1,20 @@
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#%40V2raysCollector%20%F0%9F%8C%88
 trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#vmessorg
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#VPNFAST_IR-50GB
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
-trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#New⚡
 trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#neet_done👈چنل تلگراممون
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?encryption=none&type=ws&host=2026.hhhhh.eu.org&path=/222.167.202.31:7443&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&alpn=http/1.1#
-vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#t.me/ConfigFori  -  Config 20439
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#v2ray_dalghak
 trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#New🚀
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#v2ray_dalghak
-trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#v2ray_dalghak
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe%20-%2010
+trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#New⚡
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#t.me/ConfigFori  -  Config 20449
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#byiroh-50GB
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#v2ray_dalghak
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2fassignment#%40V2raysCollector%20%F0%9F%9A%80
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?encryption=none&type=ws&host=2026.hhhhh.eu.org&path=/222.167.202.31:7443&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&alpn=http/1.1#
 vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto&path=/mambo&security=tls&encryption=none&insecure=1&host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app&type=xhttp&allowInsecure=1&sni=helm.sh#FastNetTools
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#t.me/OutlineVpnOfficial
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
-ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:443#%40V2raysCollector%20%F0%9F%A6%B4
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@85.208.108.63:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#v2ray_dalghak
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%40V2raysCollector%20%F0%9F%A5%8E
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?type=tcp&headerType=none#t.me/ConfigFori  -  Config 20264
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?type=tcp&headerType=none#v2ray_dalghak
-ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg@154.38.176.7:80#t.me/ConfigFori  -  Config 20257
+trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#v2ray_dalghak
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?type=tcp&headerType=none#t.me/ConfigFori  -  Config 20446
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?type=tcp&headerType=none#t.me/ConfigFori  -  Config 20445
