@@ -1,1 +1,1 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ip.sb:443?allowInsecure=1&encryption=none&fp=chrome&host=3-7ny.pages.dev&path=%2F&security=tls&sni=3-7ny.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://1a7a6b22-a062-48b7-9949-6038de8f6414@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimitemergency.net#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
