@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#%3E%3E%40v2nodes%3A%3AUS
+vless://AstroVPN-Official@kubernetes.io:443?mode=auto&path=/appxa&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=neon-pixie-167b20.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#https://t.me/Configir98
