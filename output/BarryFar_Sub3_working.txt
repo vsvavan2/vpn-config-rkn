@@ -1,20 +1,20 @@
-vless://AstroVPN-Official@kubernetes.io:443?mode=auto&path=/appxa&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=neon-pixie-167b20.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#https://t.me/Configir98
 vless://AstroVPN-Official@kubernetes.io:443?mode=auto&path=/appxa&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=neon-pixie-167b20.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#https://t.me/ConfigX2ray
-vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 20937
-vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 20942
-vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-236
-vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
+vless://Parsashonam@nextjs.org:443?mode=auto&path=/p4r34m&security=tls&encryption=none&insecure=0&host=poorya-vpn.vercel.app&type=xhttp&allowInsecure=0&sni=nextjs.org#p1ctok
+vless://AstroVPN-Official@kubernetes.io:443?mode=auto&path=/appxa&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=neon-pixie-167b20.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#FastNetTools
+vless://AstroVPN-Official@kubernetes.io:443?mode=auto&path=/appxa&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=neon-pixie-167b20.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#https://t.me/Configir98
+vless://Parsashonam@nextjs.org:443?mode=auto&path=/p4r34m&security=tls&encryption=none&insecure=0&host=poorya-vpn.vercel.app&type=xhttp&allowInsecure=0&sni=nextjs.org#p1ctok   وصله بزنید پینگش ضعیف ولی
 vless://d340e519-6b0f-4a84-84d7-431a72a98440@104.20.6.134:8443?path=/&security=tls&encryption=none&insecure=1&host=a1d.bioritalin.ir&type=ws&allowInsecure=1&sni=a1d.bioritalin.ir#FastNetTools3
-vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
-vless://aaa05982-88d1-4d6b-bb6c-d3199b3816c7@15.197.167.90:443?encryption=none&security=tls&sni=kubernetes.io&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=69f2643ae2bc55f3310f294d--fascinating-lamington-fdca32.netlify.app&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#byiroh
-vless://turboo-server@188.114.97.3:443?mode=auto&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#canfingV2rayNG-364
+vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#canfingV2rayNG-352
 vless://98ef96cd-7f4c-420c-8feb-8f16268017e2@104.18.12.149:8443?encryption=none&security=tls&sni=turkiye-fast.rocketset.fun&alpn=h2,http/1.1&fp=chrome&type=ws&host=turkiye-fast.rocketset.fun&path=/?ed=2560#
-vless://b5f25d9b-8f74-4b89-8498-abc0a50c780d@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=/IF_VPN_Bot&security=tls&type=ws#p1ctok
-vless://b5f25d9b-8f74-4b89-8498-abc0a50c780d@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=/IF_VPN_Bot&security=tls&type=ws#
+vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
+vless://dba2493d-5f5a-466a-bd8f-3b74b7f3d63b@H7.ELDENRINGSHOP.IR:2053?path=love&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=core.mehrsazi.ir#canfingV2rayNG-326
+vless://ddde08ac-55d5-433c-92e9-ff5190cf1800@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#mobo_game_land
 vless://dfb828c8-772c-48a4-855e-b526e03c1433@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&insecure=1&host=camp.nahidapp.com&type=ws&allowInsecure=1#[🇮🇷]
 vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#1100
-vless://dc0a97a1-62d3-46d1-a15c-4ab73852b5b8@snapp.ir:2086?type=ws&security=none&path=/&host=connect.pardisvps.ir#filembad-317
-vless://e4c0d6d1-2647-4da6-8ec3-231f9951ee2f@camp.nahidapp.com:443?path=%2ICV2RAY&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#filembad-335
-vless://a9b0e6c8-3ec6-49db-9fe4-616cddec356c@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=/IF_VPN_Bot&security=tls&type=ws#p1ctok
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&security=none&type=ws&path=/getWorkerUpdates#
+vless://telegram-id-@netstux@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=cpanel2.limitless-cloud.ir&type=ws#ProxyMtpVPN-380
+vless://b1058fae-d792-4a47-ab3f-7947089b499f@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#
+vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#
+vless://a34a5f3e-e9fa-40a6-f3af-2984adbd701b@178.104.118.247:2087?security=none&encryption=none&headerType=none&type=tcp&sni=178.104.118.247#FastNetTools1
+vless://9894a5bc-7e5b-4c1e-ae43-5052208d26a7@arvancloud.ir:8080?path=/stream&security=&encryption=none&host=host.mobile-oranous.ir&type=ws#ProxyMtpVPN-222
