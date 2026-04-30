@@ -1,20 +1,20 @@
 vless://Telegram-Parsashonam@kubernetes.io:443?encryption=none&security=tls&sni=kubernetes.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#kubernetes.io
 vless://Telegram-Parsashonam@blog.helm.sh:443?encryption=none&security=tls&sni=blog.helm.sh&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#blog.helm.sh
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@time.is:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21746
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@store.ubi.com:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21767
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@www.mc.js.cool:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21768
-vless://d4f44cf4-cbca-4313-9156-5a8498b20387@glob.thisiswe.uno:2053?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=godplease11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=godplease11.thisiswe.uno#t.me/ConfigFori  -  Config 21766
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@01-qq.com:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21762
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&host=1-2cd.pages.dev&fp=chrome&sni=1-2cd.pages.dev&path=/&encryption=none#t.me/ConfigFori  -  Config 21745
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21792
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@www.mc.js.cool:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21794
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21804
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21797
+vless://d4f44cf4-cbca-4313-9156-5a8498b20387@glob.thisiswe.uno:2053?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=godplease11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=godplease11.thisiswe.uno#t.me/ConfigFori  -  Config 21796
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#canfingV2rayNG-292
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.090227.xyz:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21808
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
 vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
-vless://Telegram-Parsashonam@image-builder.sigs.k8s.io:443?encryption=none&security=tls&sni=image-builder.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#image-builder.sigs.k8s.io
-vless://Telegram-Parsashonam@docs.helm.sh:443?encryption=none&security=tls&sni=docs.helm.sh&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#docs.helm.sh
-vless://Telegram-Parsashonam@gateway-api.sigs.k8s.io:443?encryption=none&security=tls&sni=gateway-api.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#gateway-api.sigs.k8s.io
-vless://Telegram-Parsashonam@cluster-api.sigs.k8s.io:443?encryption=none&security=tls&sni=cluster-api.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#cluster-api.sigs.k8s.io
-vless://Telegram-Parsashonam@krew.sigs.k8s.io:443?encryption=none&security=tls&sni=krew.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#krew.sigs.k8s.io
-vless://Telegram-Parsashonam@kubectl.docs.kubernetes.io:443?encryption=none&security=tls&sni=kubectl.docs.kubernetes.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#kubectl.docs.kubernetes.io
-vless://Telegram-Parsashonam@scheduler-plugins.sigs.k8s.io:443?encryption=none&security=tls&sni=scheduler-plugins.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#scheduler-plugins.sigs.k8s.io
-vless://Telegram-Parsashonam@kind.sigs.k8s.io:443?encryption=none&security=tls&sni=kind.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#kind.sigs.k8s.io
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.090227.xyz:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21799
+vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@store.ubi.com:443?security=tls&type=ws&ech=cloudflare-ech.com#t.me/ConfigFori  -  Config 21798
+vless://d4f44cf4-cbca-4313-9156-5a8498b20387@glob.thisiswe.uno:2053?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=godplease11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=godplease11.thisiswe.uno#t.me/ConfigFori  -  Config 21803
 vless://Telegram-Parsashonam@kustomize.sigs.k8s.io:443?encryption=none&security=tls&sni=kustomize.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#kustomize.sigs.k8s.io
+vless://Telegram-Parsashonam@scheduler-plugins.sigs.k8s.io:443?encryption=none&security=tls&sni=scheduler-plugins.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#scheduler-plugins.sigs.k8s.io
+vless://Telegram-Parsashonam@helm.sh:443?encryption=none&security=tls&sni=helm.sh&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#helm.sh
+vless://Telegram-Parsashonam@gateway-api.sigs.k8s.io:443?encryption=none&security=tls&sni=gateway-api.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#gateway-api.sigs.k8s.io
+vless://Telegram-Parsashonam@krew.sigs.k8s.io:443?encryption=none&security=tls&sni=krew.sigs.k8s.io&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=/p4r34m&mode=auto#krew.sigs.k8s.io
