@@ -1,6 +1,6 @@
-trojan://cebc8955-cb85-4c2c-82c3-1909cb897287@svip-us.xiaobaivpn.icu:28810?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clara%20%7C%20%5BBL%5D
-trojan://6eb766af-d50c-42b3-a938-7ff02230a954@svip-us.xiaobaivpn.icu:28810?allow_insecure=0&headerType=none&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clara%20%7C%20%5BBL%5D
 trojan://6CepD-rVGE5TFG2YQaTf5g@66.23.207.68:443?type=ws&host=telegram.org&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20National%20City%20%7C%20%5BBL%5D
 trojan://RFhD_PJu8gxqzX8UfM4CDQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20National%20City%20%7C%20%5BBL%5D
+trojan://6eb766af-d50c-42b3-a938-7ff02230a954@svip-us.xiaobaivpn.icu:28810?allow_insecure=0&headerType=none&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clara%20%7C%20%5BBL%5D
+trojan://cebc8955-cb85-4c2c-82c3-1909cb897287@svip-us.xiaobaivpn.icu:28810?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clara%20%7C%20%5BBL%5D
 trojan://162534@43.165.190.11:42841?type=ws&host=cchh2.pages.dev&path=/%3Fed%3D2560&security=tls&sni=cchh2.pages.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D

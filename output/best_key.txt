@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#%3E%3E%40v2nodes%3A%3AUS
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@www.gov.se:2083?encryption=none&security=tls&type=ws&sni=ss031.wang66.homes&host=ss031.wang66.homes&path=%2fblue#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_43
