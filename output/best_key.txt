@@ -1,1 +1,1 @@
-vless://TMG_2fc2e45b8f2@185.168.208.159:443?type=xhttp&security=reality&encryption=none&fp=firefox&pbk=qdEuXVpmRLR9B0oYhdItYjzU3_qPSr2mo_DNQJ61yjU&sid=2a87f59f37ab5a&sni=www.amazon.com&path=/6COcg-NySfG&host=amazon.com&mode=auto&spx=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Phoenix%20%7C%20%5BBL%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#%3E%3E%40v2nodes%3A%3AUS
