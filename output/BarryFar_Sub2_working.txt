@@ -1,20 +1,20 @@
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=proxy.rahmancloud.ir&fp=chrome&type=ws&allowInsecure=0#canfingV2rayNG-184
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#t.me/ConfigFori  -  Config 22373
-vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi1.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#canfingV2rayNG-193
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#t.me/ConfigFori  -  Config 22382
-vless://40afa553-1745-4f62-a380-4163c7bb4870@restless-dew-894b.amirhost4.workers.dev:443?allowInsecure=1&encryption=none&host=restless-dew-894b.amirhost4.workers.dev&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&type=ws#t.me/ConfigFori  -  Config 22376
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://662d440c-7567-41ec-b220-c7d69cb2f67c@Chatgpt.com:443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":1000000,"xPaddingBytes":"100-1000"}&insecure=0&type=xhttp&allowInsecure=0&sni=SHARAF.followerarzon1.com#canfingV2rayNG-171
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:8443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#t.me/ConfigFori  -  Config 22369
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#t.me/ConfigFori  -  Config 22371
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#t.me/ConfigFori  -  Config 22378
 vless://68eac0a8-199b-4b4b-a80f-f75111897a37@cursor.com:443?mode=auto&path=/Vel0vpn&security=tls&encryption=none&insecure=0&host=vel0vpn-two.vercel.app&type=xhttp&allowInsecure=0&sni=cursor.com#FastNetTools
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.225:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?telegram&security=tls&sni=sni.111000.v6.navy&type=ws#t.me/ConfigFori  -  Config 22374
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?ed&security=tls&sni=sni.111000.indevs.in&type=ws#t.me/ConfigFori  -  Config 22370
-vless://646f0953-b46c-447c-9d3d-bd135546bf83@185.143.234.21:8880?security=none&type=ws&headerType=&path=/&host=tr-st.ge9.ir#ᴛᴜʀᴋᴇʏ ¹ | 🇹🇷
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
+vless://662d440c-7567-41ec-b220-c7d69cb2f67c@Chatgpt.com:443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":1000000,"xPaddingBytes":"100-1000"}&insecure=0&type=xhttp&allowInsecure=0&sni=SHARAF.followerarzon1.com#canfingV2rayNG-171
+vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#canfingV2rayNG-165
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#t.me/ConfigFori  -  Config 22429
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.42.98:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#t.me/ConfigFori  -  Config 22435
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.138:2096?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#t.me/ConfigFori  -  Config 22427
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.139:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#t.me/ConfigFori  -  Config 22439
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=proxy.rahmancloud.ir&fp=chrome&type=ws&allowInsecure=0#canfingV2rayNG-184
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.4:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#t.me/ConfigFori  -  Config 22423
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.146.201.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#t.me/ConfigFori  -  Config 22434
+vless://3a6b6256-5a3d-4331-9126-c4db16dd67dc@104.20.6.134:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cfcf.metipoxbozorg.shop&fp=chrome&type=ws&allowInsecure=0&sni=cfcf.metipoxbozorg.shop#NetMeli9-117
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.62:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#t.me/ConfigFori  -  Config 22428
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.229.78:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#t.me/ConfigFori  -  Config 22425
+vless://69525c3a-2da9-4dcd-85f3-a92c66647f66@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#https://t.me/acccrd ♻️ بازیافت
