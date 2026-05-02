@@ -1,20 +1,20 @@
-vless://43e82139-1575-4f6a-bef3-5ea578807045@kubernetes.io:443?encryption=none&security=tls&sni=kubernetes.io&alpn=h2&fp=chrome&type=xhttp&host=wlf-relay-20.netlify.app&path=/proxy&mode=stream-up#t.me/ConfigFori  -  Config 23588
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=proxy.rahmancloud.ir#canfingV2rayNG-189
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.25.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#t.me/ConfigFori  -  Config 23671
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#
-vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=/zaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http/1.1&encryption=none&host=atoll.pashmparty.fun&fp=chrome&type=ws&sni=atoll.pashmparty.funoliver soul
-vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=/zaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http/1.1&encryption=none&host=atoll.pashmparty.fun&fp=chrome&type=ws&sni=atoll.pashmparty.funsaministamm
 vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=/zaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http/1.1&encryption=none&host=atoll.pashmparty.fun&fp=chrome&type=ws&sni=atoll.pashmparty.fun#vipV2rayNGnp
 vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=/zaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=atoll.pashmparty.fun&fp=chrome&type=ws&allowInsecure=0&sni=atoll.pashmparty.fun#FastNetTools
-vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=/zaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http/1.1&encryption=none&host=atoll.pashmparty.fun&fp=chrome&type=ws&sni=atoll.pashmparty.funUnNurmal
 vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=/zaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http/1.1&encryption=none&host=atoll.pashmparty.fun&fp=chrome&type=ws&sni=atoll.pashmparty.fun#UnNurmal
 vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=/zaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http/1.1&encryption=none&host=atoll.pashmparty.fun&fp=chrome&type=ws&sni=atoll.pashmparty.fun#saministamm
+vless://62d66671-0ab5-43b4-8a2f-3d74857fa5b2@185.143.233.68:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=backend.parhamm2.ir&sni=backend.parhamm2.ir&fp=chrome#فنلاند1 🇫🇮 40x
+vless://6d5e3f35-d9af-4b41-87a2-6dbd6f7eaf04@cdn3.whitepol4.ir:2052?path=/&security=none&enc
+vless://9b789004-b5c2-4f5b-b296-8f80a69741a8@khan22.tarfandgallery.sbs:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=khan22.tarfandgallery.sbs&type=ws#t.me/ConfigFori  -  Config 23670
 vless://6b70429e-a94a-43ce-9d9e-81ddd3d569d3@snapp.ir:80?path=/&security=none&encryption=none&host=vip.dijestbilty-en.ir&type=ws#یام‌یام پروکسی
-vless://4b0d64d9-9451-4bcc-a833-4239aac0cfe4@snapp.ir:8080?path=/&security=none&encryption=none&host=cdc.ashtona.ir&type=ws#FastNetTools
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@138.124.32.188:30047?encryption=none&security=none&type=ws&path=/#
