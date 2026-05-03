@@ -1,1 +1,1 @@
-ss://c3afb549-2c79-4787-9d67-ccd1581fb70f@a.nl.cdn.maviks.ru:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-de.maviks.ru&fp=chrome&type=ws&sni=cdn-de.maviks.ru#AutoAiVPN4025960
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cmcc.cloudflare.seeck.cn:443?security=tls&type=ws&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&host=hha.albertabobbi.ndjp.net&fp=chrome&sni=hha.albertabobbi.ndjp.net&path=/?ed=2560&encryption=none#t.me/ConfigFori  -  Config 24436
