@@ -1,1 +1,1 @@
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&amp%3Bpath=/p4r34m&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=YOUR_SUB_DOMAIN&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=kubernetes.io#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40parsashonam%20%232
+vless://5810d3fa-cf1a-4d88-9366-4a7d0a7bb690@speedtest.net:443?type=ws&amp;host=85.ir&amp;path=/?ed=1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2,http/1.1#تمامیهنتها🇩🇪
