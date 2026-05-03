@@ -1,1 +1,1 @@
-vless://1a7a6b22-a062-48b7-9949-6038de8f6414@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimitemergency.net#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+vless://5810d3fa-cf1a-4d88-9366-4a7d0a7bb690@speedtest.net:443?type=ws&amp;host=85.ir&amp;path=/?ed=1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2,http/1.1#تمامیهنتها🇩🇪
