@@ -1,1 +1,1 @@
-vless://5810d3fa-cf1a-4d88-9366-4a7d0a7bb690@speedtest.net:443?type=ws&amp;host=85.ir&amp;path=/?ed=1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2,http/1.1#تمامیهنتها🇩🇪
+vless://TMG_5d87fe6ab55@185.168.208.159:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=amazon.com&fp=firefox&pbk=qdEuXVpmRLR9B0oYhdItYjzU3_qPSr2mo_DNQJ61yjU&sid=491076f1d57a&spx=%2F&path=%2F6COcg-NySfG&host=amazon.com&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Phoenix%20%7C%20%5BBL%5D
