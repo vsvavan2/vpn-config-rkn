@@ -1,20 +1,20 @@
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=/download&security=&encryption=none&host=melovy.ir&type=ws#t.me/ConfigFori  -  Config 52772
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
-vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#canfingV2rayNG-313
-vless://turboo-server@188.114.97.3:443?mode=auto&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#canfingV2rayNG-398
-vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.64.144.169:2087?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#t.me/ConfigFori  -  Config 52773
-vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#canfingV2rayNG-323
+vless://bafacd98-136a-4530-838d-4e5c51838dac@cf7.danfeng.eu.org:2087?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&ech=encryptedsni.com#t.me/ConfigFori  -  Config 25748
+vless://e7d1cd9a-418c-4381-8dcf-758c2a571f30@react.dev:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=todo-phi-sooty.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=react.dev#t.me/ConfigFori  -  Config 25744
+vless://bafacd98-136a-4530-838d-4e5c51838dac@cf3.danfeng.eu.org:8443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&ech=encryptedsni.com#t.me/ConfigFori  -  Config 25747
 vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
-vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=/?ed=2087&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#https://t.me/ConfigX2ray
-vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=/?ed=2087&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#https://t.me/themecherie
-vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=/?ed=2087&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#Join ➣ b
-vless://a3f3a69a-1468-43f3-9f7f-11c05d183dc6@185.143.234.235:80?path=/&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#https://t.me/Config0plus
-vless://a3f3a69a-1468-43f3-9f7f-11c05d183dc6@185.143.234.235:80?path=/&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#https://t.me/themecherie
-vless://c8a390d4-743a-42d3-806c-2a4c6ee8b7df@cdn3.whitepol4.ir:2052?type=ws&security=none&path=/#NormanV2ray-309
-vless://a3f3a69a-1468-43f3-9f7f-11c05d183dc6@185.143.234.235:80?path=/&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#ترکیب | TirexNet
-vless://f21f7ade-1c2c-465c-b443-a7ae8929db65@varzesh3.com:8080?path=/&security=none&encryption=none&host=ma.nexoratechcenter.ir&type=ws#TEL;Father_vpn
-vless://e55b2a45-b95d-4759-8de9-8a175fb58b7c@Ikco.ir:8080?path=/cdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#filembad-336
-vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#
-vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#t.me/ConfigFori  -  Config 25577
+vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
+vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-308
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#filembad-340
+vless://c0395a82-18d0-4e3b-b8a3-20a032afb685@sr.novatechsapr.ir:80?path=/&security=none&encryption=none&host=sr.novatechsapr.ir&type=ws#FastNetTools
+vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=/?ed=2087&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir
+vless://cd890976-b705-4b09-ac2d-e3a59064c6df@snapp.ir:80?path=/&security=none&encryption=none&host=movie.slmastractor.ir&type=ws#FastNetTools
+vless://d0431b07-23fc-407d-bef8-fedc2d0e1cc3@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#t.me/ConfigFori  -  Config 53380
+vless://8eee83de-a0a3-48bb-9168-0f9f36060619@185.143.233.200:80?path=/&security=none&encryption=none&host=am.newshoppizii.ir&type=ws#RezZonez
+vless://992d4045-d0f1-4c38-8553-6bb8b1d73277@s4.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#t.me/ConfigFori  -  Config 53379
 vless://b2e6598a-447b-4d59-bb09-52a67d384117@Ikco.ir:8080?path=/cdn&security=&encryption=none&host=cp.movizdl.ir&type=ws#RezZonez
+vless://a171d29f-dd4a-4dea-8b8f-f11e4c710d9a@Tapsi.ir:8880?path=/cdn&security=none&encryption=none&host=vp.movizdl.ir&type=ws#TEL;Father_vpn
+vless://d20d82a5-6ffb-4c1f-a76d-508d652a5d26@185.143.233.200:8880?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.yrESAq1QmiAmSXlQw3b3ZZhzJVO6meM9Oi3p2B05EXo&host=nima.hayalco.ir&type=ws#filembad-317
