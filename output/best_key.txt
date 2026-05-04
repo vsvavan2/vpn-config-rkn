@@ -1,1 +1,1 @@
-vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?encryption=none&type=xhttp&mode=auto&host=jetfr228.global.ssl.fastly.net&path=%2F&security=none#[🇫🇷] [vl-no-xh] [251218-102802.211]
+vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?mode=auto&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=Spd-mynames.global.ssl.fastly.net&amp%3Btype=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
