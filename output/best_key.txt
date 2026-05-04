@@ -1,1 +1,1 @@
-vless://2e1a6471-2080-50cf-b974-abb4450a0030@185.168.208.159:443?fp=chrome&host=amazon.com&mode=auto&path=%2F6COcg-NySfG&pbk=qdEuXVpmRLR9B0oYhdItYjzU3_qPSr2mo_DNQJ61yjU&security=reality&sid=491076f1d57a&sni=amazon.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Phoenix%20%7C%20%5BBL%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime10.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
