@@ -1,1 +1,1 @@
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?mode=auto&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=Spd-mynames.global.ssl.fastly.net&amp%3Btype=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
+vless://2e1a6471-2080-50cf-b974-abb4450a0030@185.168.208.159:443?fp=chrome&host=amazon.com&mode=auto&path=%2F6COcg-NySfG&pbk=qdEuXVpmRLR9B0oYhdItYjzU3_qPSr2mo_DNQJ61yjU&security=reality&sid=491076f1d57a&sni=amazon.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Phoenix%20%7C%20%5BBL%5D

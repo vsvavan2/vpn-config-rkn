@@ -1,20 +1,20 @@
-vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
 vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&security=tls&sni=ajor.hellpresso.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#Free
+vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
 vless://db3d4f12-ed79-48a6-8b32-78f3ac3bf4ec@letsencrypt.org:443?mode=auto&path=/bah&security=tls&encryption=none&insecure=1&host=test.vaslima.de&type=xhttp&allowInsecure=1&sni=letsencrypt.org#NormanV2ray-334
-vless://a2cc49dc-0d3d-4a0f-87f0-b3d0a3c3b76f@snapp.ir:80?path=/ir&security=none&encryption=none&host=v1.y103.ir&type=ws#t.me/ConfigFori  -  Config 24948
-vless://f0927aeb-335c-4caa-9ada-a35c73e30be1@free.z1q1.cfd:80?encryption=none&host=free.z1q1.cfd&path=/24fh6sv00&security=none&type=ws#free-vzin575d-500MB📊-6D,14H⏳
-vless://ccc85e5a-9d02-4599-b465-9cb38103834e@anten.ir:2052?encryption=none&type=ws&path=/&host=new.nanoline.ir#filembad-309
 vless://c958aa39-6fd1-4146-aafb-d83c532473ea@snapp.ir:80?path=/&security=none&encryption=none&host=www.snappfood.snapp.ir.googlestudio.ir&type=ws#FastNetTools
-vless://daf76688-9ac3-4a7b-99d7-a5aa7c83f55d@sahel.kalatkuhestak.com:80?path=/&security=none&encryption=none&type=ws#Config0plus
-vless://c594ca1b-9523-641f-ba12-76b130c6d52f@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#FastNetTools
-vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=/&security=&encryption=none&type=ws#https://t.me/themecherie
-vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=/&security=&encryption=none&type=ws#https://t.me/Configir98
-vless://f2853d4e-12fa-4507-bbef-08e0a8f4d1e0@185.143.234.235:80?path=/&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#V2rayTun0
-vless://9c36456c-689f-486b-80a4-fe92ccc2aa75@snapp.ir:8080?path=/&security=none&encryption=none&host=website-speedtest.ir&type=ws#t.me/ConfigFori  -  Config 24942
-vless://beeb0067-6219-4506-bc4b-db6cde621da5@snapp.ir:2086?path=/&security=&encryption=none&host=best.tiredman-bit.ir&type=ws#filembad-303
 vless://dabf84d3-95b5-4c56-847b-654009175a83@varzesh3.com:8080?path=/&security=none&encryption=none&host=ma.nexoratechcenter.ir&type=ws#TEL;Father_vpn
-vless://9c36456c-689f-486b-80a4-fe92ccc2aa75@snapp.ir:8080?path=/&security=none&encryption=none&host=website-speedtest.ir&type=ws#t.me/ConfigFori  -  Config 24946
 vless://a171d29f-dd4a-4dea-8b8f-f11e4c710d9a@Tapsi.ir:8880?path=/cdn&security=none&encryption=none&host=vp.movizdl.ir&type=ws#TEL;Father_vpn
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?sni=nlety.ksnodes.net&alpn=http/1.1,h2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#t.me/ConfigFori  -  Config 24953
-vless://b84e9baa-65a8-4f7a-8b26-c5b62f9944dc@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=hn.8lack.ir&fp=chrome&type=ws&sni=hn.8lack.ir#t.me/ConfigFori  -  Config 24949
+vless://f2853d4e-12fa-4507-bbef-08e0a8f4d1e0@185.143.234.235:80?path=/&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#Config0plus
+vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=/&security=&encryption=none&type=ws#https://t.me/Configir98
+vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=/&security=none&encryption=none&type=ws#T.me%Pirimod
+vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=/&security=&encryption=none&type=ws#https://t.me/themecherie
+vless://9c36456c-689f-486b-80a4-fe92ccc2aa75@snapp.ir:8080?path=/&security=none&encryption=none&host=website-speedtest.ir&type=ws#t.me/ConfigFori  -  Config 24946
+vless://9c36456c-689f-486b-80a4-fe92ccc2aa75@snapp.ir:8080?path=/&security=none&encryption=none&host=website-speedtest.ir&type=ws#t.me/ConfigFori  -  Config 24942
+vless://ccc85e5a-9d02-4599-b465-9cb38103834e@anten.ir:2052?encryption=none&type=ws&path=/&host=new.nanoline.ir#filembad-309
+vless://daf76688-9ac3-4a7b-99d7-a5aa7c83f55d@sahel.kalatkuhestak.com:80?path=/&security=none&encryption=none&type=ws#Config0plus
+vless://beeb0067-6219-4506-bc4b-db6cde621da5@snapp.ir:2086?path=/&security=&encryption=none&host=best.tiredman-bit.ir&type=ws#filembad-303
+vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=/&security=none&encryption=none&type=ws#FastNetTools
+vless://c594ca1b-9523-641f-ba12-76b130c6d52f@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#FastNetTools
+vless://f21f7ade-1c2c-465c-b443-a7ae8929db65@varzesh3.com:8080?path=/&security=none&encryption=none&host=ma.nexoratechcenter.ir&type=ws#TEL;Father_vpn
+vless://f2853d4e-12fa-4507-bbef-08e0a8f4d1e0@185.143.234.235:80?path=/&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#V2rayTun0
