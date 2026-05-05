@@ -1,1 +1,1 @@
-vless://4b584ef1-2f2e-4111-a24b-b747537d3282@178.248.238.84:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Delta%20%E2%80%94%20%2326
+vless://26524cce-d514-4014-a426-365fb266a14d@141.148.164.46:57239?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=akrip7.beta-edge.fgfw.indevs.in&alpn=http%2F1.1&sni=akrip7.beta-edge.fgfw.indevs.in&fp=chrome&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
