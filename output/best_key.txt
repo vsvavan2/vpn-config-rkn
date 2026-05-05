@@ -1,1 +1,1 @@
-vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
+vless://e2286c5e-d910-405f-9bcb-b0e81188ad53@151.101.64.155:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=Lakpor.com&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
