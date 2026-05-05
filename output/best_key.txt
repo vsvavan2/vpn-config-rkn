@@ -1,1 +1,1 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@141.148.164.46:57239?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=akrip7.beta-edge.fgfw.indevs.in&alpn=http%2F1.1&sni=akrip7.beta-edge.fgfw.indevs.in&fp=chrome&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://5810d3fa-cf1a-4d88-9366-4a7d0a7bb690@speedtest.net:443?type=ws&amp;host=85.ir&amp;path=/?ed=1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2,http/1.1#تمامیهنتها🇩🇪
