@@ -1,3 +1,2 @@
-trojan://QwGUXzFXckGoS5x521ljaQ@66.23.207.68:443?type=ws&host=telegram.org&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20National%20City%20%7C%20%5BBL%5D
 trojan://tJoNvS4RJAAgHwMPO_FOTQ@216.105.168.58:443?type=ws&host=telegram.org&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-trojan://aNu0cX3WZjdEnH5G1BlZdA@216.105.168.58:443?type=ws&host=telegram.org&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+trojan://QwGUXzFXckGoS5x521ljaQ@66.23.207.68:443?type=ws&host=telegram.org&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20National%20City%20%7C%20%5BBL%5D
