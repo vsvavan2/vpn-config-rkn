@@ -1,20 +1,20 @@
-vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@fast2.mrsf.ir:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=PAS1.gLobAl.sSl.Fastly.nEt&fp=chrome&type=xhttp&allowInsecure=1&sni=mikishop.xyz#t.me/ConfigFori  -  Config 59263
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=kubernetes.io#t.me/ConfigFori  -  Config 27509
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.124:2096?&security=tls&fp=chrome&sni=kalami-eew.pages.dev&type=ws&headerType=none&host=kalami-eew.pages.dev&path=/#t.me/ConfigFori  -  Config 59272
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.74:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#🇩🇪 t.me/Natrixo BB
+vless://d5880da4-750c-4bdf-807f-0f6d5888f0f3@104.21.55.47:2095?path=?ed=2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#t.me/ConfigFori  -  Config 27635
+vless://e7d1cd9a-418c-4381-8dcf-758c2a571f30@react.dev:443?encryption=none&security=tls&sni=react.dev&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=todo-phi-sooty.vercel.app&path=/api&mode=auto&extra={"xPaddingBytes":"100-1000"}#NormanV2ray-290
+vless://d5880da4-750c-4bdf-807f-0f6d5888f0f3@104.18.26.90:2087?security=tls&encryption=none&insecure=0&host=aza002.vaslbash.site&type=ws&allowInsecure=0&sni=aza002.vaslbash.site#canfingV2rayNG-265
+vless://eb4ab797-08a3-439a-a3bc-8b88382b26f3@react.dev:443?mode=auto&path=/ali&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=sni-xhttp-indol.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=react.dev#t.me/ConfigFori  -  Config 27633
+vless://YOUR-UUID@vercel.com:443?encryption=none&security=tls&sni=vercel.com&type=xhttp&path=/yourpath&host=your-app.vercel.app#t.me/ConfigFori  -  Config 27626
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#canfingV2rayNG-292
 vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#t.me/ConfigFori  -  Config 59275
-vless://983da2df-bc52-4226-84c1-bbfef0704427@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#canfingV2rayNG-195
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#🇯🇵 t.me%2Pirimod BB
-vless://a574abf3-5314-4e04-a73e-f655d0c55785@arvancloud.ir:80?type=ws&encryption=none&path=/www&host=www.s7r.ir&security=none#e7989f91mitivpn176
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#یام‌یام
+vless://e5235257-5fa4-4089-ae41-be70a9ed90b3@yasdlcom-soft98ir-varzesh3com.vortex-new.store:8880?path=/&security=none&encryption=none&host=wildflower.vortex-new.store&type=ws#⏳🎁
+vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#
+vless://a3f3a69a-1468-43f3-9f7f-11c05d183dc6@185.143.234.235:80?path=/&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#ترکیب | oxnet_ir
+vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=/&security=none&encryption=none&host=vixon.portab.org&type=ws#t.me/ConfigFori  -  Config 27631
 vless://f0927aeb-335c-4caa-9ada-a35c73e30be1@free.z1q1.cfd:80?encryption=none&host=free.z1q1.cfd&path=/24fh6sv00&security=none&type=ws#free-vzin575d-500MB📊-6D,14H⏳
+vless://9f6979f5-fec9-4f40-b5f9-15dde47c6b91@185.143.233.5:2052?path=/&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#mobo_game_land 📱
+vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?encryption=none&security=none&type=ws&host=cdnisfucka.drnimaamini.ir&path=/ws#UnNurmal
 vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?path=/ws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#چنل کانفیگ عضو شو
-vless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?path=/&security=none&encryption=none&host=new.nanoline.ir&type=ws#FastNetTools
-vless://be473af0-2a23-41d8-9dcf-9532aa65dd33@melllipen.shop:2095?path=/xs&security=&encryption=none&host=melllipen.shop&type=ws#RezZonez
-vless://be473af0-2a23-41d8-9dcf-9532aa65dd33@melllipen.shop:2095?path=/xs&security=&encryption=none&host=melllipen.shop&type=ws#oliver_soul
-vless://9f5cc0aa-d4e8-44da-a440-becb16c0284d@snapp.ir:80?path=/&security=none&encryption=none&host=M1.snllshop.ir&type=ws#t.me/ConfigFori  -  Config 59266
-vless://e05ad0d3-5bf0-463d-9ba2-817680c6f895@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#https://t.me/ConfigX2ray
+vless://ade6424e-83ed-4e5c-8f81-93971423991e@185.143.234.200:443?encryption=none&type=ws&security=tls&path=/?ed=443&host=alef.ir.oadeflantrogm.mahanmapcdn.com&sni=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=chrome&allowInsecure=0#t.me/ConfigFori  -  Config 59645
 vless://bc6dd5e1-5e3a-408d-a936-f6d64bac65c1@varzesh3.com:2082?path=/&security=none&encryption=none&host=snappp.khanumjan.ir&type=ws#https://t.me/oliver_soul
-vless://e80d84b8-eaae-491d-88c5-c6f2650ee143@varzesh3.com:8080?path=/&security=none&encryption=none&host=shop2.plusself.ir&type=ws#t.me/ConfigFori  -  Config 27508
-vless://f20b416b-bf52-4b4e-bddb-41132f24cd62@badboybi2.yeksancloud.ir:80?path=/&security=none&encryption=none&host=badboybi2.yeksancloud.ir&type=ws#t.me/ConfigFori  -  Config 27510
+vless://d488da44-3971-48aa-ab19-0f034fb40fc6@185.143.233.5:80?path=/xray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#FastNetTools
