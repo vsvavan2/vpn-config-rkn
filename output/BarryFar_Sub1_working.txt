@@ -1,20 +1,20 @@
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARGO_VPNN_7
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#proxymelimon
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#v2ray_dalghak
 trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#vmessorg
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
+trojan://humanity@www.gossipglove.com:443?path=%2Fassignment%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#v2ray_dalghak
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.67.65.144:2083?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#v2ray_dalghak
 vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.jpmj.dev&sni=sni.jpmj.dev&allowInsecure=1#v2ray_dalghak
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@173.245.59.145:8443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#v2ray_dalghak
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#t.me/ConfigFori  -  Config 28170
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🇺🇸 t.me/Natrixo AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#🇺🇸 t.me/Natrixo AA
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng@66.94.125.178:443#%40V2raysCollector%20%E2%98%84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.255.22:990#%40V2raysCollector%20%F0%9F%AA%BB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.59:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%AC%F0%9F%87%A7%20UK%20%7C%20%40VpnMaan
+vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=/&security=none&encryption=none&host=sr.novatechsapr.ir&type=ws#ترکیبی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#t.me/ConfigFori  -  Config 28162
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?path=%2FgetWorkerUpdates%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night&type=ws#%40V2raysCollector%20%E2%9D%84%EF%B8%8F
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#t.me/OutlineVpnOfficial | Free | 3242 | United Kingdom
-vless://3159eeeb-9443-4afb-b65e-2c9324088f4f@ger1bot-ws.headerip.com:80?path=/&security=none&encryption=none&host=ger1.mv5.ir&type=ws#FastNetTools
+vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=/&security=&encryption=none&host=sr.novatechsapr.ir&type=ws #FreeConffning
+vless://1764bb7e-57c2-4e3f-b28d-2812a9b5e88a@yasdlcom-soft98ir-varzesh3com.vortex-new.store:8880?path=/&security=none&encryption=none&host=wildflower.vortex-new.store&type=ws#🎀
+vless://1c7e0dec-aed7-4362-beae-32442f7b04b7@Tapsi.ir:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=Zp.movizdl.ir&path=/cdn#ترکیبی
+vless://174377a8-7429-4793-af64-7d53e0675a84@tamin.ir:80?encryption=none&security=none&type=ws&host=mysql.reedsy.ir&path=/#filembad-48
+trojan://telegram-id-privatevpns@15.224.94.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
