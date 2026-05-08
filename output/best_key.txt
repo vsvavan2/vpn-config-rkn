@@ -1,1 +1,1 @@
-vless://6ec46182-5075-4633-a692-3debfe10de0f@amdiww.fastly80.hosting-ip.com:80?path=/&security=&encryption=none&host=speedtest.net.pl&type=ws#🇩🇪
+ss://dydar@speedtest.org:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dydar.%D7%A1%D7%95%D7%99%D7%95%D7%A9%D7%94.tech&amp;type=ws#%F0%9F%87%AB%F0%9F%87%B7%40VPN_OCEAN
