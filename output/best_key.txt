@@ -1,1 +1,1 @@
-vless://29af39ed-f8c8-49b8-9a5f-ea24fad97a09@151.101.129.203:443?path=/%3Fed%3D1024&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=fastopra.com&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=video.nordkapp-boats.no#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40minovpnch%20%231
+vless://6ec46182-5075-4633-a692-3debfe10de0f@amdiww.fastly80.hosting-ip.com:80?path=/&security=&encryption=none&host=speedtest.net.pl&type=ws#🇩🇪
