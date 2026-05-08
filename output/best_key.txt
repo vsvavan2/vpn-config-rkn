@@ -1,1 +1,1 @@
-vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?encryption=none&type=xhttp&mode=auto&host=jetfr228.global.ssl.fastly.net&path=%2F&security=none#[🇫🇷] [vl-no-xh] [251218-102802.211]
+vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli

@@ -1,20 +1,20 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?encryption=none&security=tls&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&fp=chrome&type=ws&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=/#🇩🇪 t.me/Natrixo BB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#filembad-145
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇱🇻 t.me/Natrixo BB
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#filembad-148
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 t.me/Natrixo BB
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 t.me/Natrixo BB
-vless://51e67502-3505-46af-9394-92340ed3859c@snapp.ir:2095?encryption=none&host=S01.electrodragon.ir&path=/&security=none&type=ws#
-vless://37dd5bed-5b9f-4910-b1d3-90346e2ab063@snapp.ir:80?path=/graphql?ed=2560&security=none&alpn=http/1.1&encryption=none&host=ss7.limitless-cloud.ir&fp=chrome&type=ws&sni=ss7.limitless-cloud.ir#N3
-vless://4caa91cb-d29a-4fd2-b722-93954feb33a7@arvancloud.ir:80?encryption=none&host=website.vgpsl.ir&path=upload?ed=256&security=none&type=ws#VIP232-1.00GB📊
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇳🇱 t.me/Natrixo AA
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#
 vless://606252cc-1c04-4e09-b5b1-f537dbcf5f58@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=firelinkk.arian-go-internet.ir&path=/
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
+vless://606252cc-1c04-4e09-b5b1-f537dbcf5f58@snapp.ir:80?path=/FIRELINKKVPN&security=none&encryption=none&host=firelinkk.arian-go-internet.ir&type=ws#تلگرام| 🚀AshpaziMidas🚀سفارش پیتزا روبیکا: powerro 🍕
+vless://4753f239-d847-4a94-b55c-c829110e41e7@snapp.ir:8080?type=ws&encryption=none&path=/&host=chatgpt.jahansportmarkazi.ir&security=none#filembad-124
+vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#oliver_soul
+vless://51e67502-3505-46af-9394-92340ed3859c@snapp.ir:2095?encryption=none&host=S01.electrodragon.ir&path=/&security=none&type=ws#
 vless://4a00b4a3-32cb-4df8-82f1-4b1dbaf2f478@ger1bot-ws.headerip.com:80?encryption=none&type=ws&path=/&host=ger1.mv5.ir#B_VPN_free
-vless://4a00b4a3-32cb-4df8-82f1-4b1dbaf2f478@ger1bot-ws.headerip.com:80?encryption=none&type=ws&path=/&host=ger1.mv5.ir#filembad-119
-vless://28678e36-7b13-49c4-b206-08dd1490c49a@miller.iransatellite.net:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#Neet_done👈چنل تلگراممون
-vless://4753f239-d847-4a94-b55c-c829110e41e7@snapp.ir:8080?type=ws&encryption=none&path=/&host=chatgpt.jahansportmarkazi.ir&security=none#t.me/ConfigFori  -  Config 63798
+vless://54b383e4-60b3-4617-ac40-2dd278341a76@miller.iransatellite.net:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#Neet_done👈چنل تلگراممون
+vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#KurdConfing
+vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80?path=/&security=none&encryption=none&host=d.nsa03.com&type=ws#NetMeli9-132
+vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@185.143.233.122:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#filembad-191
+vless://606252cc-1c04-4e09-b5b1-f537dbcf5f58@snapp.ir:80?path=/&security=none&encryption=none&host=firelinkk.arian-go-internet.ir&type=ws#TEL;Father_vpn
