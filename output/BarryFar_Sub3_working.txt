@@ -1,20 +1,20 @@
-vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-207
 vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?encryption=none&type=xhttp&security=tls&path=/api&host=relay-03sygudf.vercel.app&mode=auto&sni=nextjs.org&alpn=h2&fp=chrome&allowInsecure=0#https://t.me/Configir98
 vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?mode=auto&path=/api&security=tls&alpn=h2&encryption=none&insecure=0&host=relay-03sygudf.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#https://t.me/Pirimod
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.30:2083?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#🇩🇪 t.me/Natrixo BB
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.68:2053?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#🇩🇪 t.me/Natrixo BB
 vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?encryption=none&type=xhttp&security=tls&path=/api&host=relay-03sygudf.vercel.app&mode=auto&sni=nextjs.org&alpn=h2&fp=chrome&allowInsecure=0#https://t.me/Pirimod
+vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-207
 vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?mode=auto&path=/api&security=tls&alpn=h2&encryption=none&insecure=0&host=relay-03sygudf.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#https://t.me/Configir98
-vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
+vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=/&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#
-vless://e9c11f71-7fb6-4d4d-ab91-b1f9490d6f00@185.143.234.235:80?encryption=none&host=login.deltars.ir&path=/&security=none&type=ws#t.me/ConfigFori  -  Config 62371
-vless://d9e3ba92-6429-45aa-9383-bc8cece5bea7@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#%hs
-vless://e1d76dfb-9678-413b-832e-ff9a56c830d1@snapp.ir:2082?path=/&security=none&encryption=none&host=h.hshonar.ir&type=ws#filembad-294
-vless://bc6dd5e1-5e3a-408d-a936-f6d64bac65c1@varzesh3.com:2082?path=/&security=none&encryption=none&host=snappp.khanumjan.ir&type=ws#https://t.me/ConfigX2ray
-vless://bdffa6a0-8da1-4f6a-aede-bcda4daa6c1f@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#TEL;Father_vpn
-vless://d16df03b-e322-4a27-8ebb-4fe75241c2f7@z.deepax.ir:80?encryption=none&type=ws&path=/#Vipconfingg
-vless://d833b6d0-802f-4b96-9216-1836fcbdc90d@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#neet_done👈چنلمون
-vless://96e5b04f-4592-437e-9aba-0060e69a9c2c@zir.alihapps3.aghanami.ir:80?path=/&security=none&encryption=none&type=ws#https://t.me/Pirimod
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.68:2053?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#🇩🇪 t.me/Natrixo BB
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.30:2083?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#🇩🇪 t.me/Natrixo BB
+vless://9f4c3a72-a88e-4ee3-bee8-40901085a352@Tapsi.ir:8080?path=/cdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#TEL;Father_vpn
+vless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?type=ws&encryption=none&path=/&host=new.nanoline.ir&security=none#https://t.me/ConfigX2ray
+vless://eb3a12b1-f515-4cee-bb83-b4fba8ce4d39@ww.gooldiran.ir:8880?type=ws&encryption=none&path=/&host=&security=none#HERMES-1gigi
+vless://bb20e941-52b9-42bc-888e-0bd0c9f25490@miller.iransatellite.net:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#Neet_done👈چنل تلگراممون  ایرانسل وصل🔺  پرسرعت  حجم کانفیگ 2G  فوروارد کنید برای بقیه متصل شن🤍
+vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#
+vless://9f202995-a231-47ee-bbbc-fe153172e6a2@snapp.ir:2095?encryption=none&type=ws&path=/&host=S01.electrodragon.ir#vaslbemonim7
+vless://96e5b04f-4592-437e-9aba-0060e69a9c2c@zir.alihapps3.aghanami.ir:80?path=/&security=none&encryption=none&type=ws#https://t.me/Configir98
+vless://bb20e941-52b9-42bc-888e-0bd0c9f25490@miller.iransatellite.net:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#Neet_done👈چنل تلگراممون
