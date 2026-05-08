@@ -1,20 +1,20 @@
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#t.me/ConfigFori  -  Config 29991
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
 trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#vmessorg
+trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%40V2raysCollector%20%F0%9F%92%99
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9C%85%20%40V2raysCollector%2029-02
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http/1.1&type=ws&host=abest.api-tel.xyz&path=/#🇩🇪 t.me%2Pirimod AA
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#v2ray_dalghak
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9C%85%20%40V2raysCollector%2029-02
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http/1.1&type=ws&host=abest.api-tel.xyz&path=/#🇩🇪 t.me+yiroh AA
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40vpn_goldx&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%40V2rayng_Fast%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%20%D9%86%D8%B4%DB%8C%D8%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzb21lYm9keQ==@23.177.40.226:30011#t.me/ConfigFori  -  Config 29980
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.0.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=/XIXVPN?ed=2560#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#v2ray_dalghak
+trojan://humanity@185.18.250.245:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#v2ray_dalghak
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzb21lYm9keQ==@23.177.40.226:30011#t.me/ConfigFori  -  Config 29989
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#t.me/OutlineVpnOfficial | Free | 3307 | Canada
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#v2ray_dalghak
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--
-vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=/api&security=none&encryption=none&host=ryzo.px-ir.ir&type=ws#byiroh
-vless://174366a1-df28-476f-96d6-ac934d667339@apn.faz11.ir:80?path=/&security=none&encryption=none&type=ws#vipV2rayNGnp
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzb21lYm9keQ==@23.177.40.226:30011#t.me/ConfigFori  -  Config 29980
+vless://0146ee19-29eb-400b-b50b-b032bddafd65@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/IF_VPN_Bot&host=camp.nahidapp.com&allowInsecure=1#t.me/ConfigFori  -  Config 63911
+vless://054be705-6bbf-42cd-9970-acfc325a34ca@SNApp.ir:80?path=/Hoseisecu&security=&encryption=none&host=MMW.abanservers.ir&type=ws#https://t.me/Configir98
+vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80?path=/&security=none&encryption=none&host=d.nsa03.com&type=ws#t.me/ConfigFori  -  Config 29996
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990?type=tcp#v2ray_dalghak
 vless://054be705-6bbf-42cd-9970-acfc325a34ca@SNApp.ir:80?path=/Hoseisecu&security=&encryption=none&host=MMW.abanservers.ir&type=ws#2https://t.me/ConfigX2ray
-vless://054be705-6bbf-42cd-9970-acfc325a34ca@SNApp.ir:80?path=/Hoseisecu&security=&encryption=none&host=MMW.abanservers.ir&type=ws#
-vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=/api&security=none&encryption=none&host=ryzo.px-ir.ir&type=ws#vipV2rayNGnp
-vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=/&security=&encryption=none&host=sr.novatechsapr.ir&type=ws#oliver_soul

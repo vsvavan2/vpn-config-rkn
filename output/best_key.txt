@@ -1,1 +1,1 @@
-ss://dydar@speedtest.org:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dydar.%D7%A1%D7%95%D7%99%D7%95%D7%A9%D7%94.tech&amp;type=ws#%F0%9F%87%AB%F0%9F%87%B7%40VPN_OCEAN
+ss://06430296-e070-4048-ba38-3662c09e52bc@162.159.3.239:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=finland.hiytocloud.ir#AutoAiVPN20590417
