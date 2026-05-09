@@ -1,20 +1,20 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#t.me/ConfigFori  -  Config 30349
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.182:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#t.me/ConfigFori  -  Config 30350
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.11.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#t.me/ConfigFori  -  Config 30346
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.216.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 t.me/Natrixo BB
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#t.me/ConfigFori  -  Config 30352
-vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=/&security=none&type=ws#t.me/ConfigFori  -  Config 30345
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=/&security=tls&sni=sni.111000.cc.cd&type=ws#t.me/ConfigFori  -  Config 30353
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#t.me/ConfigFori  -  Config 30351
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.126:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#🇰🇷 t.me/Natrixo BB
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.44.211:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 t.me/Natrixo BB
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇱🇻 t.me/Natrixo BB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#t.me/ConfigFori  -  Config 30344
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.202:8443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 t.me/Natrixo BB
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
-vless://3c9b41c8-4c9d-43f0-8924-63d9d80da614@snapp.ir:2095?path=/ABcD&security=none&encryption=none&host=clud.extra-tm.ir&type=ws#vipV2rayNGnp
-vless://58f12a07-dbe8-45b0-92a6-3ce8d971c9f8@arvancloud.ir:80?path=/&security=&encryption=none&host=samrexnet.ir&type=ws#filembad-152
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇩🇪 t.me/Natrixo BB
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.25.173:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#🇩🇪 t.me/Natrixo BB
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 t.me/Natrixo BB
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇩🇪 t.me/Natrixo BB
+vless://58f12a07-dbe8-45b0-92a6-3ce8d971c9f8@arvancloud.ir:80?path=/&security=&encryption=none&host=samrexnet.ir&type=ws#filembad-133
+vless://53e280da-d1b1-459c-b3ac-c39cc376f94c@Tapsi.ir:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#Vpn_jet7
+vless://515fa878-1381-4b2e-877a-7394d7135d5c@arvan.servermeli.xyz:80?path=/&security=none&encryption=none&host=conf1.chitav2.com&type=ws#TEL;Father_vpn
+vless://61c05fb8-3f71-43fb-b498-77826dede5b8@snapp.ir:80?path=/&security=none&encryption=none&host=doost.victoriya.ir&type=ws#SoftNetConnect
+vless://7f750a82-22e1-4c11-9aee-1f5bee566451@snapp.ir:2086?path=/&security=none&encryption=none&host=sas.turbomail.ir&type=ws#qlbswenr-1.00GB📊  Channel ✅
+vless://606252cc-1c04-4e09-b5b1-f537dbcf5f58@snapp.ir:80?path=/&security=none&encryption=none&host=firelinkk.arian-go-internet.ir&type=ws#TEL;Father_vpn
+vless://4f080af6-1121-40a8-a44f-f19e748264b8@arvancloud.ir:2095?path=/stream&security=&encryption=none&host=hosting.linuweb.ir&type=ws#
+vless://7a610b4f-29ea-4a3d-84ef-904c8d0c9da1@snapp.ir:80?type=ws&path=/&host=simorgh.darerio.ir&security=none#filembad-174
