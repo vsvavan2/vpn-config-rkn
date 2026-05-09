@@ -1,1 +1,1 @@
-ss://1aefdc23-bb34-4b24-a89a-cc54c2dcc80a@173.245.58.100:2086?security=none&type=httpupgrade&host=finland.asraschool.ir&path=%2F%3Fed%3D2560#AutoAiVPN9594143
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@russia.com:8443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#%E7%BE%8E%E5%9B%BD_73
