@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.216:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&amp%3Bpath=/p4r34m&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=YOUR_SUB_DOMAIN&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=kubernetes.io#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40parsashonam%20%231
