@@ -1,20 +1,20 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?encryption=none&host=sni.111000.indevs.in&path=/?ed&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 t.me/Natrixo BB
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#🇱🇻 t.me/Natrixo BB
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 t.me/Natrixo BB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi1.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#canfingV2rayNG-145
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 t.me/Natrixo BB
+vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi3.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#canfingV2rayNG-159
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://7810d181-d2df-4593-a7f8-e62cf5dfc71a@BITPIN.IR:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=MELI.ARTARONA.IR&path=/#t.me/ConfigFori  -  Config 64527
-vless://4a76099a-602d-41ee-a31f-27fb9cb3af0a@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#filembad-114
-vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#https://t.me/STARVPN
-vless://48f5bb91-e126-4962-9e3b-bdd6a48d41e9@abr.superip.ir:80?encryption=none&type=ws&path=/#t.me/ConfigFori  -  Config 64569
-vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#RezZonez
-vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#v2rayRoom
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://4f080af6-1121-40a8-a44f-f19e748264b8@arvancloud.ir:2095?path=/stream&security=&encryption=none&host=hosting.linuweb.ir&type=ws#
+vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=/&security=none&encryption=none&type=ws#https://t.me/vipconfingg
+vless://67371138-a424-4d64-b72c-5eaabff80cfb@snapp.ir:80?encryption=none&type=ws&path=/&host=dy.borna-otbas.ir#t.me/ConfigFori  -  Config 64598
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#
 vless://4b3dc39a-7561-405c-b221-bb7038e8a6a7@snapp.ir:80?path=/&security=&encryption=none&host=moein.akosha.ir&type=ws#B_VPN_free
-vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#saministamm
-vless://5fdc33dc-d2b0-4cef-828c-154f2b828620@185.143.234.235:80?encryption=none&type=ws&path=/&host=Pwa.accara.ir#t.me/ConfigFori  -  Config 64526
-vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=/&security=none&encryption=none&host=ss.oppobot.ir&type=ws#
-vless://52f1878b-521e-46f6-b382-8ba57265ea0f@snappfood.ir:8080?encryption=none&type=ws&path=/ws&host=cdnisfucka.drnimaamini.ir#t.me/ConfigFori  -  Config 64541
+vless://535b69fc-bdca-40c4-bbe4-7b0f62920b60@snapp.ir:80?path=/&security=none&encryption=none&host=b.p0j.ir&type=ws#t.me/ConfigFori  -  Config 64609
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.82.25:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#🇱🇻 t.me/Natrixo BB
+vless://7367b8f8-4246-4742-8b5e-2ec1a55818ae@outalihapp.aghanami.ir:80?encryption=none&type=ws&path=/#t.me/ConfigFori  -  Config 64571
+vless://3d0e06ce-de86-4bcd-87ab-99b5b4e47ffe@snapp.ir:80?type=ws&encryption=none&path=/&host=gm.borna-otbas.ir&security=none#pl-T
+vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=/&security=none&encryption=none&type=ws#https://t.me/Pirimod
+vless://515fa878-1381-4b2e-877a-7394d7135d5c@arvan.servermeli.xyz:80?path=/&security=none&encryption=none&host=conf1.chitav2.com&type=ws#TEL;Father_vpn
