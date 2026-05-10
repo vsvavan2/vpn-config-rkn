@@ -1,1 +1,1 @@
-vless://2f51d8c3-bd8f-4101-96ef-80cb86dc71de@151.101.195.8:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=boro.aziranbegermany.com&type=xhttp#AutoAiVPN5431101
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.6.6:443?security=tls&sni=pages.20230619.love&fp=chrome&type=ws&path=/?ed%3D2048&host=pages.20230619.love&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20,%20Hesse
