@@ -1,20 +1,20 @@
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#%40Spotify_Porteghali+6061
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#v2ray_dalghak
+trojan://humanity@185.18.250.245:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#v2ray_dalghak
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#vmessorg
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
+vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@104.21.55.47:2095?path=?ed=2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#canfingV2rayNG-97
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.0:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#v2ray_dalghak
+trojan://humanity@www.multiplydose.com:443?allowInsecure=0&fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%40V2raysCollector%20%F0%9F%A4%8E
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg
+vless://f97612f8-bbe2-4862-9500-90657e409090@104.21.37.21:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/eyJqdW5rIjoiVjZJZVhKUEZJbERRa2lWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&sni=V2RaygULF.v2rayGULf3.WoRkERS.dev&fp=chrome&alpn=http/1.1#t.me/V2rayGulf4
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#v2ray_dalghak
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram+%40wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#v2ray_dalghak
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#v2ray_dalghak
-vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@104.21.55.47:2095?path=?ed=2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#canfingV2rayNG-97
-vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg
-vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?security=none&encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&type=ws#lldalall
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206RXlGb2N0Zlh5SVFWejA4bVBTc1B2Zm9sbmF1RDN3VE5qSk5ocEVFbTVSaz06WVRVbnFlejRhUUdGbS9OTWdpaW5kTzh1bk43QS9iQzFYSm5uS1B1TTlKOD0=@130.51.23.246:443#🇺🇸 t.me/Natrixo AA
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng@66.94.125.178:443#%40V2raysCollector%20%E2%98%84
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🇺🇸 t.me/Natrixo AA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%40V2raysCollector%20%F0%9F%8C%88
-vless://2ed014f5-dfaa-472c-9e64-91cc915b7ac8@185.143.235.21:8080?encryption=none&security=none&type=ws&host=tr-st4.ge9.ir&path=/path#vipV2rayNGnp
+vless://e80c5348-5a5c-41f0-a78d-7a781f47afce@80.92.205.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MA_hDjnzRmn4qL60EqyybXYzuE_2Ap8FhJQ82szMDww&sid=1434b433&sni=store.steampowered.com#%40V2raysCollector%20%F0%9F%92%9D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%40V2raysCollector%20%F0%9F%A5%8E
+vless://35431605-610b-4e20-9c0d-25c3616ff05b@snapp.ir:80?encryption=none&security=none&type=ws&host=brand2.bi6x.ir&path=/API/superip#filembad-112
+vless://1a898811-05ef-4b27-94f4-6a7324898beb@ite.pishvatech.lol:80?type=ws&encryption=none&path=/&host=&security=none#
 vless://0335c5c1-30b2-4ee1-948e-fab90c4d461f@arvancloud.ir:80?path=/&security=&encryption=none&host=im.rednytest.store&type=ws#B_VPN_free
-vless://2ed014f5-dfaa-472c-9e64-91cc915b7ac8@185.143.235.21:8080?encryption=none&security=none&type=ws&host=tr-st4.ge9.ir&path=/path#vaslbemonim7
-vless://1f05e36f-cf5d-485f-b52b-9a078829a6e7@snapp.ir:80?encryption=none&type=ws&path=/?ed=2080&host=1.jojo.avenflow.ir#B_VPN_free
-vless://21699bbd-ebcc-48b8-b68b-7c2ca67d930b@VARZESH3.COM:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=A6.artarona.ir&path=/#Neet_done👈چنل تلگراممون
-vless://2ed014f5-dfaa-472c-9e64-91cc915b7ac8@185.143.235.21:8080?encryption=none&security=none&type=ws&host=tr-st4.ge9.ir&path=/path#https://t.me/vipconfingg
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?encryption=none&security=none&type=ws&host=cdn.linoxa.ir&path=/path#vaslbemonim7
