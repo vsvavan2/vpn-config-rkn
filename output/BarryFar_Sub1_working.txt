@@ -1,20 +1,20 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg
 vless://2309fcbe-b374-4dce-8695-2185c165c725@react.dev:443?mode=auto&path=/ips&security=tls&encryption=none&extra={  "xPaddingBytes" : "100-1000"}&insecure=0&host=wirex-balancc.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=react.dev#t.me/ConfigFori  -  Config 64939
-trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%40VPNSSHOCEAN%2028
-vless://2309fcbe-b374-4dce-8695-2185c165c725@react.dev:443?encryption=none&security=tls&sni=react.dev&alpn=http/1.1,h2&fp=chrome&type=xhttp&host=wirex-balancc.vercel.app&path=/ips&mode=auto&extra={  "xPaddingBytes" : "100-1000"}#t.me/ConfigFori  -  Config 64943
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
 trojan://8r<[9'l6hAO#8ZQi@104.20.6.134:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#vmessorg
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
+vless://2309fcbe-b374-4dce-8695-2185c165c725@react.dev:443?encryption=none&security=tls&sni=react.dev&alpn=http/1.1,h2&fp=chrome&type=xhttp&host=wirex-balancc.vercel.app&path=/ips&mode=auto&extra={  "xPaddingBytes" : "100-1000"}#t.me/ConfigFori  -  Config 64943
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9C%85%20%40V2raysCollector%2029-02
+trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&allowInsecure=1#%40V2raysCollector%20%F0%9F%A4%8D
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg
+trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40flyv2ray
+trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#v2ray_dalghak
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#v2ray_dalghak
+vless://e80c5348-5a5c-41f0-a78d-7a781f47afce@80.92.205.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MA_hDjnzRmn4qL60EqyybXYzuE_2Ap8FhJQ82szMDww&sid=1434b433&sni=store.steampowered.com#%40V2raysCollector%20%F0%9F%92%9D
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#proxy_kafee
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.5.134:2053?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.138:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#v2ray_dalghak
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#United+States
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142#United+States
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
 ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg==@154.53.63.32:443#%40V2raysCollector%20%F0%9F%8D%8E
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:443#v2ray_dalghak
-vless://2c16ee81-4e8e-4f93-b9d3-39ac56d847f9@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&path=/gamescore?ed=128&host=cdn9.restaurantworld.ir#t.me/ConfigFori  -  Config 64965
-vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#Serverfast
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?encryption=none&type=ws&path=/path&host=cdn.linoxa.ir#lldalall
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=/path&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#ترکیبی+سایفون+3
-vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&headerType=&type=tcp#
-vless://18cc0a8d-de49-467a-861d-e44255c53334@snapp.ir:80?path=/FIRELINK&security=&encryption=none&host=firelink.arian-go-internet.ir&type=ws#t.me/ConfigFori  -  Config 64956
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?encryption=none&security=none&type=ws&host=cdn.linoxa.ir&path=/path#vaslbemonim7
-vless://08c297b6-c09a-4c51-a620-c5c122daea7a@snapp.ir:2095?type=ws&encryption=none&security=none&path=/ABcD&host=clud.extra-tm.ir#v2rayng_vpn403
-vless://1aa64ceb-94d3-48f0-b86d-99ac1ac2f7c0@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=ss1.limitless-cloud.ir&type=ws#t.me/ConfigFori  -  Config 64930
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
