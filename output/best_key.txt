@@ -1,1 +1,1 @@
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@api.speedload.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=api.speedload.ru&mode=auto&path=%2F&security=tls&sni=api.speedload.ru&type=xhttp#№103 🇱🇻 Латвия, Speedload
+vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@lactation.ucdavis.edu:443?path=/vless&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&fp=chrome&type=ws&sni=lactation.ucdavis.edu # 🔒 [By EbraSha]
