@@ -1,1 +1,1 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.169.19.179:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@160.153.0.183:8080?security=none&type=httpupgrade&host=GpWxAjKj55.tItImOjI-F6.fUn#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-160.153.0.183:8080
