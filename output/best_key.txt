@@ -1,1 +1,1 @@
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?&security=tls&fp=chrome&sni=terazhedi.info&type=ws&headerType=none&host=terazhedi.info&path=%2Fsghiyws#%5BVless%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20VLESS-81%20%7C%20free-nodes
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.169.19.179:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
