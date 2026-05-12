@@ -1,20 +1,20 @@
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-208
 vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-208
 vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi2.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#canfingV2rayNG-156
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#🇺🇸 t.me/Natrixo AA
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
-vless://7337f0ad-ba98-4ade-8c8a-8bec0990dfa7@digipay.ir:80?type=ws&encryption=none&path=/&host=asd.pixserver.ir&security=none#B_VPN_free
-vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/#UnNurmal
-vless://8d000228-1f6c-48f5-9156-6987aade7c52@snapp.ir:8080?path=/&security=none&encryption=none&host=cdn.welovegod.top&type=ws#t.me/ConfigFori  -  Config 64955
-vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/voip&host=pishparda.ir&sni=isna.ir&fp=chrome&allowInsecure=1#saministamm
-vless://beac5fba-695f-4419-89b6-2ec8426865a5@185.143.234.122:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=ai.abrzal.ir&path=/&security=tls&sni=ai.abrzal.ir&type=ws#t.me/ConfigFori  -  Config 64958
-vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#v2rayRoom
-vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#🇺🇸 t.me/Natrixo AA
+vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?encryption=none&security=none&type=ws&host=javid-2.toraniq.ir&path=/#t.me/ConfigFori  -  Config 64944
 vless://85607931-024c-40b1-8632-33d7143d6203@snapp.ir:2095?type=ws&encryption=none&security=none&path=/ABcD&host=clud.extra-tm.ir#v2rayng_vpn403
 vless://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.188#
-vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/voip&host=pishparda.ir&sni=isna.ir&fp=chrome&allowInsecure=1#SryLove
+vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#v2rayRoom
+vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=/vless&security=tls&encryption=none&insecure=0&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=0#
+vless://92311604-1fca-4e98-b528-46034e7894d7@api.digimobile.bond:443?path=/buyingfromgogle&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#t.me/ConfigFori  -  Config 64934
+vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/voip&host=pishparda.ir&sni=isna.ir&fp=chrome&allowInsecure=1#vipV2rayNGnp
+vless://8d000228-1f6c-48f5-9156-6987aade7c52@snapp.ir:8080?path=/&security=none&encryption=none&host=cdn.welovegod.top&type=ws#t.me/ConfigFori  -  Config 64955
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/#RezZonez
+vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://759f3bf2-ac6c-459b-905d-5d6088f422c4@185.143.233.167:2087?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=chat3.novationvps.ir#t.me/ConfigFori  -  Config 64950
+vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/voip&host=pishparda.ir&sni=isna.ir&fp=chrome&allowInsecure=1#saministamm
 vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#KurdConfing
-vless://bb5df8f4-bad5-4178-8dfe-7aacf0d98edf@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=conf.seim-ss.ir&path=/#Neet_done👈چنل تلگراممون
-vless://7810d181-d2df-4593-a7f8-e62cf5dfc71a@BITPIN.IR:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=MELI.ARTARONA.IR&path=/#Neet_done👈چنل تلگراممون
-vless://759f3bf2-ac6c-459b-905d-5d6088f422c4@185.143.233.167:2087?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=chat3.novationvps.ir#t.me/ConfigFori  -  Config 64951
+vless://7337f0ad-ba98-4ade-8c8a-8bec0990dfa7@digipay.ir:80?type=ws&encryption=none&path=/&host=asd.pixserver.ir&security=none#B_VPN_free
