@@ -1,1 +1,1 @@
-vless://1a7a6b22-a062-48b7-9949-6038de8f6414@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimitemergency.net#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?&security=tls&fp=chrome&sni=terazhedi.info&type=ws&headerType=none&host=terazhedi.info&path=%2Fsghiyws#%5BVless%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20VLESS-81%20%7C%20free-nodes
