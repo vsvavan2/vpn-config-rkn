@@ -1,1 +1,1 @@
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&amp%3Bpath=/p4r34m&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=YOUR_SUB_DOMAIN&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=kubernetes.io#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40parsashonam%20%231
+ss://aadbf0d6-6a32-4473-8a87-5b17db90e035@practical-complaint.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#AutoAiVPN749
