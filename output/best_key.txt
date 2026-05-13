@@ -1,1 +1,1 @@
-vless://5810d3fa-cf1a-4d88-9366-4a7d0a7bb690@speedtest.net:443?type=ws&amp;host=85.ir&amp;path=/?ed=1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2,http/1.1#تمامیهنتها🇩🇪
+vless://2e9aa27d-8977-46fe-85ab-28aba1517210@arusi-khunin.pages.dev:8443?security=tls&sni=arUsi-khuNin.PageS.DEv&alpn=http/1.1&fp=randomized&type=ws&path=/7OOyGWFqgrhb1Ud2/MjEzLjE1OS43Ni4xNzUsMi41Ni4yMDQuMTgz?ed%3D2560&host=arusi-khunin.pages.dev&encryption=none#AutoAiVPN4973809
