@@ -1,1 +1,1 @@
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=redlabell.info&insecure=1&allowInsecure=1&type=ws&host=redlabell.info&path=/aafeuws#🇳🇱[openproxylist.com]
+trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
