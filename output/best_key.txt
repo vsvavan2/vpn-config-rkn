@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@www.parsvds.ir:8080?path=/telegram%3DV_2RAYNGVPN&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=FySuMyYk3.aMirsiTesos.sItE.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v_2rayngvpn%20%232
