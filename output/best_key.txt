@@ -1,1 +1,1 @@
-vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
+vless://5810d3fa-cf1a-4d88-9366-4a7d0a7bb690@speedtest.net:443?type=ws&amp;host=85.ir&amp;path=/?ed=1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2,http/1.1#تمامیهنتها🇩🇪
