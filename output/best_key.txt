@@ -1,1 +1,1 @@
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?&security=tls&fp=chrome&sni=redlabell.info&type=ws&headerType=none&host=redlabell.info&path=%2Faafeuws#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-tl-ws%5D%20%5B251218-011510.666%5D
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=ir1.airpanel.top&fp=chrome&type=ws&allowInsecure=1&sni=ir1.airpanel.top#%40V2ray_confiig`
