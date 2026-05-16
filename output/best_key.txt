@@ -1,1 +1,1 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@4.236.130.132:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
+vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?&security=tls&fp=chrome&sni=redlabell.info&type=ws&headerType=none&host=redlabell.info&path=%2Faafeuws#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-tl-ws%5D%20%5B251218-011510.666%5D
