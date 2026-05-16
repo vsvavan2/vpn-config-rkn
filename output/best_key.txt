@@ -1,1 +1,1 @@
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@duke.ns.cloudflare.com:443?encryption=none&security=tls&sni=edgb.aimercc.dpdns.org&alpn=h3&fp=random&type=ws&host=edgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#AutoAiVPN3721553
+vless://1a7a6b22-a062-48b7-9949-6038de8f6414@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimitemergency.net#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
