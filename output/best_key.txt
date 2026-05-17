@@ -1,1 +1,1 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2053?allowInsecure=1&encryption=none&host=Ciallo-eGB.PageS.dev&path=%2F%25252F&security=tls&sni=Ciallo-eGB.PageS.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+ss://c61fd003-1ad7-44fb-9bfc-da6382c6f4d3@entrainmentworld.de:2083?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=entrainmentworld.de&type=ws&allowInsecure=0#AutoAiVPN21600733
