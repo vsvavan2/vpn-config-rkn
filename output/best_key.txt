@@ -1,1 +1,1 @@
-vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@lactation.ucdavis.edu:443?path=/vless&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&fp=chrome&type=ws&sni=lactation.ucdavis.edu # ⚡ [By EbraSha]
+vless://3875f716-ba0d-4f0f-b1e4-8392bd446045@poloniex.com:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&type=ws&headerType=none&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&path=%2Fws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B251218-011620.689%5D
