@@ -1,1 +1,1 @@
-vless://5810d3fa-cf1a-4d88-9366-4a7d0a7bb690@speedtest.net:443?type=ws&amp;host=85.ir&amp;path=/?ed=1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2,http/1.1#تمامیهنتها🇩🇪
+vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#T.me%2Fi10VPN%F0%9F%8C%92
