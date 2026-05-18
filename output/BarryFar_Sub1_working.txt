@@ -1,20 +1,20 @@
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%40V2raysCollector%20%F0%9F%92%99
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#%40V2raysCollector%20%F0%9F%8C%B6
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
+vless://b03db3b9-6edb-4aef-8485-41c66e502487@188.114.96.1:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/eyJqdW5rIjoicGtPV3BFY3BySDMwSUYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&sni=24VvD-4imRvfaQv7hQxYbU9WzJv378Qi.v2Raygulf.WorkeRS.DeV&fp=chrome&alpn=http/1.1#t.me/V2rayGulf
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#%40V2raysCollector%20%F0%9F%92%A5
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#v2ray_dalghak
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%40V2raysCollector%20%F0%9F%91%BA
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.193.213.238:2096?path=%2F&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#v2ray_dalghak
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
-trojan://humanity@172.64.155.209:443?path=/assignment&security=tls&host=www.gossipglove.com&allowinsecure=0&type=ws&sni=www.gossipglove.com#%40V2raysCollector%20%F0%9F%99%89
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:443?path=%2F&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#v2ray_dalghak
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0#v2ray_dalghak
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.189.153:443?path=%2Fpdf%2Fservicesfp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen3.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen3.cc.cd#Pro%204%20%40Outline_Vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%40V2raysCollector%20%F0%9F%94%91
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 t.me/Natrixo AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#%F0%9F%87%A6%F0%9F%87%AAtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#[
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#United+States
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&type=tcp&path=%2f#%40V2raysCollector%20%F0%9F%AB%B5
-vless://36d51eae-04be-473f-9a34-096e2f466826@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73730
-vless://358e8d08-65f0-4ef3-9686-7dfb16211439@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73731
-vless://011305c1-03fe-462f-9aaa-036dad707acc@snapp.ir:80?path=/w&security=none&encryption=none&host=pars.dipax.ir&type=ws#هدیه😁
-vless://10f9679b-a44b-4104-a3d7-9f06059ca0e7@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#test-v2rayng_vpn403
-vless://006e4730-9370-48fa-a7be-98e49833ca6e@185.143.234.235:80?encryption=none&type=ws&path=/&host=felorida4.newcallapphelper.online#t.me/ConfigFori  -  Config 73745
-vless://2afabae4-6a9f-4b41-afa1-97f1cba88b26@185.143.233.5:2096?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#Vpn_jet7
-vless://37643138-3432-4631-b162-643534316266@185.143.235.115:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#Dv
-vless://1ad99442-467a-4f3c-852f-9d4573b6cb73@pro.irangtp.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#filembad-43
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#[
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
+ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA==@149.102.132.180:80#%40V2raysCollector%20%F0%9F%8C%B7
+vless://061183f9-a722-4707-9160-3a2ee47209b3@nobitex.ir:80?path=/&security=&encryption=none&host=support.mindigosupport.ir&type=ws#FlashTunnelx
