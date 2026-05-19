@@ -1,1 +1,1 @@
-vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
+ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:8443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#AutoAiVPN21243727
