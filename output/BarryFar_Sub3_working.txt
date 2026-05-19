@@ -1,20 +1,20 @@
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"1-1","scMaxEachPostBytes":"1000000","headers":{"x-host":"netlify.parsashonam.sbs:444"}}&insecure=1&host=ir-netlify-unlimited-new.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#t.me/ConfigFori  -  Config 73747
 vless://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73735
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#
+vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"1-1","scMaxEachPostBytes":"1000000","headers":{"x-host":"netlify.parsashonam.sbs:444"}}&insecure=1&host=ir-netlify-unlimited-new.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#t.me/ConfigFori  -  Config 73747
+vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
-vless://d709e3db-0482-450b-9d05-2d816f782e63@snapp.ir:8880?path=/&security=none&encryption=none&host=bot.stnolenza.ir&type=ws#🇮🇷25632 | ⚡️Telegram = t.me/SOSkeyNET
-vless://da992858-3123-4aea-9bb5-6c8f8d74688d@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#7https://t.me/ConfigX2ray
-vless://a09f9c44-ef01-441c-af87-ee8fb211f90f@plusred0shop10.lol:8880?encryption=none&type=ws&path=/yu&host=plusred0shop10.lol#🇮🇷25664 | ⚡️Telegram = t.me/SOSkeyNET
-vless://9099c893-7ebc-4bc7-bd95-43c3d05786f2@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷25622 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b4770c62-80f6-4257-a0c6-0241d1615297@blubank.sb24.ir:2086?security=none&type=ws&headerType=&path=/path&host=tr-st2.ge9.ir#🇮🇷25687 | ⚡️Telegram = t.me/SOSkeyNET
-vless://9af117c5-8ed2-4fa6-b848-73f2c73eaabb@185.143.233.122:80?path=/&security=none&encryption=none&host=ww1.movieda-farsi.ir&type=ws#🇮🇷25702 | ⚡️Telegram = t.me/SOSkeyNET
-vless://ce97dacf-543b-fde7-da6c-7aec56e814c1@tvv.theretro.ir:8880?path=/&security=none&encryption=none&type=ws#🇮🇷25641 | ⚡️Telegram = t.me/SOSkeyNET
-vless://cd81cfc0-363a-4e01-a5b0-6ff803114b81@snapp.ir:8080?type=ws&encryption=none&path=/Embestpro1&host=Cyrus.zomavo.ir&security=none#v2rayng_vpn403
-vless://927a7884-9f94-4073-acae-711e20ef793b@fpq.shopiranni.ir:80?encryption=none&host=&path=/2&security=none&type=ws#🇮🇷25607 | ⚡️Telegram = t.me/SOSkeyNET
-vless://ce97dacf-543b-fde7-da6c-7aec56e814c1@tvv.theretro.ir:8880?path=/&security=none&encryption=none&type=ws#🇮🇷25642 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e757b0a0-d217-41c8-8177-05b7f2ab3462@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#8https://t.me/ConfigX2ray
-vless://a2d8a244-a7f4-d272-84f7-1753f9eeec94@185.143.232.200:80?path=/ws-de2-sever2-virtupulse&security=&encryption=none&host=dl.de2.server2.virtupulse.ir&type=ws#🇮🇷25677 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e813abf8-6def-4884-8425-10a33756d6ea@varzesh3.com:8080?path=/cdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#V2rayng_Fast
-vless://e413a058-9ec2-4e32-8041-8529c4e79043@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=ss9.limitless-cloud.ir#
-vless://89e6e690-6fca-435d-b286-c65a9925a65b@fl1bot-ws.headerip.com:80?path=/&security=none&encryption=none&host=fl1.mv5.ir&type=ws#Vpn_jet7
+vless://c1f99cb2-dc0a-417f-8f22-9f5b788d084d@v2iramir.real-xui.ir:80?type=ws&encryption=none&path=/&host=&security=none#اختصاصی ProxyV2IR
+vless://cd81cfc0-363a-4e01-a5b0-6ff803114b81@snapp.ir:8080?type=ws&encryption=none&path=/Embestpro1&host=Cyrus.zomavo.ir&security=none#🇮🇷25628 | ⚡️Telegram = t.me/SOSkeyNET
+vless://bd6e4c14-9d2b-4fa8-a3cf-1b74dd78ede7@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/V2rayng_vpn403
+vless://cb4989f0-487c-4512-bbec-91514b9bd466@plusred0shop8.lol:2052?type=ws&encryption=none&path=/YP&host=Plusred0shop8.lol&security=none#🇮🇷25735 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c998f60d-c7cd-4bc1-b0b9-33f6122625ee@185.143.235.200:2082?path=/snapp&security=none&encryption=none&host=sss.aztt.ir&type=httpupgrade#🇮🇷25423 | ⚡️Telegram = t.me/SOSkeyNET
+vless://d20d82a5-6ffb-4c1f-a76d-508d652a5d26@185.143.233.200:8880?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.yrESAq1QmiAmSXlQw3b3ZZhzJVO6meM9Oi3p2B05EXo&host=nima.hayalco.ir&type=ws#🇮🇷25661 | ⚡️Telegram = t.me/SOSkeyNET
+vless://da992858-3123-4aea-9bb5-6c8f8d74688d@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#7https://t.me/ConfigX2ray
+vless://a206d13e-1720-4c7e-a2d3-feac37a4a323@snapp.ir:80?path=/&security=none&encryption=none&host=badboybi2.yeksancloud.ir&type=ws#🇮🇷25627 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a173792e-c86a-4513-b9a5-b4639db5662b@www.varzesh3.com:2082?type=ws&encryption=none&path=&host=dl.heynewdays.ir&security=none#filembad-222
+vless://aa2b0e7a-6af9-4dc0-a378-04de4e801a92@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#10https://t.me/ConfigX2ray
+vless://bd6e4c14-9d2b-4fa8-a3cf-1b74dd78ede7@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#5https://t.me/ConfigX2ray
+vless://e54125e1-0827-46a2-8737-a8717648e7e9@plusred0shop10.lol:8880?encryption=none&type=ws&path=/yu&host=plusred0shop10.lol#🇮🇷25670 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a09f9c44-ef01-441c-af87-ee8fb211f90f@plusred0shop10.lol:8880?encryption=none&type=ws&path=/yu&host=plusred0shop10.lol#🇮🇷25664 | ⚡️Telegram = t.me/SOSkeyNET
