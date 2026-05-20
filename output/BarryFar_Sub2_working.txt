@@ -1,20 +1,20 @@
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=pabloping&security=&encryption=none&host=updn.pabloping.pro&type=xhttp#canfingV2rayNG-93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇩🇪 t.me/Natrixo BB
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 t.me/Natrixo BB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?encryption=none&host=sni.111000.indevs.in&path=/?ed&security=tls&sni=sni.111000.indevs.in&type=ws#🇩🇪 t.me/Natrixo BB
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇩🇪 t.me/Natrixo AA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.176.186.194:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#🇱🇻 t.me/Natrixo BB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.225:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?telegram&security=tls&sni=sni.111000.v6.navy&type=ws#V2rayng_Fast
-vless://5f93d479-eacc-4004-b23f-3701aa8dee8a@pov.iran-mehrbu.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dog.kazem-moviez.ir&path=/webpanel?ed=2560&security=tls&sni=dog.kazem-moviez.ir&type=ws#🇮🇷26428 | ⚡️Telegram = t.me/SOSkeyNET
-vless://61fd432e-b591-4d16-9ea7-9e2d17a492e5@jobinja.ir:80?path=/assets&security=none&encryption=none&host=hostt.movizdl.ir&type=ws#🇮🇷26550 | ⚡️Telegram = t.me/SOSkeyNET
-vless://3ff252d1-c1db-4b47-95fc-ee106bfd6282@mylink.youregxa.ir:80?path=/&security=none&encryption=none&host=regxagame-7c1b5bd4a9-regxagame.apps.ir-central1.arvancaas.ir&type=httpupgrade#🇮🇷26378 | ⚡️Telegram = t.me/SOSkeyNET
-vless://3c3ba959-6b12-40be-be81-5ea4a4fee996@snapp.ir:80?path=/&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#
-vless://63390a80-dc17-4ce2-bd9f-c406bd118cc1@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#HooshNet-8324595607
-vless://3d2b99e4-f594-4986-bc05-9c5d9b18c10b@snapp.ir:80?path=/index.html&security=none&encryption=none&host=aiagentshop.aruxm.ir&type=ws#🇮🇷26475 | ⚡️Telegram = t.me/SOSkeyNET
-vless://52102f2a-9201-44bd-9f65-9877793922b7@Snapp.ir:80?path=/&security=none&encryption=none&host=mangel.phynanc.ir&type=ws#🇮🇷25425 | ⚡️Telegram = t.me/SOSkeyNET
-vless://58e882ca-ae72-44c3-8034-ba707fbbe79a@snapp.ir:80?type=ws&path=/&host=simorgh.garfar.ir&security=none#🇮🇷26392 | ⚡️Telegram = t.me/SOSkeyNET
-vless://5cc11f00-697c-4932-8553-fb2e37e61f6b@Snapp.ir:2052?type=ws&encryption=none&path=/vmMarketlabs&host=info.drevnelo.ir&security=none#🇮🇷26547 | ⚡️Telegram = t.me/SOSkeyNET
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸
+vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Ikco.ir:2082?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland [TunneL] 🇫🇮
+vless://2609a462-d91e-4cde-bb78-c6718ec735b7@pov.iran-mehrbu.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dog.kazem-moviez.ir&path=/webpanel?ed=2560&security=tls&sni=dog.kazem-moviez.ir&type=ws#🇮🇷26473 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=/&security=none&encryption=none&host=pa1.ghostantaniehh.ir&type=ws#t.me/ConfigFori  -  Config 73739
+vless://23a62d8e-0a67-17f1-338f-786ef2974f50@varzesh3.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-reb-aaa.fasrgobar.ir#Vpn_jet7
+vless://36d51eae-04be-473f-9a34-096e2f466826@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73730
+vless://358e8d08-65f0-4ef3-9686-7dfb16211439@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73728
+vless://55a72093-b567-49a3-bd56-c3a38e9c37b4@snapp.ir:80?type=ws&encryption=none&path=/&host=arix.subio.ir&security=none#DarkForce-VIP-Subio
+vless://255ab552-a764-427d-8be3-d5cf99a336f1@snapp.ir:2095?type=ws&encryption=none&path=/&host=game.ir.goresfile.ir&security=none#🇮🇷26589 | ⚡️Telegram = t.me/SOSkeyNET
+vless://31623237-3966-4933-b730-393666383463@185.143.233.74:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#🇮🇷26483 | ⚡️Telegram = t.me/SOSkeyNET
