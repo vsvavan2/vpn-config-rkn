@@ -1,1 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.6-0096
+vless://11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b@viop.fast.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=gogojiyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_vmes%20%5B16%5D
