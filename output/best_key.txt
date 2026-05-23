@@ -1,1 +1,1 @@
-vless://5ac0a5b2-33dd-44d4-ad2b-838cead54f7d@cdnjs.com:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pAriSa.dPdNs.oRg&encryption=none#4Sarina-7814
+vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@lactation.ucdavis.edu:443?path=/vless&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&fp=chrome&type=ws&sni=lactation.ucdavis.edu# By EbraSha
