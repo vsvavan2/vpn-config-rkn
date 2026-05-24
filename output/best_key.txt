@@ -1,1 +1,1 @@
-vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@lactation.ucdavis.edu:443?path=/vless&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&fp=chrome&type=ws&sni=lactation.ucdavis.edu# By EbraSha
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.132.209:2096?security=tls&sni=vpnct.arvancode.eu.org&fp=chrome&type=ws&path=/bShq2qgG8GnX8zqm/?ed%3D2048&host=vpnct.arvancode.eu.org&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20,%20Hesse
