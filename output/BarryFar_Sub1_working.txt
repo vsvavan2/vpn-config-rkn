@@ -1,20 +1,20 @@
-ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
 trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#https://t.me/Configir98
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
-trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%40V2raysCollector%20%F0%9F%92%99
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%B1%F0%9F%87%B8%20%40Artemisvpn1
-trojan://humanity@172.66.44.211:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#vpnbaz
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#%40V2raysCollector%20%F0%9F%8C%B6
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#v2ray_dalghak
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%E2%9C%85%20%40V2raysCollector%2029-03
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%AE%F0%9F%87%A9%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%3A%20%40customv2ray
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#[
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#Pro%2013%20%40Outline_Vpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#v2ray_dalghak
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%40V2raysCollector%20%E2%9D%84%EF%B8%8F
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&type=tcp&sni=yahoo.com&sid=df8611c07d#lrnbymaa
-vless://1200ba9b-b4ae-422c-818e-c32520966c73@seattle4.shahvip.lol:2083?encryption=none&type=ws&security=tls&path=/api/update&host=seattle4.shahvip.lol&sni=seattle4.shahvip.lol&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#🇮🇷28311 | ⚡️Telegram = t.me/SOSkeyNET
-vless://136a18c2-2dee-43fb-bbe0-9b10239d790b@snapp.ir:8080?path=/&security=none&encryption=none&host=hi.jahansportmarkazi.ir&type=ws#🇮🇷28193 | ⚡️Telegram = t.me/SOSkeyNET
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?encryption=none&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&security=reality&sid=df8611c07d&sni=yahoo.com&type=tcp#v2ray_dalghak
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#[
+vless://292c773d-f272-47dd-af01-8aefa19b8883@snapp.ir:8080?type=ws&security=none&encryption=none&path=/&host=penhoon-ref.morvaridvps.ir#🇩🇪 t.me/Natrixo BB
+vless://2c5b6bee-801d-4f72-a0e4-690e793022fb@snapp.ir:2087?encryption=none&security=tls&sni=01team.no1plus.ir&alpn=h2,http/1.1,h3&fp=chrome&type=ws&host=01team.no1plus.ir&path=/#🇮🇷28203 | ⚡️Telegram = t.me/SOSkeyNET
+vless://335a535c-3b1d-45c0-b107-8f61029bd68f@snapp.ir:2095?encryption=none&host=vip.avantor.ir&path=/&security=none&type=ws#Vpn_jet7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40V2raysCollector%20%F0%9F%92%96
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=raw&headertype=none#v2ray_dalghak
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--
+vless://1faf5a00-a84c-47f3-bcee-a62bb84e33f5@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷28238 | ⚡️Telegram = t.me/SOSkeyNET
+vless://11df4c5b-0b14-4cd1-92ca-51df1e93ad78@141.ir:2086?path=/&security=none&encryption=none&host=sv1.nopp.ir&type=ws#🇮🇷28233 | ⚡️Telegram = t.me/SOSkeyNET
+vless://049f149a-adf1-42d2-a39a-02778092ccbb@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷28293 | ⚡️Telegram = t.me/SOSkeyNET
+vless://0555f5ec-6c5d-4f2b-872d-9849edbf761b@141.ir:2086?encryption=none&host=sv1.nopp.ir&path=/&security=none&type=ws#🇮🇷28194 | ⚡️Telegram = t.me/SOSkeyNET
+vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 73740
