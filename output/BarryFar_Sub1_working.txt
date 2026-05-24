@@ -1,20 +1,20 @@
-trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#🇫🇷 t.me/Natrixo AA
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2fassignment&allow_insecure=0#%40V2raysCollector%20%F0%9F%A4%8E
-trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#https://t.me/Configir98
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
-vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=nEO1-3zC.pAGes.DeV&type=ws&allowInsecure=0&sni=nEO1-3zC.pAGes.DeV#v2ray_dalghak
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#canfingV2rayNG-57
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#v2ray_dalghak
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net#v2ray_dalghak
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#v2ray_dalghak
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=pabloping&security=&encryption=none&host=updn.pabloping.pro&type=xhttp#canfingV2rayNG-48
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=%2F&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#xsparvin
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%AE%F0%9F%87%A9%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%3A%20%40customv2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%40V2raysCollector%20%F0%9F%8C%B6
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&type=tcp&sni=yahoo.com&sid=df8611c07d#lrnbymaa
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&flow=xtls-rprx-vision&sni=tradingview.com&type=tcp&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#v2raygulf
-vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=/&security=none&encryption=none&host=d.nsa03.com&type=ws#t.me/ConfigFori  -  Config 73741
+vless://05ba138e-b12d-4c15-b17c-5ca34e3612fd@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#рЯЗЃрЯЗЈ28393 | вЪ°пЄПTelegram = t.me/SOSkeyNET
+vless://01ce4d5e-54c9-0663-abef-59d557434adf@meli2.masterdadeh.ir:80?path=/&security=&encryption=none&type=ws&sni=185.226.94.205#рЯЗЃрЯЗЈ28517 | вЪ°пЄПTelegram = t.me/SOSkeyNET
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#v2ray_dalghak
+vless://2703ee83-d5fc-49a4-bbdb-69abdd772494@snapp.ir:8880?path=/&security=none&encryption=none&host=bot.stnolenza.ir&type=ws#рЯЗЃрЯЗЈ28411 | вЪ°пЄПTelegram = t.me/SOSkeyNET
+vless://17574dcf-0fa4-4693-ba3e-5dda6894f507@f.pvnet.ir:8880?path=/&security=none&encryption=none&type=ws#рЯЗЃрЯЗЈ28478 | вЪ°пЄПTelegram = t.me/SOSkeyNET
 vless://20a15537-0c48-4043-b763-1d8a81030bd2@f.pvnet.ir:8880?type=ws&encryption=none&path=/&host=&security=none#V2rayng_Fast
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40V2raysCollector%20%F0%9F%92%96
-vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 73740
-vless://30dc09d2-2679-4dfc-a8d1-6d65139d72be@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷28284 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1f4a821e-bc9a-4d64-8375-f7982fa0ade7@snapp.ir:8080?type=ws&encryption=none&path=/&host=free.cdn-hio.mom&security=none#🇮🇷28401 | ⚡️Telegram = t.me/SOSkeyNET
+vless://17574dcf-0fa4-4693-ba3e-5dda6894f507@f.pvnet.ir:8880?encryption=none&security=none&type=ws&path=/#filembad-32
+vless://04072283-f96c-480c-9f61-21a03bfdef17@snapp.ir:2082?encryption=none&host=sub1.pavps.ir&path=/e&security=none&type=ws#рЯЗЃрЯЗЈ28485 | вЪ°пЄПTelegram = t.me/SOSkeyNET
+vless://276a33d0-aec5-4631-bd8c-ccca506a0d6d@tamin.ir:8880?path=/stream&security=none&encryption=none&host=test.mashinito.ir&type=ws#рЯЗЃрЯЗЈ28405 | вЪ°пЄПTelegram = t.me/SOSkeyNET
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&type=tcp&sni=yahoo.com&sid=df8611c07d#lrnbymaa
