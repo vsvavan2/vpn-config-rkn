@@ -1,20 +1,20 @@
-trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#https://t.me/Configir98
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
-ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#Pro%2013%20%40Outline_Vpn
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net#v2ray_dalghak
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#v2ray_dalghak
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%40V2raysCollector%20%E2%9D%84%EF%B8%8F
+trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#🇫🇷 t.me/Natrixo AA
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net#v2ray_dalghak
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#v2ray_dalghak
+trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#https://t.me/Configir98
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#canfingV2rayNG-57
+vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=nEO1-3zC.pAGes.DeV&type=ws&allowInsecure=0&sni=nEO1-3zC.pAGes.DeV#v2ray_dalghak
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2fassignment&allow_insecure=0#%40V2raysCollector%20%F0%9F%A4%8E
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%40V2raysCollector%20%F0%9F%8C%B6
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#t.me/OutlineVpnOfficial | Free | 3242 | United Kingdom
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&type=tcp&sni=yahoo.com&sid=df8611c07d#lrnbymaa
-vless://292c773d-f272-47dd-af01-8aefa19b8883@snapp.ir:8080?type=ws&security=none&encryption=none&path=/&host=penhoon-ref.morvaridvps.ir#🇩🇪 t.me/Natrixo BB
-vless://2c5b6bee-801d-4f72-a0e4-690e793022fb@snapp.ir:2087?encryption=none&security=tls&sni=01team.no1plus.ir&alpn=h2,http/1.1,h3&fp=chrome&type=ws&host=01team.no1plus.ir&path=/#🇮🇷28203 | ⚡️Telegram = t.me/SOSkeyNET
-vless://335a535c-3b1d-45c0-b107-8f61029bd68f@snapp.ir:2095?encryption=none&host=vip.avantor.ir&path=/&security=none&type=ws#Vpn_jet7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40V2raysCollector%20%F0%9F%92%96
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=raw&headertype=none#v2ray_dalghak
+ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag==@149.102.132.184:443#%40V2raysCollector%20%F0%9F%8F%88
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--
-vless://1faf5a00-a84c-47f3-bcee-a62bb84e33f5@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷28238 | ⚡️Telegram = t.me/SOSkeyNET
-vless://11df4c5b-0b14-4cd1-92ca-51df1e93ad78@141.ir:2086?path=/&security=none&encryption=none&host=sv1.nopp.ir&type=ws#🇮🇷28233 | ⚡️Telegram = t.me/SOSkeyNET
-vless://049f149a-adf1-42d2-a39a-02778092ccbb@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷28293 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0555f5ec-6c5d-4f2b-872d-9849edbf761b@141.ir:2086?encryption=none&host=sv1.nopp.ir&path=/&security=none&type=ws#🇮🇷28194 | ⚡️Telegram = t.me/SOSkeyNET
-vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 73740
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#v2ray_dalghak
+vless://358e8d08-65f0-4ef3-9686-7dfb16211439@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73728
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40V2raysCollector%20%F0%9F%92%96
+vless://276a33d0-aec5-4631-bd8c-ccca506a0d6d@tamin.ir:8880?path=/stream&security=none&encryption=none&host=test.mashinito.ir&type=ws#🇮🇷28405 | ⚡️Telegram = t.me/SOSkeyNET
