@@ -1,20 +1,20 @@
-ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#vmessorg
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=&encryption=none&host=updn.pabloping.pro&type=xhttp#canfingV2rayNG-61
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.175.141.238:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%40V2raysCollector%20%E2%9D%A3%EF%B8%8F
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#v2ray_dalghak
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#v2ray_dalghak
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.66:443?encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#v2ray_dalghak
 vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@8.6.112.0:443?encryption=none&host=nEO1-3zC.pAGes.DeV&path=%2F&security=tls&sni=nEO1-3zC.pAGes.DeV&type=ws#v2ray_dalghak
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vmessorg
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=&encryption=none&host=updn.pabloping.pro&type=xhttp#canfingV2rayNG-61
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%40V2raysCollector%20%F0%9F%8C%B6
-vless://1c04e31e-31e4-4989-8db6-3a7e76cbc39a@snapp.ir:8080?type=ws&encryption=none&path=/&host=free.cdn-hio.mom&security=none#🇮🇷28725 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1575081e-a79a-411a-aaf2-4fad5a61c0e1@snapp.ir:80?type=ws&encryption=none&path=/&host=yasin.localalex.ir&security=none#🇮🇷28722 | ⚡️Telegram = t.me/SOSkeyNET
-vless://2898f99f-337b-406a-b5d3-09d03e9ee4b5@anten.ir:2052?path=/&security=none&encryption=none&host=new.nanoline.ir&type=ws#🇮🇷28632 | ⚡️Telegram = t.me/SOSkeyNET
-vless://2fb14dca-e3cf-4524-b95a-d33ed5adb889@185.143.235.201:8080?encryption=none&security=none&type=ws&path=/&host=penhoon2.morvaridvps.ir#filembad-84
-vless://1d1816e5-7192-435b-a4fc-975cbd3ba8ea@arvancloud.ir:2095?encryption=none&host=api.helxj.ir&path=/IR?ed=2560&security=none&type=ws#vmesskhodam
-vless://00c82291-4a6c-4171-9cb3-4b96ff5dce8a@hmt.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#🇮🇷28721 | ⚡️Telegram = t.me/SOSkeyNET
-vless://006e4730-9370-48fa-a7be-98e49833ca6e@185.143.234.235:80?encryption=none&type=ws&path=/&host=felorida4.newcallapphelper.online#t.me/ConfigFori  -  Config 73745
-vless://0c871081-9d83-477c-a132-119152b40323@snapp.ir:8880?encryption=none&type=ws&path=/&host=omidvar.arvhamrah.ir#🇮🇷28579 | ⚡️Telegram = t.me/SOSkeyNET
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%40V2raysCollector%20%F0%9F%94%A5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#[
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#v2ray_dalghak
+vless://1eb68fe1-6e50-4d36-b2d1-31587e5b0565@anten.ir:8880?encryption=none&host=f.nanoline.ir&path=/&security=none&type=ws#🇮🇷28669 | ⚡️Telegram = t.me/SOSkeyNET
 vless://100fc429-4824-482e-ad2c-ce70d25e11cc@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#t.me/ConfigFori  -  Config 73737
-vless://100fc429-4824-482e-ad2c-ce70d25e11cc@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#t.me/ConfigFori  -  Config 73736
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#v2ray_dalghak
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40V2raysCollector%20%F0%9F%92%96
+vless://0d25bda2-9f90-4362-9404-153a050c9858@185.143.232.32:80?path=/&security=&encryption=none&host=b.messi10.ir&type=ws#🇮🇷28723 | ⚡️Telegram = t.me/SOSkeyNET
+vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 73740
+vless://1f296f6c-66c4-4ed9-9ba8-1a5c8f10223c@snapp.ir:80?encryption=none&host=derakhshan.molvliafor.ir&path=/&security=none&type=ws#🇮🇷28717 | ⚡️Telegram = t.me/SOSkeyNET
