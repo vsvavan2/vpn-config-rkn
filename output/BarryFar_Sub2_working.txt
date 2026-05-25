@@ -1,20 +1,20 @@
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
 vless://9591f34a-90b1-41a1-b53d-be0bef7e7cc3@speedtestcustom.com:80?encryption=none&security=none&type=xhttp&host=monsterion10.global.ssl.fastly.net&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}#🟢 🇫🇷 فرانسه
+vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-176
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi2.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#canfingV2rayNG-136
 vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?encryption=none&type=ws&security=tls&path=/&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#speedtunnel
-vless://5654b922-2aa3-47c2-bc60-09d59c9cf495@198.169.2.1:443?encryption=none&type=xhttp&security=tls&path=/api&host=relay-g356jz7c.vercel.app&mode=auto&sni=relay-g356jz7c.vercel.app&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#speedtunnel
-vless://358e8d08-65f0-4ef3-9686-7dfb16211439@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73728
-vless://5ebee6c5-6667-487d-8b99-b6f67ac74801@snapp.ir:80?path=/aparat&security=none&encryption=none&host=poor.bluesky1.ir&type=ws#🇮🇷28591 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6aa2b14d-1269-41d4-8176-f45144260e1f@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷28655 | ⚡️Telegram = t.me/SOSkeyNET
-vless://59bff66e-5dfa-4597-b270-db9d7cd77c95@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#V2rayng_Fast
-vless://5f3a7f00-5b4f-44db-b052-3847dbead28c@snapp.ir:80?encryption=none&type=ws&path=/&host=iran.modiranarshaddds.ir#V2rayng_Fast
-vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Sid.ir:80?security=none&type=ws&headerType=&path=/cdn&host=dl4.movizdl.ir#Germany 🇩🇪
-vless://7986548b-c44c-4b65-9227-4b2cb504e7d5@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#https://t.me/Configir98
-vless://33d5a678-e3e0-47fd-89a7-f2220e615103@ragnar.ehsanazizi-speed-server.com:80?path=/ragnarazizi8&security=none&encryption=none&type=ws#🇮🇷28714 | ⚡️Telegram = t.me/SOSkeyNET
-vless://37643138-3432-4631-b162-643534316266@185.143.235.115:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#Dv
+vless://5963a72f-39be-4452-b38a-ff9ac3d5a2e1@185.226.140.40:443?encryption=none&type=xhttp&security=tls&path=/&host=de3.fifatime.ir&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=de3.fifatime.ir&alpn=h3,h2,http/1.1&fp=chrome&allowInsecure=1#NormanV2ray-126
+vless://4e53fe86-f89d-4efa-974e-cb7208b5548d@tamin.ir:2052?path=/&security=none&encryption=none&host=big1.sedighi0915.ir&type=ws#VoltTunnelx
+vless://5aa5050b-1010-47b5-a7b9-d1bda0ea4271@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇭🇰 t.me/Natrixo CC
+vless://55a72093-b567-49a3-bd56-c3a38e9c37b4@snapp.ir:80?type=ws&encryption=none&path=/&host=arix.subio.ir&security=none#DarkForce-VIP-Subio
+vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Ikco.ir:2082?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#Finland [TunneL] 🇫🇮
+vless://36697866-2112-45a8-b10e-6ca4fa427410@anten.ir:80?encryption=none&host=b.abarvip.ir&path=/&security=none&type=ws#🇮🇷29015 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3c15b0da-1d24-46a3-bf5a-9c013c61798a@snapp.ir:2052?path=/?ed=2056&security=none&encryption=none&host=129.dl7movis.ir&type=httpupgrade#🇮🇷28971 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8dfecd05-1c37-40ea-a6c0-a56220bfe0fd@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=ss5.limitless-cloud.ir#V2rayng_Fast
+vless://5cc921d1-a974-4bd0-ae70-a0134d820845@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#🇮🇷28932 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6b9b0d20-f5df-487d-b553-ea86641038e8@arvancloud.ir:2095?encryption=none&type=ws&path=/stream&host=hosting.linuweb.ir#🇮🇷28852 | ⚡️Telegram = t.me/SOSkeyNET
+vless://4e53fe86-f89d-4efa-974e-cb7208b5548d@tamin.ir:2052?path=/&security=none&encryption=none&host=big1.sedighi0915.ir&type=ws#V2rayng_Fast
