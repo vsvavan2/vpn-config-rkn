@@ -1,20 +1,20 @@
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%3A%20%40customv2ray
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#V2rayng_Fast
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/VIPV2rayNGNP
 trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Connect
-trojan://humanity@188.114.96.4:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#Telegram : https://t.me/ConfigX2ray
-trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/Configir98
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#filembad-16
-trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/pirimod
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Vasl
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/VIPV2rayNGNP
+trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/VIPV2rayNGNP
 trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Configir98
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#xsparvin
+trojan://humanity@188.114.96.4:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#Telegram : https://t.me/ConfigX2ray
 trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#1https://t.me/ConfigX2ray
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/VIPV2rayNGNP
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Vasl
+trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/pirimod
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#V2rayng_Fast
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#filembad-16
+trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/Configir98
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%3A%20%40customv2ray
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#xsparvin
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%40V2raysCollector%20%F0%9F%8C%B6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443#v2ray_dalghak
-vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 73740
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#%F0%9F%87%AC%F0%9F%87%A7%20%40FreakConfig
-vless://2ae159ec-cb42-4aa3-ad96-8031bd58f275@snapp.ir:8080?type=ws&encryption=none&path=/&host=free.cdn-hio.mom&security=none#🇮🇷28923 | ⚡️Telegram = t.me/SOSkeyNET
-vless://2af75a89-3c3e-42d0-9f4e-b2aea5c54148@snapp.ir:80?encryption=none&type=ws&path=/&host=srv.diamond-theBEST.online#🇮🇷29013 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#%F0%9F%9F%A980%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#t.me/OutlineVpnOfficial
+vless://0d25bda2-9f90-4362-9404-153a050c9858@185.143.232.32:80?path=/&security=&encryption=none&host=b.messi10.ir&type=ws#Vpn_jet7
+vless://21271c8f-5dc6-453c-ace5-839cf96b3c94@snapp.ir:80?path=/&security=&encryption=none&host=sayanstoree.tel.goleij.ir&type=ws#🇮🇷28881 | ⚡️Telegram = t.me/SOSkeyNET
