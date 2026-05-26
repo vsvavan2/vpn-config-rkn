@@ -1,20 +1,20 @@
-trojan://humanity@chatgpt.com:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%40V2raysCollector%20%F0%9F%92%9E
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@store.ubi.com:443?security=tls&type=ws&host=1-jk1.pages.dev&fp=chrome&sni=1-jk1.pages.dev&path=/&encryption=none#v2ray_dalghak
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+trojan://humanity@141.193.213.11:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#V2RayyNGvpn
+trojan://humanity@188.114.96.4:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#Echo_Center
+trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/pirimod
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%E2%9C%85%20%40V2raysCollector%2029-03
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Vasl
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARGO_VPNN_7
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=/?proxyip=ip.111000.de5.net:443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🇱🇻 t.me/Natrixo BB
+trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#filembad-19
 trojan://humanity@188.114.96.4:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#Telegram : https://t.me/ConfigX2ray
 trojan://humanity@104.17.72.206:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#V2RayyNGvpn
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Vasl
-trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/pirimod
-ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
 trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Erfwp
-trojan://humanity@141.193.213.11:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#filembad-32
-trojan://humanity@141.193.213.11:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#V2RayyNGvpn
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#1https://t.me/ConfigX2ray
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#V2rayng_Fast
-trojan://25ae6230-7834-41dc-94a4-586e1a79ea89@188.114.97.3:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=shy-brook-df1e.amirkhan69.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=shy-brook-df1e.amirkhan69.workers.dev#🇩🇪 t.me/Natrixo BB
-trojan://humanity@188.114.96.4:443?allowInsecure=1&alpn=http/1.1&path=/assignment&sni=www.calmloud.com&type=ws#Echo_Center
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%40V2raysCollector%20%F0%9F%8C%B6
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARGO_VPNN_7
-trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.69.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.111:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#v2ray_dalghak
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#Canada
-vless://289569ab-15e3-4b14-9508-f2bd1bfc28f8@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=128&host=g4.podro.store&sni=g4.podro.store&fp=chrome&alpn=h2,http/1.1#🇮🇷29114 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@141.101.90.101:443?security=tls&type=ws&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&fp=chrome&allowInsecure=1#filembad-21
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#V2rayng_Fast
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.189.153:443?path=%2Fpdf%2Fservicesfp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen3.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen3.cc.cd#Pro%204%20%40Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#v2ray_dalghak
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.64.229.181:2087?encryption=none&fp=chrome&host=pagescm.freen10.de5.net&path=%2Fcomic&security=tls&sni=pagescm.freen10.de5.net&type=ws#v2ray_dalghak
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#1https://t.me/ConfigX2ray
