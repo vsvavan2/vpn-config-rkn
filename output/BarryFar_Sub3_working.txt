@@ -1,20 +1,20 @@
-vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
 vless://9591f34a-90b1-41a1-b53d-be0bef7e7cc3@speedtestcustom.com:80?encryption=none&security=none&type=xhttp&host=monsterion10.global.ssl.fastly.net&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}#🟢 🇫🇷 فرانسه
-vless://959f95c2-7bc5-469f-8249-95769f2fde39@188.114.97.3:443?type=ws&encryption=none&path=/sub/v1&host=tunnel.alphavip.dpdns.org&security=tls&fp=chrome&alpn=h2,http/1.1&sni=tunnel.alphavip.dpdns.org#🇫🇷 t.me/Natrixo AA
-vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#amirhoseinvalian
-vless://bafacd98-136a-4530-838d-4e5c51838dac@cf5.danfeng.eu.org:2053?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&ech=encryptedsni.com+https://dns.alidns.com/dns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=/out/comics/document/juzibaipiao?ed=2560#🇩🇪 t.me/Natrixo BB
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.64.229.181:2087?encryption=none&fp=chrome&host=pagescm.freen10.de5.net&path=/comic&security=tls&sni=pagescm.freen10.de5.net&type=ws#🇩🇪 t.me/Natrixo BB
-vless://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73735
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#canfingV2rayNG-211
 vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"1-1","scMaxEachPostBytes":"1000000","headers":{"x-host":"netlify.parsashonam.sbs:444"}}&insecure=1&host=ir-netlify-unlimited-new.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#t.me/ConfigFori  -  Config 73747
+vless://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73735
+vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@dnew.cc:443?encryption=none&fp=chrome&host=1-brc.pages.dev&path=/&security=tls&sni=1-brc.pages.dev&type=ws#🇩🇪 t.me/Natrixo AA
+vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#amirhoseinvalian
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.68.237:443?sni=pagescm.freen1.de5.net&type=ws&host=pagescm.freen1.de5.net&path=/task/moviesfp=chrome&security=tls#🇩🇪 t.me/Natrixo AA
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#t.me/ConfigFori  -  Config 73726
-vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?encryption=none&type=ws&path=/&host=cdn-665e-o0g.fars-rehan.ir#V2rayng_Fast
-vless://ac238604-f2e6-45f4-8f76-9a15b7b678d6@185.143.235.201:443?security=tls&sni=s7.fsharj.ir&type=xhttp&path=/arvan&fp=chrome&alpn=h2,http/1.1#🇮🇷29178 | ⚡️Telegram = t.me/SOSkeyNET
-vless://ba642e98-3de2-409d-b129-e15767c175ee@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73732
-vless://ba642e98-3de2-409d-b129-e15767c175ee@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73729
-vless://b8fabeb6-b007-4e73-9a24-85d11aae2294@snapp.ir:80?type=ws&encryption=none&path=/&host=rollsroycecullinane.ir&security=none#v2rayng_vpn403
-vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?path=/&security=none&encryption=none&host=sidipv.naxd.ir&type=ws#🇬🇧 t.me/Natrixo CC
-vless://933d3e87-82dd-430f-a29a-85e9a482d180@snapp.ir:80?type=ws&encryption=none&path=/&host=rollsroycecullinane.ir&security=none#v2rayng_vpn403
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#🇳🇱 t.me/Natrixo BB
+vless://e6567a1e-260f-4b0e-8de3-e2e12f90e854@152.53.80.40:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=sha.helper-internet.com&type=tcp#🇺🇸 t.me/Natrixo AA
+vless://f30b3eee-2223-4328-b0a4-a66fb2c5ac98@snapp.ir:80?encryption=none&type=ws&path=/&host=gamedl.yeksancloud.ir#V2rayng_Fast
+vless://c8a53997-4f15-44b6-8bfe-60d48b7507fc@185.143.233.5:2086?path=/&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#Vpn_jet7
+vless://9b7c064f-d435-4204-9b57-031589a744d5@snapp.ir:8080?encryption=none&host=cdn.tiopmfikg.ir&path=/&security=none&type=ws#V2rayng_Fast
+vless://b0155773-f2b3-4d65-911f-de76f4e44ed1@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73727
+vless://f87d669c-a12a-40d0-9250-cde756c3c70f@xllbot-human.ir:2053?type=ws&encryption=none&insecure=0&allowInsecure=0&path=/api&host=xllbot-human.ir&security=tls&fp=chrome&alpn=h2&sni=xllbot-human.ir#🇮🇷29320 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c6eaa147-9dd5-48e4-8afc-657ce301c6c4@snapp.ir:80?type=ws&encryption=none&path=/&host=rollsroycecullinane.ir&security=none#lv2rayng_vpn403
+vless://b6d0c809-b488-48bd-b630-52d5bdfb6f9a@snappfood.ir:443?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=h.goodphilips.ir#🇮🇷26642 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a9f00d61-d50e-423e-9157-a96461fdf87d@snapp.ir:80?type=ws&encryption=none&path=/&host=rollsroycecullinane.ir&security=none#v2rayng_vpn403
-vless://a9230aef-372b-474a-a833-af73d1dc9d90@snapp.ir:80?type=ws&encryption=none&path=/&host=rollsroycecullinane.ir&security=none#v2rayng_vpn403
-vless://ab8de652-8410-4b45-a53a-b42ecd73599e@snapp.ir:8080?path=/&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#🇮🇷29184 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c42088cd-5cdb-47cb-b00d-36448bf312c1@arvancloud.ir:8080?encryption=none&host=fn1.dresstol.ir&path=/&security=none&type=ws#Vpn_jet7
+vless://e16d126f-682c-4bb9-a0da-243b23f9f030@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#HooshNet-8324595607
