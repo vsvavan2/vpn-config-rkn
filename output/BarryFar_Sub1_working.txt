@@ -1,20 +1,20 @@
-ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#V2rayng_Fast
-vless://2b5f8588-87f6-40af-a785-322c8fa1df77@forallpanel.srtongston.ir:2095?path=/XnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn?ed=2560&security=none&encryption=none&host=sni.111000.dynv6.azazilvpn.sbs&type=ws#https://t.me/Configir98
-trojan://bamanetorg@104.25.249.217:443?type=ws&security=tls&path=/?ed=2048&host=www.iranpoems.ir&sni=www.iranpoems.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#🇨🇦31945 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://mitivpn@208.103.161.188:443?type=ws&security=tls&path=/?ed=2048&host=www.iranpoems.ir&sni=www.iranpoems.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸32005 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://mitivpn@208.103.161.91:443?type=ws&security=tls&path=/?ed=2048&host=www.iranpoems.ir&sni=www.iranpoems.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸32007 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@172.66.44.211:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦31980 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://mitivpn@104.25.249.217:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=www.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#🇨🇦31933 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://mitivpn@www.iranpoems.ir:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#https://t.me/VIPV2rayNGNP
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?path=/?proxyip=ip.111000.de5.net:443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#TEL;Father_vpn¹
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#🇨🇦32045 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦32046 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://mitivpn@165.215.250.14:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=www.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#🇺🇸31932 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@208.103.161.3:443?path=/43.218.77.16&security=tls&encryption=none&insecure=1&host=apexbhao1.qzz.io&type=ws&allowInsecure=1&sni=apexbhao1.qzz.io#&AliXTso
-vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=/&security=tls&encryption=none&insecure=1&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=1&sni=PrO.nImBaHa.InFo#https://t.me/Configir98
-vless://2b5f8588-87f6-40af-a785-322c8fa1df77@forallpanel.srtongston.ir:2095?path=/XnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn?ed=2560&security=none&encryption=none&host=sni.111000.dynv6.azazilvpn.sbs&type=ws#2https://t.me/VIPV2rayNGNP
-trojan://humanity@104.16.7.70:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#V2rayng_Fast
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱 t.me/Natrixo BB
 trojan://mitivpn@www.iranpoems.ir:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#https://t.me/Configir98
+trojan://mitivpn@www.iranpoems.ir:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#https://t.me/VIPV2rayNGNP
+vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=/&security=tls&encryption=none&insecure=1&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=1&sni=PrO.nImBaHa.InFo#https://t.me/Configir98
+vless://22ed239b-f2dc-485e-a947-a36f8c121996@Vasiat-50863.hosted-in.irani.uno:2052?security=none&type=httpupgrade&headerType=&path=/&host=ae6e10954cb1a54d.de2.node.tnw.of.to#🇨🇦32008 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://mitivpn@208.103.161.101:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=www.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#filembad-37
 vless://0623a0fa-e3c4-45ab-8be8-f45e7dc18898@net3.smartfast.com.tr:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ge-shop.lockfast.com.tr&fp=chrome&type=ws&allowInsecure=0&sni=ge-shop.lockfast.com.tr#🇨🇦31921 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://8r<[9'l6hAO#8ZQi@Koma-YT.PAGeS.Dev:2096?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&allowInsecure=0&type=ws&path=/tr#v2RayyNGvpn
+trojan://humanity@104.19.229.21:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇨🇦32050 | ⚡️Telegram = t.me/SOSkeyNET
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇨🇦32042 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://mitivpn@165.215.250.14:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=www.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#🇺🇸31932 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#V2rayng_Fast
+trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#🇨🇦32047 | ⚡️Telegram = t.me/SOSkeyNET
+vless://2b5f8588-87f6-40af-a785-322c8fa1df77@forallpanel.srtongston.ir:2095?path=/XnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn?ed=2560&security=none&encryption=none&host=sni.111000.dynv6.azazilvpn.sbs&type=ws#ProxyAnonymous 🇩🇪
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱 t.me/Natrixo BB
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?path=/?proxyip=ip.111000.de5.net:443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#TEL;Father_vpn¹
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.26.1.83:443?path=%2Fshop%2Fprograms%2Fpicturefp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen10.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen10.cc.cd#Pro%2028%20%40Outline_Vpn
+trojan://bamanetorg@104.25.249.217:443?type=ws&security=tls&path=/?ed=2048&host=www.iranpoems.ir&sni=www.iranpoems.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#🇨🇦31945 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://bamanetorg@165.215.250.14:443?type=ws&security=tls&path=/?ed=2048&host=www.iranpoems.ir&sni=www.iranpoems.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸31942 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#🇨🇦32045 | ⚡️Telegram = t.me/SOSkeyNET
