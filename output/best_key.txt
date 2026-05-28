@@ -1,1 +1,1 @@
-vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?path=/&security=none&encryption=none&host=Asaaabi.global.ssl.fastly.net&type=ws#🇩🇪 t.me/Natrixo AA
+vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%287th%20Arrondissement%29%20%7C%20%5BBL%5D
