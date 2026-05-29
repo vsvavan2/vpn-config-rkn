@@ -1,20 +1,20 @@
-trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&fp=chrome&allowInsecure=1#17https://t.me/ConfigX2ray
-trojan://mitivpn@104.18.32.47:8443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#5https://t.me/ConfigX2ray
-trojan://Mitivpn@104.17.121.9:443?type=ws&security=tls&path=/?ed=mitivpn&host=my.hitgram.ir&sni=my.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇩🇪 t.me/Natrixo BB
-trojan://mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#𝘿𝘼𝙇𝙏𝙊𝙉
-trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
+trojan://Mitivpn@45.130.125.76:443?type=ws&security=tls&path=/?ed=mitivpn&host=panel.hitgram.ir&sni=panel.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#filembad-24
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#T.me/erfwp
 trojan://mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.app-cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#TEL;Father_vpn⁹
 trojan://mitivpn@45.130.125.76:443?path=/?ed&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#powerro
-ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
-trojan://Mitivpn@45.130.125.76:443?type=ws&security=tls&path=/?ed=mitivpn&host=panel.hitgram.ir&sni=panel.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇩🇪 t.me/Natrixo BB
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#T.me/erfwp
-ss://Telegram->@OneSpeedInfo@45.130.125.160:2095?path=/?ed=2056&security=none&encryption=none&host=g.onespeed.site&type=httpupgrade#🇸🇨37077 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://Mitivpn@104.17.121.37:443?type=ws&security=tls&path=/?ed=mitivpn&host=my.hitgram.ir&sni=my.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇨🇦37056 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=/?ed=mitivpn&host=panel.hitgram.ir&sni=panel.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇩🇪 t.me/Natrixo BB
-trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#Erfwp
-trojan://humanity@45.130.125.76:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 t.me/Natrixo AA
-trojan://mitivpn@104.18.32.47:2096?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#6https://t.me/ConfigX2ray
 trojan://mitivpn@45.130.125.76:443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#1 https://t.me/ConfigX2ray
-trojan://Mitivpn@104.17.121.37:443?type=ws&security=tls&path=/?ed=mitivpn&host=my.hitgram.ir&sni=my.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇨🇦37057 | ⚡️Telegram = t.me/SOSkeyNET
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
 trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn²
+trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#spiderxman69
+trojan://mitivpn@104.18.32.47:8443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#🙃https://t.me/ConfigX2ray
+trojan://Mitivpn@165.215.250.160:443?type=ws&security=tls&path=/?ed=mitivpn&host=panel.hitgram.ir&sni=panel.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇩🇪 t.me/Natrixo BB
+trojan://Mitivpn@45.130.125.76:443?path=/?ed&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#🇩🇪 t.me/Natrixo BB
+trojan://mitivpn@104.18.32.47:8443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#5https://t.me/ConfigX2ray
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#T.me/erfwp
+trojan://mitivpn@104.18.32.47:2096?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#💫https://t.me/ConfigX2ray
+trojan://mitivpn@45.130.125.76:443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1# 3 https://t.me/ConfigX2ray
+trojan://mitivpn@45.130.125.76:443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#4 https://t.me/ConfigX2ray
+trojan://mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.app-cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#TEL;Father_vpn⁴
+trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#Erfwp
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn⁸
