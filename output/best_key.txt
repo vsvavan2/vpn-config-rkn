@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&host=sv6tignal.global.ssl.fastly.net&path=%2Ftofan&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@microsoft.com:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🇰🇪39023 | ⚡️Telegram = t.me/SOSkeyNET
