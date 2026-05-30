@@ -1,20 +1,20 @@
-ss://TIGNAL-CRYPTO@fastly.com:80?type=xhttp&security=none&path=/&host=InternetAzadRobot55yy182.global.ssl.fastly.net&mode=auto#🇨🇦39096 | ⚡️Telegram = t.me/SOSkeyNET
-ss://TOFAN-TRADE@151.101.67.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#🇨🇦39044 | ⚡️Telegram = t.me/SOSkeyNET
-vless://bf116897-eca4-459c-9f97-4019fa0ace7f@162.159.253.41:8443?type=ws&security=tls&sni=focalin.adaspoloandco.com&host=focalin.adaspoloandco.com&path=%2FRizZrAcK&fp=chrome#
+trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@173.245.59.191:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome#
-vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome#
-ss://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot31dx253.global.ssl.fastly.net&mode=auto#🇨🇦39116 | ⚡️Telegram = t.me/SOSkeyNET
+vless://dc308cf1-ee7e-4071-8fa5-2c1ff2e3094c@45.130.125.76:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=isna.ir.jamejamonline.ir.alalamtv.net.farsnews.ir.entekhab.ir.ifpnews.com.alef.ir&allowInsecure=0&sni=WhImsIcAl-DefINiTIONPegPHM2bT5.WINDLeR.co.Uk#3https://t.me/ConfigX2ray
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
+vless://c8ebfec9-ce4c-4f0c-bd7d-f245f47de92a@45.130.125.69:2096?encryption=none&type=grpc&security=tls&serviceName=jamejamonline.ir.jamejamonline.ir.en.mehrnews.com.donya-e-eqtesad.com.alef.ir.iranprimer.usip.org.alef.ir&sni=DefENsIVe-ALaRM17RRmk7y7Y.sAmsunGoveNs.iR&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%40%20%F0%9F
+vless://TOFAN-TRADE@151.101.67.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%40NETMelliAnti
 vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.27.66.214:8443?type=ws&security=tls&sni=ratatouille.adaspoloandco.com&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php&fp=chrome#
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome#
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?path=%2FRoBeRt&security=tls&encryption=none&host=interim.adaspoloandco.com&fp=chrome&type=ws&sni=interim.adaspoloandco.com#%40v2ray_phoenix
 vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@141.101.115.71:8443?type=ws&security=tls&sni=amphetamine.adaspoloandco.com&host=amphetamine.adaspoloandco.com&path=%2FArEyOuMaD&fp=chrome#
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome#
+trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
+trojan://humanity@104.17.121.71:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#%E6%9C%AA%E7%9F%A517
+vless://bf116897-eca4-459c-9f97-4019fa0ace7f@162.159.253.41:8443?type=ws&security=tls&sni=focalin.adaspoloandco.com&host=focalin.adaspoloandco.com&path=%2FRizZrAcK&fp=chrome#
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?mode=stream-one&path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.multiplydose.cc.cd&fp=chrome&type=xhttp&sni=www.multiplydose.cc.cd#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%3A%40v2rayvpno
+trojan://humanity@45.130.125.76:443?security=tls&type=ws&sni=www.ignitelimit.com&path=assignment#%E6%9C%AA%E7%9F%A516
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸39078 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#4https://t.me/ConfigX2ray
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#v2ray_dalghak
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#TEL;Father_vpn
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#%40filtershekan_channel%20%7C5
-ss://InternetAzadRobot@146.75.117.91:80?encryption=none&type=xhttp&path=/Tignal&host=tignaltofansv5.global.ssl.fastly.net&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇩🇪39126 | ⚡️Telegram = t.me/SOSkeyNET
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#v2ray_dalghak
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=uk1.fromblancwithlove.com#%40proxy_kafee4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#🇳🇱39109 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@216.24.57.7:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A511
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
