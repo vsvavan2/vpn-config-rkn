@@ -1,1 +1,1 @@
-vless://InternetAzadRobot-AliKiller@fastly.com:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#𝗗𝗔𝗟𝗧𝗢𝗡 𝗣𝗜𝗡𝗚
+vless://c0909646-31ce-49d5-8210-d03dbfa0294c@speedtest.net:80?path=/&security=none&alpn=h2,http/1.1&encryption=none&host=my-server-test.global.ssl.fastly.net&fp=chrome&type=ws&sni=my-server-test.global.ssl.fastly.net#https://t.me/v2raynplus |🇨🇦
