@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#%3E%3E%40V2pedia%3A%3AFR
+vless://TIGNAL-CRYPTO@fastly.com:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
