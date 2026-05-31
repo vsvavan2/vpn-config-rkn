@@ -1,1 +1,1 @@
-vless://TOFAN-TRADE@151.101.129.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://InternetAzadRobot-AliKiller@fastly.com:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#𝗗𝗔𝗟𝗧𝗢𝗡 𝗣𝗜𝗡𝗚
