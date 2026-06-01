@@ -1,1 +1,1 @@
-vless://505840df-3b05-4767-829c-9edeba1efa99@151.101.109.223:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=secretturkk.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=biography.com#🇯🇵41778 | ⚡️Telegram = t.me/SOSkeyNET
+vless://006e96ff-db44-4086-a374-7b8aa7351fe2@microsoft.com:443?encryption=none&type=ws&security=tls&path=/sg-do&host=support.zoom.us.cyylr.eu.cc&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🇰🇪42003 | ⚡️Telegram = t.me/SOSkeyNET
