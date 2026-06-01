@@ -1,20 +1,20 @@
-vless://4fdd75aa-1a40-4305-9366-4040d5728049@www.speedtest.net:2086?path=/&security=none&encryption=none&host=testconnection1.iranvatanam.com&type=httpupgrade#kurdconfig
-vless://418b3f19-2298-4b35-8349-e5b1ac568e9c@chatgpt.com:2053?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=de.multi-hk.pro&type=ws&allowInsecure=0&sni=de.multi-hk.pro#🇨🇦42007 | ⚡️Telegram = t.me/SOSkeyNET
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#Tel;Father_vpn²
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#AzadMarz Humanity 1
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
-vless://70956ee4-e812-4417-9094-5bd568af4903@104.17.121.71:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=sabko.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=sabko.tll-far.ir#• اختصاصی چنل ما که وصلیم •
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=/?ed=2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#🇨🇦41912 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=/&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#🇨🇦42027 | ⚡️Telegram = t.me/SOSkeyNET
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
-vless://536b1843-a13a-4a57-b778-bfc58e6cadb9@yeksanaat.ir:2082?type=ws&encryption=none&path=/&host=g1.nybaz.space&security=none#filembad-128
-vless://52ad04bc-eb90-4845-aae1-1f422522332f@188.114.99.160:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#🇺🇸42039 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime17.workers.dev&path=/#🇭🇰41918 | ⚡️Telegram = t.me/SOSkeyNET
-vless://6a8d7e9c-cc55-4816-80aa-e7cdfebc96b9@31.43.179.0:8880?type=httpupgrade&path=/?ed=2080&host=shad.hsrdnr.ir&security=none#موقت2
-vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?encryption=none&type=grpc&security=tls&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#​
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇸🇨41925 | ⚡️Telegram = t.me/SOSkeyNET
-vless://46de6562-c439-42cb-9f4b-6e0d9f944d77@104.19.64.105:2086?path=/?ed=2086&security=none&encryption=none&host=a3ssa.vaslbsh.com&type=httpupgrade#🇨🇦42020 | ⚡️Telegram = t.me/SOSkeyNET
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#TEL;Father_vpn³
 vless://4b8a44a6-ae42-4beb-991e-c4f3b048060c@199.232.236.87:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#RezVPN | Rz
-vless://536b1843-a13a-4a57-b778-bfc58e6cadb9@yeksanaat.ir:2082?type=ws&encryption=none&path=/&host=g1.nybaz.space&security=none#🇨🇦41888 | ⚡️Telegram = t.me/SOSkeyNET
+vless://505840df-3b05-4767-829c-9edeba1efa99@151.101.109.223:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=italymm.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=biography.com#kurdconfig
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
+vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=/in-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇨🇦42510 | ⚡️Telegram = t.me/SOSkeyNET
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#kurdconfig
+vless://5f188e60-f3fc-45fb-8aec-8cc20a4ad876@solar.appleseraj.ir:2083?path=?ed=2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#🇸🇨42496 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.58.115:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇨🇦42620 | ⚡️Telegram = t.me/SOSkeyNET
+vless://5f188e60-f3fc-45fb-8aec-8cc20a4ad876@solar.appleseraj.ir:2083?path=?ed=2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#VpnFardad
+vless://6a8d7e9c-cc55-4816-80aa-e7cdfebc96b9@31.43.179.0:8880?type=httpupgrade&path=/?ed=2080&host=shad.hsrdnr.ir&security=none#موقت2
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
+vless://565b50d4-604d-4a60-9fc2-d9d3dac0aec6@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/id-pusat&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&alpn=http/1.1&fp=chrome&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#kurdconfig
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇨
+vless://4ee65841-c12e-4a5a-b743-9dc86c0c0ea0@188.114.97.6:443?mode=auto&path=/Telegram-ZEDMODEON&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=danmo.lezzatcore.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=danmo.lezzatcore.ir#Erfwp
+vless://5b6e7300-8fc8-404e-8dc9-40a5393dd881@fx3033.game2lizard.com:80?encryption=none&type=ws&path=/XnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn?ed=2560&host=line.smartphone1.azazilvpn.sbs#​
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#AzadMarz Humanity 1
+vless://6a719f2b-b629-462d-975a-9c0daa3edb75@chatgpt.com:2083?path=/&security=tls&encryption=none&insecure=1&host=raviddd.pages.dev&type=ws&allowInsecure=1&sni=rAviDdD.paGEs.DEv#Tel;Father_vpn¹
+vless://5a52da73-204a-477f-b865-d044262d1a17@45.130.125.69:8880?path=/chAKKalXDoesKnow?ed=8080&security=none&encryption=none&host=ghtp.kharabetam.de.&type=ws#𝗗𝗔𝗟𝗧𝗢𝗡 𝗣𝗜𝗡𝗚
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime17.workers.dev&path=/#kurdconfig

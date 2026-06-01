@@ -1,1 +1,1 @@
-vless://006e96ff-db44-4086-a374-7b8aa7351fe2@microsoft.com:443?encryption=none&type=ws&security=tls&path=/sg-do&host=support.zoom.us.cyylr.eu.cc&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🇰🇪42003 | ⚡️Telegram = t.me/SOSkeyNET
+vless://TIGNAL-CRYPTO@fastly.com:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AXX
