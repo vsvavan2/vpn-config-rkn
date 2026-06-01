@@ -1,1 +1,1 @@
-vless://TIGNAL-CRYPTO@fastly.com:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AXX
+vless://266c0d10-d0f4-41f2-9d82-37cedf863fe7@microsoft.com:443?encryption=none&type=ws&security=tls&path=/in-pdr&host=cyylr.eu.cc&sni=cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#kurdconfig
