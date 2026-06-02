@@ -1,1 +1,1 @@
-vless://InternetAzadRobot-AliKiller@fastly.com:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#𝗗𝗔𝗟𝗧𝗢𝗡 𝗣𝗜𝗡𝗚
+vless://c6f71723-35a8-4186-ad6e-2b3d39d9b4f8@dm.mega-bollywood.ir:80?encryption=none&type=xhttp&path=%2F&host=speedup58.global.ssl.fastly.net&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%28West%29%20%7C%20%5BBL%5D
