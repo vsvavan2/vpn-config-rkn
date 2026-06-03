@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%287th%20Arrondissement%29%20%7C%20%5BBL%5D
+vless://TIGNAL-CRYPTO@fastly.com:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AFR
