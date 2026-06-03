@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#%3E%3E%40V2pedia%3A%3AFR
+vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.193.57:80?mode=auto&path=%2F&security=&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%3E%3E%40mehrosaboran%3A%3AFR
