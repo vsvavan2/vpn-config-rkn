@@ -1,1 +1,1 @@
-vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.193.57:80?mode=auto&path=%2F&security=&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%3E%3E%40mehrosaboran%3A%3AFR
+vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#%3E%3E%40V2rayNG3%3A%3AFR
