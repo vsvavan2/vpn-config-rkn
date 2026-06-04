@@ -1,20 +1,20 @@
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://Config0plus@investors.spotify.com.cyylr.eu.cc:443?security=tls&sni=investors.spotify.com.cyylr.eu.cc&fp=chrome&allowInsecure=0&type=ws&path=/in-pdr#🇨🇦48359 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://Config0plus@45.130.125.0:443?path=/id-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#kurdconfig
-trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/ConfigX2ray
-trojan://Config0plus@api24-normal.tiktokv.com.cyylr.eu.cc:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&fp=chrome&allowInsecure=0&type=ws&path=/id-tksi#🇨🇦48372 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ@149.28.255.6:816#🇺🇸48410 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#kurdconfig
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
 trojan://2t5hATPZBk@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dd.aananas.ir.&fp=chrome&allowInsecure=0#kurdconfig
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#T.me/CONFiGiR98
-trojan://@tootffarangi🍓@45.130.125.0:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇨48318 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?sni=ch.01.naiun.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇨🇦48339 | ⚡️Telegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🇺🇸 آمریکا | https://t.me/FREECONFIGSPLUS ✨
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45553?sni=ch.01.naiun.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸48346 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:47909?sni=is.01.naiun.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸48341 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:46424?sni=de.01.naiun.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸48342 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ@149.28.255.6:816#kurdconfig
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#v2rayNplus |France
-trojan://896be5eb-6f58-4a89-b284-fdfb6d3a0ada@96.16.122.147:80?security=none&type=ws&host=unnes.ac.id.cyylr.eu.cc&path=/id-tksi#v2ray_configs_pool-23
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#TEL;FATHER_VPN²
-trojan://896be5eb-6f58-4a89-b284-fdfb6d3a0ada@96.16.122.147:80?security=none&type=ws&host=unnes.ac.id.cyylr.eu.cc&path=/id-tksi#🇫🇷48375 | ⚡️Telegram = t.me/SOSkeyNET
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷49222 | ⚡️Telegram = t.me/SOSkeyNET
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@it5.taskflowhub.org:2083#🇮🇹49135 | ⚡️Telegram = t.me/SOSkeyNET
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹49176 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#best_internet_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#kurdconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#v2rayNplus |United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#TEL;Father_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#filembad-21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#https://t.me/v2raynplus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#kurdconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#https://t.me/v2raynplus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#kurdconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#TEL;FATHER_VPN²

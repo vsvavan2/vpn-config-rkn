@@ -1,20 +1,20 @@
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&fp=chrome&allowInsecure=0#%40proxy_kafee%20%DB%B2
-vless://8ad2869d-1571-45cc-8d02-10aea6d600ac@45.130.125.160:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=partner.catchplay.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=partner.catchplay.com.cyylr.eu.cc#
-trojan://Config0plus@investors.spotify.com.cyylr.eu.cc:443?security=tls&sni=investors.spotify.com.cyylr.eu.cc&fp=chrome&allowInsecure=0&type=ws&path=/in-pdr#🇨🇦48359 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/ConfigX2ray
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
-vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@141.193.213.11:443?encryption=none&type=ws&security=tls&path=%2Fid-tksi&host=grabacademyportal.grab.com.cyylr.eu.cc&sni=grabacademyportal.grab.com.cyylr.eu.cc&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%40proxy_kafee
 trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn²
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn⁸
 trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#proxymelimon
-trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=/ae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#vmessorg
+trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/ConfigX2ray
+trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#kurdconfig
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
 trojan://Config0plus@45.130.125.0:443?path=/id-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#kurdconfig
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
-trojan://ecdc0264-1dcd-4ed8-9369-7de102fe308b@492-LESSWEB.mmm.uw.to:443?sni=492-LESSWEB.mmm.uw.to&type=ws&path=/ecdc0264-1dcd-4ed8-9369-7de102fe308b-tr&host=492-LESSWEB.mmm.uw.to&alpn=h2,http/1.1&fp=chrome#🇨🇦48345 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ@149.28.255.6:816#🇺🇸48410 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://Config0plus@api24-normal.tiktokv.com.cyylr.eu.cc:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&fp=chrome&allowInsecure=0&type=ws&path=/id-tksi#🇨🇦48372 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=ios&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/VIPV2rayNGNP
-trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#kurdconfig
-trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@45.130.125.158:443?path=/in-do&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=blog.webex.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.cyylr.eu.cc#𝐃𝐀𝐋𝐓𝐎𝐍
+vless://8ad2869d-1571-45cc-8d02-10aea6d600ac@45.130.125.160:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=partner.catchplay.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=partner.catchplay.com.cyylr.eu.cc#
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#Free%2052%20%40Outline_Vpn
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=%2Fsg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL%3AFather_vpn
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@141.193.213.11:443?encryption=none&type=ws&security=tls&path=%2Fid-tksi&host=grabacademyportal.grab.com.cyylr.eu.cc&sni=grabacademyportal.grab.com.cyylr.eu.cc&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%40proxy_kafee
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&fp=chrome&allowInsecure=0#%40proxy_kafee%20%DB%B2
+trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#%40V2raysCollector%20%F0%9F%92%96
+trojan://2t5hATPZBk@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dd.aananas.ir.&fp=chrome&allowInsecure=0#kurdconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🇺🇸 آمریکا | https://t.me/FREECONFIGSPLUS ✨
