@@ -1,20 +1,20 @@
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=ios&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/VIPV2rayNGNP
-trojan://humanity@185.18.250.252:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%A9%B5
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-trojan://humanity@185.18.250.245:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%92%95
-trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#%40V2raysCollector%20%F0%9F%92%96
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#TEL%3BFather_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cjJIQ0hUUlhTcURjT3ZJWG5zc0R1Z3VVNzRtc0RqRXU1WGhsa2t1eWRXN2lzNzU=@79.141.166.54:41348#рҹҮЁрҹҮҰ47399 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#рҹҮәрҹҮё47329 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cjJIQ0hUUlhTcURjT3ZJWG5zc0R1Z3VVNzRtc0RqRXU1WGhsa2t1eWRXN2lzNzU=@79.141.166.54:41348#рҹҮЁрҹҮҰ47400 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@141.193.213.11:443?encryption=none&type=ws&security=tls&path=%2Fid-tksi&host=grabacademyportal.grab.com.cyylr.eu.cc&sni=grabacademyportal.grab.com.cyylr.eu.cc&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%40proxy_kafee
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#рҹҮәрҹҮё ШўЩ…ШұЫҢЪ©Ш§ | https://t.me/FREECONFIGSPLUS вңЁ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cjJIQ0hUUlhTcURjT3ZJWG5zc0R1Z3VVNzRtc0RqRXU1WGhsa2t1eWRXN2lzNzU=@79.141.166.54:41348#рҹҮЁрҹҮҰ47400 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cjJIQ0hUUlhTcURjT3ZJWG5zc0R1Z3VVNzRtc0RqRXU1WGhsa2t1eWRXN2lzNzU=@79.141.166.54:41348#рҹҮЁрҹҮҰ47399 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WXlVaGZyWHhvUTk1b2lReExPTk5Xd3Z6dnZRb1F1WGZvSkRvYko4bXllaz06RGxKcU5qNEVMVmNkaHdvUmVtVFgrK0gyd2RXNy95aUVqNWIxbjdYVlZLND0=@47.254.123.246:10003#рҹҮәрҹҮё47561 | вҡЎпёҸTelegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#TEL;Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#v2rayNplus |France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#filembad-9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDQ5U3EtLXc1NGRCeDNRZkJaQ2t3@13.40.43.88:1003#рҹҮ¬рҹҮ§47277 | вҡЎпёҸTelegram = t.me/SOSkeyNET
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206V1pLWCtrQ0wwZXZEb09JM09qMVEyNUlBeVlPemJGSU5OZlVFRjdBdlB5Yz06ZkZHdGFYcDlybXkzODlYOTZqZ2ZlMURCK3N3R0lEd2NRa3lWMDBCcVo3Yz0@82.115.16.8:42589?type=tcp#рҹҮ©рҹҮӘ47357 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#рҹҮірҹҮұ47488 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#[Kia_Net] рҹҮірҹҮұ NL-632#kurdconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#рҹҮірҹҮұ47424 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#https://t.me/v2raynplus
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#proxymelimon
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080?type=tcp&headerType=none#рҹҮірҹҮұ47330 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#[Kia_Net] рҹҮірҹҮұ NL-632
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#https://t.me/v2raynplus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#[
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#United+Kingdom
