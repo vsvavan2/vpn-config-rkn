@@ -1,20 +1,20 @@
-trojan://mitivpn@104.16.75.127:443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&sni=www.www.www.www.95r.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#
-trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#13https://t.me/fastkanfig
-trojan://svmykwb2l2v8jpd6@hakime-kos2.karamoz2.ir:443?security=tls&sni=low-lvl.karamoz2.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&type=xhttp&host=low-lvl.karamoz2.ir&path=/download&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"10-50"}#kurdconfig
-trojan://humanity@www.calmloud.com:443?type=ws&security=tls&path=/assignment&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1#16https://t.me/ConfigX2ray
-vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?path=/15284/coffee&security=tls&encryption=none&host=xh.mmadcoffee.info&fp=chrome&type=ws&sni=sni.mmadcoffee.info#🚀 - 15
-trojan://humanity@141.193.213.10:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#𝐃𝐀𝐋𝐓𝐎𝐍
-trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#13https://t.me/ConfigX2ray
-vless://0284cc16-1e0f-40f0-900d-dfada20ff258@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000.0,"scMaxConcurrentPosts":100.0,"scMinPostsIntervalMs":30.0,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#🇩🇪 t.me/Natrixo AA
-trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#9https://t.me/ConfigX2ray
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.mitivpn.in.net#%vmessorg
-trojan://humanity@104.18.152.233:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#14https://t.me/ConfigX2ray
-trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=/assignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#15https://t.me/Pirimod
-trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=/assignment&sni=www.multiplydose.com&allowInsecure=0#8https://t.me/ConfigX2ray
-trojan://humanity@www.calmloud.com:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#16https://t.me/fastkanfig
+trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#9https://t.me/Pirimod
+trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#🇨🇦51215 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
+trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#9https://t.me/fastkanfig
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&allowInsecure=0#%vmessorg
 trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/Pirimod
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆
-trojan://mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.app-cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#TEL;Father_vpn⁴
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#TEL;Father_vpn
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#proxymelimon
+trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#9https://t.me/ConfigX2ray
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=/assignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#15https://t.me/Pirimod
+trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#13https://t.me/ConfigX2ray
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=/assignment&sni=www.multiplydose.com&allowInsecure=0#8https://t.me/ConfigX2ray
+trojan://humanity@www.calmloud.com:443?type=ws&security=tls&path=/assignment&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1#16https://t.me/ConfigX2ray
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#5https://t.me/ConfigX2ray
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#🇨🇦51190 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#🇨🇦51188 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#3https://t.me/fastkanfig
+trojan://humanity@188.114.97.3:443?path=/assignment&security=tls&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#NormanV2ray-54
+trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?type=ws&security=tls&path=/in-do&host=ads.ruangguru.com.cyylr.eu.cc&sni=ads.ruangguru.com.cyylr.eu.cc&allowInsecure=0#23https://t.me/ConfigX2ray
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#🇨🇦51191 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&allowInsecure=0#%vmessorg
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#3https://t.me/ConfigX2ray
