@@ -1,20 +1,20 @@
-trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/ConfigX2ray
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#kurdconfig
-trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#%40V2raysCollector%20%F0%9F%92%96
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#https://t.me/v2ray_configs_pools
-trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn²
-trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
-trojan://2t5hATPZBk@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dd.aananas.ir.&fp=chrome&allowInsecure=0#kurdconfig
 trojan://Config0plus@45.130.125.0:443?path=/id-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#kurdconfig
-trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
-trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn⁸
+trojan://Config0plus@45.130.125.76:443?path=/sg-melbi&security=tls&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#🇩🇪 t.me/Natrixo BB
 trojan://Telegram-Config0plus@45.130.125.2:443?path=/in-pdr&security=tls&insecure=0&host=media-sin6-3.cdn.whatsapp.net.cyylr.eu.cc&type=ws&allowInsecure=0&sni=media-sin6-3.cdn.whatsapp.net.cyylr.eu.cc#🇸🇨49651 | ⚡️Telegram = t.me/SOSkeyNET
-vless://8ad2869d-1571-45cc-8d02-10aea6d600ac@45.130.125.160:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=partner.catchplay.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=partner.catchplay.com.cyylr.eu.cc#
-trojan://Telegram-Config0plus@104.19.229.21:443?path=/in-pdr&security=tls&insecure=0&host=media-sin6-3.cdn.whatsapp.net.cyylr.eu.cc&type=ws&allowInsecure=0&sni=media-sin6-3.cdn.whatsapp.net.cyylr.eu.cc#🇨🇦49648 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com#🇺🇸49640 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
+trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#%40V2raysCollector%20%F0%9F%92%96
 trojan://2t5hATPZBk@45.130.125.158:443?type=ws&security=tls&path=/?ed=2048&sni=dd.aananas.ir.&fp=chrome&allowInsecure=0#v2ray_configs_pools
+trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#kurdconfig
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn⁸
+trojan://2t5hATPZBk@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dd.aananas.ir.&fp=chrome&allowInsecure=0#kurdconfig
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
-vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=%2Fsg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL%3AFather_vpn
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#Free%2052%20%40Outline_Vpn
-vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@141.193.213.11:443?encryption=none&type=ws&security=tls&path=%2Fid-tksi&host=grabacademyportal.grab.com.cyylr.eu.cc&sni=grabacademyportal.grab.com.cyylr.eu.cc&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%40proxy_kafee
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&fp=chrome&allowInsecure=0#%40proxy_kafee%20%DB%B2
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn²
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
+trojan://humanity@185.18.250.245:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%92%95
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=ios&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/VIPV2rayNGNP
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#https://t.me/v2ray_configs_pools
+trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/ConfigX2ray
