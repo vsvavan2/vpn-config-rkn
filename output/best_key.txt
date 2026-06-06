@@ -1,1 +1,1 @@
-ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+vless://fdab366a-367e-4996-ae05-aebd594f92dc@151.101.108.223:443?encryption=none&type=ws&security=tls&path=/&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵52822 | ⚡️Telegram = t.me/SOSkeyNET

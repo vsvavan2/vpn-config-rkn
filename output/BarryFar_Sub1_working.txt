@@ -1,20 +1,20 @@
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&security=tls#🇨🇦52788 | ⚡️Telegram = t.me/SOSkeyNET
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://8r&lt;[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&host=Koma-YT.PAGeS.Dev&allowinsecure=0&type=ws&sni=Koma-YT.PAGeS.Dev#kurdconfig
 trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?type=ws&security=tls&path=/in-do&host=ads.ruangguru.com.cyylr.eu.cc&sni=ads.ruangguru.com.cyylr.eu.cc&allowInsecure=0#23https://t.me/ConfigX2ray
+trojan://8r&lt;[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&host=Koma-YT.PAGeS.Dev&allowinsecure=0&type=ws&sni=Koma-YT.PAGeS.Dev#kurdconfig
+vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#%40HajmVPN_Config%20%E2%9A%A1
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://humanity@45.130.125.160:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&security=tls#🇨🇦52788 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#%40V2raysCollector%20%F0%9F%92%96
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸52839 | ⚡️Telegram = t.me/SOSkeyNET
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#best_internet_iran::🇺🇸
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸52841 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 t.me/Natrixo AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#TEL;Father_vpn
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#Free%20100%20%40Outline_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MGc3SlE4ZkVfa2o3UEtzUFlNNTVXZXprYnktYjRSNA==@uk.bidimino.sbs:1080#🇬🇧52725 | ⚡️Telegram = t.me/SOSkeyNET
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://8r<[9'l6hAO#8ZQi@146.103.114.206:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#🇳🇱52785 | ⚡️Telegram = t.me/SOSkeyNET
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#%40v2raybaaz%20%283%29
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 t.me/Natrixo AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#TEL;Father_vpn
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#Free%20100%20%40Outline_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
