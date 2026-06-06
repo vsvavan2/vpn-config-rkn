@@ -1,20 +1,20 @@
-trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?security=tls&sni=afrcloud1.mmv.kr&type=tcp#рҹҮәрҹҮё53072 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=/api/live/stream/region-de/feed&security=tls&type=tcp#рҹҮЁрҹҮҰ53077 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?path=/?proxyip=ip.111000.de5.net:443&security=tls&type=tcp#рҹҮЁрҹҮҰ53075 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?path=/?proxyip=ip.111000.de5.net:443&security=tls&type=tcp#рҹҮЁрҹҮҰ53074 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?allowInsecure=1&host=uk1.test3.net&path=/howdy&security=tls&sni=uk1.test3.net&type=ws#рҹҮЁрҹҮҰ53078 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?type=ws&security=tls&path=/in-do&host=ads.ruangguru.com.cyylr.eu.cc&sni=ads.ruangguru.com.cyylr.eu.cc&allowInsecure=0#23https://t.me/ConfigX2ray
-trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&type=tcp#рҹҮЁрҹҮҰ53073 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-trojan://8r&lt;[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&host=Koma-YT.PAGeS.Dev&allowinsecure=0&type=ws&sni=Koma-YT.PAGeS.Dev#kurdconfig
-trojan://humanity@45.130.125.160:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#
-vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#%40HajmVPN_Config%20%E2%9A%A1
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng@66.94.125.178:80#рҹҮәрҹҮё53110 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn⁸
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
+trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?type=ws&security=tls&path=/in-do&host=ads.ruangguru.com.cyylr.eu.cc&sni=ads.ruangguru.com.cyylr.eu.cc&allowInsecure=0#23https://t.me/ConfigX2ray
+trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/ConfigX2ray
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
+trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#3https://t.me/fastkanfig
+vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#%40HajmVPN_Config%20%E2%9A%A1
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn²
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#TEL;Father_vpn
-ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag@149.102.132.184:80#рҹҮ¬рҹҮ§53115 | вҡЎпёҸTelegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388?type=tcp&headerType=none#18https://t.me/ConfigX2ray
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#%40v2raybaaz%20%283%29
+vless://a4caef32-090f-4f17-b7fa-2808f205620d@64.49.46.225:57502?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=IOAu39FSiRk_VX4sfzCVZorWhUY0ikftPdHqcmNoY1c&sid=ebfeeffb94d5bd5d&sni=www.tesla.com#
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?type=tcp&security=tls&headerType=none&sni=fra34.tracker-ws.click&allowInsecure=0#4https://t.me/ConfigX2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeUJZMHgyS2Rxc09iZ21tUmlYRkxORUlqbXBQZmlscW5ab2F0TnBUQ2JzPQ@syncguard.yatamoa.me:443?type=tcp#http://t.me/v2ray_configs_pools
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#7https://t.me/fastkanfig
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#kurdconfig
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#https://t.me/v2rayNplus |🇩🇪
