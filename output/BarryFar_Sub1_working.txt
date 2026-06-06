@@ -1,20 +1,20 @@
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@cf.008500.xyz:443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇨🇦51659 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@mfa.gov.ua:443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇨🇦51661 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@cloudflare-ip.mofashi.ltd:443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇨🇦51653 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@ctcc.cloudflare.seeck.cn:443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇨🇦51654 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@cdn.9889888.xyz:443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇨🇦51662 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
-trojan://humanity@185.18.250.245:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%92%95
-trojan://humanity@185.18.250.252:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%A9%B5
 trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#%40V2raysCollector%20%F0%9F%92%96
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#filembad-18
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🇺🇸51788 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🇺🇸 آمریکا | https://t.me/FREECONFIGSPLUS ✨
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#best_internet_iran::🇺🇸
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@154.26.176.148:8443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇺🇸51673 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@64.186.227.25:8443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇺🇸51682 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@154.17.25.156:8443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇺🇸51668 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@64.186.240.9:8443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇺🇸51684 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@154.21.89.103:8443?plugin=v2ray-plugin;mode=websocket;host=ss.hhyy.nn.kg;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;mux=0;tls&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇺🇸51675 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@185.18.250.252:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%A9%B5
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?type=ws&security=tls&path=/in-do&host=ads.ruangguru.com.cyylr.eu.cc&sni=ads.ruangguru.com.cyylr.eu.cc&allowInsecure=0#23https://t.me/ConfigX2ray
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
+trojan://humanity@185.18.250.245:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%92%95
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#рЯЗЇрЯЗЄ52349 | вЪ°пЄПTelegram = t.me/SOSkeyNET
+trojan://8r&lt;[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&host=Koma-YT.PAGeS.Dev&allowinsecure=0&type=ws&sni=Koma-YT.PAGeS.Dev#kurdconfig
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#best_internet_iran::рЯЗЇрЯЗЄ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#рЯЗЇрЯЗЄ ЎҐўЕЎ±џМЏ©ЎІ | https://t.me/FREECONFIGSPLUS вЬ®
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.96.152.83:443#рЯЗ®рЯЗ¶52360 | вЪ°пЄПTelegram = t.me/SOSkeyNET
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.60.99.199:443#рЯЗ®рЯЗ¶52354 | вЪ°пЄПTelegram = t.me/SOSkeyNET
+ss://YWVzLTI1Ni1nY206NmM0YmQ0NzQtYWMyMy00N2ZjLTg3NDItYzhmOTkwMzU3ODM2@ss.030.node-for-bigairport.win:19287#v2ray_configs_pool-24
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388?type=tcp&headerType=none#18https://t.me/ConfigX2ray
+trojan://AG4yPUSazj57DBFnKG@de-2.tr202604.com:443?type=tcp&security=tls&headerType=none&allowInsecure=1#ўЖЎІўЕЎ≠ЎѓўИЎѓ Ў±ЎІџМЏѓЎІўЖ
+trojan://AG4yPUSazj57DBFnKG@de-3.tr202604.com:443?type=tcp&security=tls&headerType=none&allowInsecure=1#ўЖЎІўЕЎ≠ЎѓўИЎѓ Ў±ЎІџМЏѓЎІўЖ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
