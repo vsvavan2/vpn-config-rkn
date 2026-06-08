@@ -1,20 +1,20 @@
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-trojan://45c47cfa-67da-47e0-b20b-5efa674e6a9b@104.16.72.70:443?host=unnes.ac.id.r3xxe.eu.cc&path=/us-gllc&sni=unnes.ac.id.r3xxe.eu.cc&type=ws#🇨🇦56939 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://45c47cfa-67da-47e0-b20b-5efa674e6a9b@104.16.72.70:443?security=tls&sni=unnes.ac.id.r3xxe.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.r3xxe.eu.cc&path=/us-gllc#kurdconfig
-trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@104.16.72.70:443?path=/au-mt&security=tls&insecure=0&host=unnes.ac.id.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.r3xxe.eu.cc#kurdconfig
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
+trojan://Sg11afdb3c058cf8211956@ip1.hostparsa.ir:443?mode=auto&path=/download&security=tls&alpn=h2,http/1.1&extra={"scMaxEachPostBytes":1000000.0,"scMaxConcurrentPosts":100.0,"scMinPostsIntervalMs":30.0,"xPaddingBytes":"100-1000","noGRPCHeader":false}&host=x2-dpim9mztudx78ieloo1t.parsiclouds.ir&fp=chrome&allowinsecure=0&type=xhttp&sni=x2-dpim9mztudx78ieloo1t.parsiclouds.ir#kurdconfig
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🌐 Anycast-IP | 🇬🇧 🇷🇺 🇸🇬 | [BL]
-trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@104.16.72.70:443?host=unnes.ac.id.r3xxe.eu.cc&path=/au-mt&sni=unnes.ac.id.r3xxe.eu.cc&type=ws#🇨🇦56932 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://45c47cfa-67da-47e0-b20b-5efa674e6a9b@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=unnes.ac.id.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.r3xxe.eu.cc#kurdconfig
-trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&insecure=0&allowInsecure=0&type=ws&host=epge.muarua.filegear-sg.me&path=/#kurdconfig
-ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.158:443#[🇩🇪]Kia_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ@82.38.31.15:443?type=tcp&headerType=none#10https://t.me/ConfigX2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?type=tcp&headerType=none#5https://t.me/ConfigX2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱56947 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#kurdconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#https://t.me/v2raynplus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080?type=tcp&headerType=none#7https://t.me/ConfigX2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?type=tcp&headerType=none#v2raysvip
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn²
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
+trojan://Config0plus@104.17.121.71:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi#🇨🇦57480 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn⁸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#v2ray_configs_pool-25
+trojan://SoftNetConnect@213.165.45.14:2087?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=aw1V5pDSuLXeh6pbZ76eEJlSSNhuZzvnQuJGFOJFyh8&sid=7f&spx=/#https://t.me/AarazV2ray
+trojan://SoftNetConnect@213.165.45.14:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=is6qOkhScQVyCdEAAfj2tqa_VLSLOEkVn2-D8ogWxBc&sid=d6d0ee80cb096d21&spx=/#https://t.me/AarazV2ray
+trojan://SoftNetConnect@213.165.45.14:443?mode=auto&path=/&security=reality&pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=ec166292d30c9301#kurdconfig
+trojan://SoftNetConnect@213.165.45.14:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&sid=ec166292d30c9301&spx=/#https://t.me/AarazV2ray
+trojan://SoftNetConnect@213.165.45.15:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&sid=ec166292d30c9301&spx=/#https://t.me/AarazV2ray
+trojan://SoftNetConnect@213.165.45.15:2087?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=aw1V5pDSuLXeh6pbZ76eEJlSSNhuZzvnQuJGFOJFyh8&sid=7f&spx=/#https://t.me/AarazV2ray
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#Ajomong 🇯🇵
+ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003#🇯🇵 t.me/Natrixo BB
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#kurdconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#filembad-10
-ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0=@de5.taskflowhub.org:2083#kurdconfig
+ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@47.79.20.130:443?ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&plugin=v2ray-plugin;mode=websocket;host=ss.hhll.qqs.me;path=/proxyip\=104.168.132.123\,172.104.53.198\,85.121.50.16\,151.242.125.226?enc\=aes-128-gcm;tls;mux=0#🇭🇰57484 | ⚡️Telegram = t.me/SOSkeyNET

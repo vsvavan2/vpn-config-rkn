@@ -1,1 +1,1 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇨🇦57641 | ⚡️Telegram = t.me/SOSkeyNET
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.6-0038
