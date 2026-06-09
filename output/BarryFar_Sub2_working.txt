@@ -1,20 +1,20 @@
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=404.mitii33.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=404.mitii33.workers.dev#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https://chatgpt.com&sni=mitivpn.dsech.ss.ssandfdsgx.gloteefghedcal.ssl.fastly.net.b5r.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#https://t.me/AarazV2ray
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#TEL;Father_vpn
-vless://045acec8-7d9e-4793-9917-c909a4a70887@api2.atirose.com:2087?security=tls&encryption=none&insecure=0&host=s1.monopoligame.ir&type=ws&allowInsecure=0&sni=s1.monopoligame.ir#MTMVPN
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=brev.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#8https://t.me/ConfigX2ray
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=ntrt.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#9https://t.me/ConfigX2ray
-vless://045acec8-7d9e-4793-9917-c909a4a70887@104.18.26.90:2087?security=tls&encryption=none&insecure=0&host=djdj.mobomb.ir&type=ws&allowInsecure=0&sni=djdj.mobomb.ir#v2ray_configs_pools
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&type=ws&path=/&host=max-de1.global.ssl.fastly.net#19https://t.me/ConfigX2ray
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#2https://t.me/ConfigX2ray
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#9https://t.me/ConfigX2ray
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=ntrt.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#10https://t.me/ConfigX2ray
+vless://045acec8-7d9e-4793-9917-c909a4a70887@api2.atirose.com:2087?security=tls&encryption=none&insecure=0&host=s1.monopoligame.ir&type=ws&allowInsecure=0&sni=s1.monopoligame.ir#MTMVPN
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#kurdconfig
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@104.21.11.130:443?encryption=none&type=ws&security=tls&path=/index.html&sni=miox99.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#7https://t.me/ConfigX2ray
-vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#V2dogs_n
-trojan://humanity@104.16.7.70:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#HqV2rayNG
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#kurdconfig
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
 vless://04969b01-ac6a-4056-b5cd-852ccf45f102@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#kurdconfig
-trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https://chatgpt.com&sni=mifgddn.dsasech.ss.ssandfdsgsczdx.gloteefghedcal.ssl.fastly.net.b5r.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#https://t.me/AarazV2ray
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&host=www.calmloud.com&allowinsecure=0&type=ws&sni=www.calmloud.com#kurdconfig
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=vrnt4.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#6https://t.me/ConfigX2ray
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=1&host=nl.e-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=1&sni=mitivpn.dsech.ss.ssandfdsgx.gloteefghedcal.ssl.fastly.net.b5r.ir#kurdconfig
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#TEL;Father_vpn
 trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#kurdconfig
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#TEL;Father_vpn
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=brev.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#8https://t.me/ConfigX2ray
