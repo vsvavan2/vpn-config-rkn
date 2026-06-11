@@ -1,1 +1,1 @@
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&mode=packet-up&extra=null&sni=top3739667002.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B%2ACIDR%5D
+vless://0a12381a-e241-4b63-a03c-1a5a45a95977@ru.locklance.lol:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=ru.locklance.lol&fp=chrome&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&sid=3b591a1227f69e03&spx=%2F&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
