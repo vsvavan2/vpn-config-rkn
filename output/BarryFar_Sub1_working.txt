@@ -1,20 +1,20 @@
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#🇺🇸67860 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:48697?security=tls&sni=gh.01.naiun.bilibili.com#🇺🇸67980 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:45619?security=tls&sni=fr.01.naiun.bilibili.com#🇺🇸67979 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@16.146.46.236:80#美国 03
+trojan://6d9c4400-671a-11f1-ac62-1239d0255272@news.microsoft.com:443?path=/howdy&security=tls&insecure=0&host=usa.test3.net&type=ws&allowInsecure=0&sni=usa.test3.net#🇺🇸68238 | ⚡️Telegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#https://t.me/v2rayNplus |🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#🇨🇦67961 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@34.221.112.206:80#美国 02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppYm9uQ2REOGtCcG9IdHZn@74.234.78.179:443#🇮🇪67877 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#🇹🇼 t.me/Natrixo AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#5https://t.me/ConfigX2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@51.104.237.70:443#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#V2dogs_n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#1https://t.me/ConfigX2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.237.70:443#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#https://t.me/fastkanfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#2https://t.me/ConfigX2ray
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@3.27.212.11:80#澳大利亚 01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#https://t.me/fastkanfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.50.123.173:443#https://t.me/v2rayNplus |🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@40.120.60.135:443#https://t.me/v2rayNplus |🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@51.104.237.70:443#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#V2dogs_n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#9https://t.me/ConfigX2ray
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#https://t.me/v2rayNplus |🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppVUtLcHlUMjF4d1FvYllvWGFDZXFj@195.93.253.240:14130#https://t.me/v2rayNplus |🇳🇱
