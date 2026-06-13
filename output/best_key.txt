@@ -1,1 +1,1 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%3E%3E%40prrofile_purple%3A%3ADE
+vless://da48859d-edf9-4a8c-a026-80910591f284@fastly.com:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tignaltofansv8.global.ssl.fastly.net&mode=auto&path=/Tignal&security=none&type=xhttp#🇨🇦67639 | ⚡️Telegram = t.me/SOSkeyNET

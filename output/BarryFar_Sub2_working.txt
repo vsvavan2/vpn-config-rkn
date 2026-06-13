@@ -1,20 +1,20 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇩🇪 DE
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus |🇩🇪
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#name : rasad-unlimited
-trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=nleiyajji.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER#🇺🇸67412 | ⚡️Telegram = t.me/SOSkeyNET
-vless://04969b01-ac6a-4056-b5cd-852ccf45f102@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#🇨🇦67695 | ⚡️Telegram = t.me/SOSkeyNET
+vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#🇳🇱 t.me/Natrixo BB
+trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸67698 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
+trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/?mitivpn&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#filembad-53
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#🇵🇱 t.me/Natrixo AA
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆💎
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&type=ws&sni=www.calmloud.com#kurdconfig
-trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#V2dogs_n
-trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
-vless://045acec8-7d9e-4793-9917-c909a4a70887@api2.atirose.com:2087?security=tls&encryption=none&insecure=0&host=s1.monopoligame.ir&type=ws&allowInsecure=0&sni=s1.monopoligame.ir#MTMVPN
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🇨🇦67490 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#TEL;Father_vpn
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#name : rasad-unlimited
+trojan://humanity@104.18.13.149:443?security=tls&sni=www.calmloud.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=/assignment#🇺🇳☁️ UN
+trojan://rpb9CaeQ6j@188.114.97.6:443?type=ws&security=tls&path=/de&host=Di.AanAnas.Ir.&sni=Di.AanAnas.Ir.&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇩🇪 t.me/Natrixo AA
+trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4https://t.me/ConfigX2ray
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#TEL;Father_vpn
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇩🇪 DE
+trojan://mitivpn@188.114.97.6:443?security=tls&sni=95r.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=dash.cloudflare.com.www.95r.ir&path=/?mitivpn#🇳🇱☁️ NL
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🪖
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
+trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#V2dogs_n
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#👑🇺🇸همه+اپراتور+ها
