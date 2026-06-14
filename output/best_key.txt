@@ -1,1 +1,1 @@
-vless://d6d412e9-6ede-4c0b-be0d-d2b4499b6c6f@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#V2RFA
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%3E%3E%40prrofile_purple%3A%3AXX
