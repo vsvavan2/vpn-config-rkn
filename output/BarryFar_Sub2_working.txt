@@ -1,20 +1,20 @@
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ProxyMtpVPN-62
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#NormanV2ray-50
-trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&sni=www.ssl.global.digi.my.mitivpn.xyz&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V2RFA
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦70960 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&type=ws&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=tr-cd.sublink-vip2.com#2https://t.me/ConfigX2ray
-trojan://mitivpn@104.16.72.70:443?security=tls&sni=gamingdll.ir&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.php/ed=mitivpn#🇨🇦71015 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://8800c518-e68a-4441-a45c-cd67855ن784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#🇨🇦71039 | ⚡️Telegram = t.me/SOSkeyNET
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#🇨🇦70933 | ⚡️Telegram = t.me/SOSkeyNET
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&sni=max-gb1.global.ssl.fastly.net#🇨🇦70913 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
-trojan://8800c518-e68a-4441-a45c-cd67855h784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#🇨🇦70974 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#kurdconfig
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#erfanandroid
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus |🇩🇪
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
-trojan://humanity@89.116.46.68:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇩🇪71006 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@104.16.7.70:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#HqV2rayNG
-trojan://8800c518-e68a-4441-a45c-cd6785b5784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#🇨🇦71020 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#👑🇺🇸همه+اپراتور+ها
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#عضو باش تا قطع نشی -https://t.me/fastkanfig
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#TEL;Father_vpn
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🍁
+trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#erfanandroid
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦70960 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
+trojan://mitivpn@104.19.229.21:443?security=tls&sni=gamingdll.ir&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed=mitivpn#🇨🇦71012 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#erfanandroid
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 t.me/Natrixo AA
-trojan://mitivpn@27.50.48.49:443?security=tls&sni=gamingdll.ir&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.html/ed=mitivpn#🇭🇰71014 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://mitivpn@104.16.72.70:443?security=tls&sni=gamingdll.ir&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.php/ed=mitivpn#🇨🇦71015 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@104.18.13.149:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#ProxyMtpVPN-56
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&type=ws&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=tr-cd.sublink-vip2.com#2https://t.me/ConfigX2ray
