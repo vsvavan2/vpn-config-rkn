@@ -1,1 +1,1 @@
-vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#%FREE_VPn02
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
