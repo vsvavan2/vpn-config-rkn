@@ -1,20 +1,20 @@
 ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.135.234:443?security=tls&type=ws&sni=de1.trojanvpn.de&path=/path/Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config&host=de1.trojanvpn.dE#🇨🇦73230 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@saas.sin.fan:443?security=tls&sni=jy.hhllfly.kdns.fr&alpn=http/1.1&fp=chrome&type=ws&host=jy.hhllfly.kdns.fr&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol#🇨🇦73221 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#🇺🇸73203 | ⚡️Telegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#https://t.me/v2rayNplus |🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#🇺🇸73033 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#🇺🇸73116 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#kurdconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#jing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#https://t.me/fastkanfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#🇺🇸73204 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸73311 | ⚡️Telegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#kurdconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#https://t.me/v2rayNplus |🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#kurdconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#https://t.me/v2rayNplus |🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#https://t.me/fastkanfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#https://t.me/fastkanfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#kurdconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#https://t.me/v2rayNplus |🇬🇧
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧73052 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#jing
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#proxymelimon
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#https://t.me/v2rayNplus |🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russia
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#Russia
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppVUtLcHlUMjF4d1FvYllvWGFDZXFj@195.93.253.240:14130#https://t.me/v2rayNplus |🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#https://t.me/v2rayNplus |🇳🇱
