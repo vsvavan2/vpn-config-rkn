@@ -1,1 +1,1 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=/login&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦72797 | ⚡️Telegram = t.me/SOSkeyNET
