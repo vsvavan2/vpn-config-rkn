@@ -1,1 +1,1 @@
-vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&path=%2F&security=&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://1ad4f619-c81a-44d7-9e4d-6e9f19115cab@bytodev.global.ssl.fastly.net:80?path=/ws&security=&encryption=none&type=ws#🇩🇪75951 | ⚡️Telegram = t.me/SOSkeyNET
