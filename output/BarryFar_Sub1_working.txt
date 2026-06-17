@@ -1,20 +1,20 @@
-trojan://0ab59a11983d4ce7862d156c164d927d@188.114.96.3:443?path=/eyJqdW5rIjoicFlpMlNNRHl3bkdYOSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=faST-RoUtE-dd4E2D.FrEefiRemO7964.WoRkeRs.dEV&fp=chrome&type=ws&allowInsecure=0&sni=fasT-ROute-dd4e2D.fREEfIremo7964.WoRKerS.dev#🇨🇦74751 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://0ab59a11983d4ce7862d156c164d927d@www.speedtest.net:443?path=/eyJqdW5rIjoiajRMMndudHIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDkuMTIyLjE5OC4xMjciXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=FAST-RouTE-Dd4E2d.fREefIREmO7964.wOrKerS.dev&fp=chrome&type=ws&allowInsecure=0&sni=FAST-Route-DD4E2D.FREEfiReMO7964.WOrkeRS.DEV#🇨🇦74749 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://0ab59a11983d4ce7862d156c164d927d@188.114.96.3:443?path=/eyJqdW5rIjoicFlpMlNNRHl3bkdYOSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=faST-RoUtE-dd4E2D.FrEefiRemO7964.WoRkeRs.dEV&fp=chrome&type=ws&allowInsecure=0&sni=fasT-ROute-dd4e2D.fREEfIremo7964.WoRKerS.dev#🇨🇦74750 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVznLTEyOC1nY206c2hhZG93c29ja3M=h@173.244.56.9:443#🇺🇸74736 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVhzLTEyOC1nY206c2hhZG93c29ja3M=n@156.146.38.168:443#🇺🇸74738 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🇺🇸74733 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🇺🇸74774 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRbVG1MVmlVNFZFbXV3Yk94VXc0SVhhk@107.172.250.161:59556#🇺🇸74742 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#🇺🇸74775 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#https://t.me/fastkanfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#https://t.me/v2rayNplus |🇬🇧
+trojan://125bd815be9b406f@trytoconect.pages.dev:443?security=tls&sni=TrytOcOnEcT.PAGeS.Dev&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/eyJqdW5rIjoicXUzbXp6SXBiVCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560#t.me/ConfigFori  -  Config 74368
+trojan://125bd815be9b406f@www.speedtest.net:443?path=/eyJqdW5rIjoicXUzbXp6SXBiVCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http/1.1&insecure=0&host=trytoconect.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=TrytOcOnEcT.PAGeS.Dev#t.me/ConfigFori  -  Config 74378
+trojan://%{q:qf}'ogr;@104.21.37.101:443?path=/eyJqdW5rIjoia3lhOG5VQlY2NU1tZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=LUmOscoNfig.codmDemOnYt1.WORKeRS.DEV#🇨🇦75464 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://%{q:qf}'ogr;@172.67.207.19:443?path=/eyJqdW5rIjoid0swSTdOSEJWUkEiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=LUMOSConFiG.coDmDeMonYT1.WoRKeRS.DeV#🇨🇦75456 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://%{q:qf}'ogr;@www.speedtest.net:443?path=/eyJqdW5rIjoieDVyTzlGQktZZUJjIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lumOSCONfiG.coDmDemoNYt1.WOrkerS.DEv#🇨🇦75455 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://%{q:qf}'ogr;@lumosconfig.codmdemonyt1.workers.dev:443?path=/eyJqdW5rIjoiWWw4T2F0a3lyQjVhaXciLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lUmOscOnfIg.COdMDeMonYt1.wOrKERs.DeV#🇨🇦75463 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=/51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#canfingV2rayNG-35
+ss://YWVzLTEyOC1nY206cg2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸75383 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFgbXV3Yk94VXc0SVhk@107.172.250.161:59556#🇺🇸75381 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?security=tls&sni=is.01.naiun.bilibili.com#🇨🇦75412 | ⚡️Telegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#https://t.me/v2rayNplus |🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#https://t.me/fastkanfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#https://t.me/fastkanfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#https://t.me/v2rayNplus |🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn 🪩
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#Free%24%204%20%40Outline_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#https://t.me/v2rayNplus |🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppVUtLcHlUMjF4d1FvYllvWGFDZXFj@195.93.253.240:14130#https://t.me/v2rayNplus |🇳🇱
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#Russia
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#https://t.me/v2rayNplus |🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpAbm9maWx0ZXJfdjJyYW5n@open.iranzaminmob.com:10853#🇩🇪 t.me/Natrixo AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#https://t.me/v2rayNplus |🇳🇱
