@@ -1,1 +1,1 @@
-vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@mci.connectingissues.ir:80?encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&mode=auto&path=/?ed=2048&security=none&type=xhttp&x_padding_bytes=100-1000#🇨🇦74660 | ⚡️Telegram = t.me/SOSkeyNET
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇨🇦74748 | ⚡️Telegram = t.me/SOSkeyNET

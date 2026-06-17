@@ -1,20 +1,20 @@
-trojan://lumosconfig@lumosconfig.lumosconfig.workers.dev:443?path=/eyJqdW5rIjoiZUs3QUFuUnN0d0lHZUwiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJkaXZhci5pciJdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=lumosconfig.lumosconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lumoSCOnfiG.lUmOsconfig.wOrkerS.DeV#🇨🇦74764 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#🇩🇪 Germany [fast🟢4]
-vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&mode=auto&path=/?ed=2048&security=none&type=xhttp&x_padding_bytes=100-1000#🇩🇪74661 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@mci.connectingissues.ir:80?encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&mode=auto&path=/?ed=2048&security=none&type=xhttp&x_padding_bytes=100-1000#🇨🇦74660 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@104.21.40.34:443?type=ws&security=tls&path=/assignment&host=www.gossipglove.com&sni=www.gossipglove.com&insecure=1&allowInsecure=1#🇨🇦74772 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#name : rasad-unlimited
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#🇩🇪 Germany [fast🟢1]
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#🇩🇪 Germany [fast🟢2]
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[kia_net] 🇨🇦 CA-11997
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?security=none&type=ws&headerType=&path=/&host=tr-cd.sublink-vip2.com#🇩🇪 Germany [cloud🔵4]
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?security=none&type=ws&headerType=&path=/&host=tr-cd.sublink-vip2.com#🇩🇪 Germany [cloud🔵1]
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
-trojan://humanity@45.130.125.158:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#kurdconfig
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#kia_net-11841
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&type=ws&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=tr-cd.sublink-vip2.com#2https://t.me/ConfigX2ray
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#🇩🇪 Germany [fast🟢3]
+vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&mode=auto&path=/?ed=2048&security=none&type=xhttp&x_padding_bytes=100-1000#🇩🇪74664 | ⚡️Telegram = t.me/SOSkeyNET
+vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@mci.connectingissues.ir:80?encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&mode=auto&path=/?ed=2048&security=none&type=xhttp&x_padding_bytes=100-1000#🇨🇦74660 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#https://t.me/v2rayNplus |🇩🇪
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?security=none&type=ws&headerType=&path=/&host=tr-cd.sublink-vip2.com#🇩🇪 Germany [cloud🔵3]
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@local.connectingissues.ir:80?encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&mode=auto&path=/?ed=2048&security=none&type=xhttp&x_padding_bytes=100-1000#🇨🇦74663 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=/assbignment&sni=www.gossipnglove.com&gallowInsecure=0&ech=ip.gs+udp://8.8.8.8#4https://t.me/ConfigX2ray
-trojan://humanity@45.130.125.96:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%FREE_VPN02 🪼
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
+trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://mitivpn@45.130.125.220:443?path=index.html=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🎂
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?security=none&type=ws&headerType=&path=/&host=tr-cd.sublink-vip2.com#🇩🇪 Germany [cloud🔵2]
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?security=none&type=ws&headerType=&path=/&host=tr-cd.sublink-vip2.com#🇩🇪 Germany [cloud🔵4]
+vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.16.150.228:2096?path=/proxyip=159.60.146.82,159.60.146.81&security=tls&encryption=none&insecure=0&host=cfoo-n0d.pages.dev&type=ws&allowInsecure=0&sni=cfoo-n0d.pages.dev#🇨🇦74726 | ⚡️Telegram = t.me/SOSkeyNET
