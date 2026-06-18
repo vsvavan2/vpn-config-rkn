@@ -1,20 +1,20 @@
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@da.mfa.gov.ua:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A710
-trojan://humanity@185.18.250.252:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
-trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%E6%9C%AA%E7%9F%A521
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ@149.28.255.6:816#🇺🇸76421 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@cf.130519.xyz:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A711
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@cdn.9889888.xyz:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A713
-trojan://humanity@198.62.62.23:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A526
-trojan://humanity@172.67.155.199:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment#%E6%9C%AA%E7%9F%A516
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.229.189:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD21
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@174.136.205.75:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD37
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.231.35:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD26
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.21.94.7:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD32
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@69.63.223.42:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD39
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.21.82.11:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD22
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.17.29.221:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD24
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.240.9:8443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD38
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@69.63.206.96:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD40
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.241.154:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD35
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.17.14.241:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD42
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.229.220:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD43
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@da.mfa.gov.ua:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A710
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.240.48:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD31
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.17.14.241:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD42
+trojan://humanity@172.67.155.199:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment#%E6%9C%AA%E7%9F%A516
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.240.9:8443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD38
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.229.220:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD43
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.231.35:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD26
+trojan://humanity@198.62.62.23:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A526
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#🇺🇸76418 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.21.82.11:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD22
+trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%E6%9C%AA%E7%9F%A521
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@cf.130519.xyz:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A711
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@69.63.223.42:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD39
+trojan://humanity@185.18.250.252:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@cdn.9889888.xyz:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A713
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.21.94.7:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD32
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.118.10:8388#🇺🇸76417 | ⚡️Telegram = t.me/SOSkeyNET
