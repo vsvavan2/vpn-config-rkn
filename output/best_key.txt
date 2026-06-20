@@ -1,1 +1,1 @@
-vless://8937c203-8ec6-477f-830b-939992cba4eb@global.connectingissues.ir:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=shirin-kose.de&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🆔configfa%20🔓%20VL-XHTTP-N/A%20❔%20XX%206ms
+vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%3E%3E%40configV2rayNG%3A%3ANL
