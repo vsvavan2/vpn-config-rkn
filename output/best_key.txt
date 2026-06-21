@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://266169d9-665f-4fed-b1a8-da29794ee3cd@berovps.masoodbiranvand-230.workers.dev:2083?path=vless-ws/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2&amp%3Bhost=berovps.masoodbiranvand-230.workers.dev&amp%3Bfp=randomized&amp%3Btype=ws&amp%3Bsni=berovps.masoodbiranvand-230.workers.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2raybe%20%232
