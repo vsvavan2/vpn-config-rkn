@@ -1,1 +1,1 @@
-vless://25102a1a-e0ea-4a0d-a40d-c68f74d2fe9f@speedtest.net:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&security=&encryption=none&host=barkatc2.ir&type=ws#Proxy_Se7en
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&type=ws&path=%2F&host=max-gb1.global.ssl.fastly.net#🆔configfa%20🔓%20VL-WS-N/A%20❔%20XX%204ms
