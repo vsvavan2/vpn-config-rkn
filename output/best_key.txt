@@ -1,1 +1,1 @@
-vless://e87e1c73-c09b-4527-962e-172569ce3d68@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#https://t.me/mtmvpn
+vless://bda8ffb7-4c58-b94f-7134-8a9c1d079da3@peekconfigg.vipserver1-39d.workers.dev:8080?encryption=none&security=none&sni=peekconfigg.vipserver1-39d.workers.dev&fp=chrome&type=ws&host=peekconfigg.vipserver1-39d.workers.dev&path=/sync&allowInsecure=0#V-Core-8080-1

@@ -1,20 +1,20 @@
-trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#TEL;Father_vpn
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#TEHRANARGO
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#Proxy_Se7en
-trojan://mitivpn@216.24.57.246:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#Proxy_Se7en
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
-trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&allowinsecure=0&type=ws&sni=wwww.95r.ir#ProxyMtpVPN-50
-trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%FREE_VPN02 🍭
-trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#Proxy_Se7en
+trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
+trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#vipp - #6
 trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
-trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
-trojan://N53GqFZAHv@45.130.125.75:8080?path=/?ed=2048&security=none&host=c.aananas.ir&type=ws#Proxy_Se7en
+trojan://qgkcPVkYGsDIc-BHX93E2A@nabz.ir:2083?security=tls&sni=udb.nyanners.ir.&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#سیم تایوان
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#TEHRANARGO
+trojan://humanity@45.80.111.7:443?type=ws&insecure=0&fp=chrome&security=tls&allowInsecure=0&path=/assignment&sni=www.calmlunch.com#filembad-72
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇫🇷-irconfiig⚡
+trojan://humanity@198.62.62.23:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
+trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#Proxy_Se7en
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
+trojan://mitivpn@216.24.57.246:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#Proxy_Se7en
 trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Proxy_Se7en
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://k2CQ2JboS7@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&host=s6.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=s6.aananas.ir#https://t.me/v2raynplus |🇹🇼
-trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
+trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#Proxy_Se7en
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#Proxy_Se7en
+trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Proxy_Se7en
+trojan://MiTiVPN@172.67.210.215:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#https://t.me/mtmvpn
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
 trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
-trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#Proxy_Se7en
-trojan://mitivpn@188.114.97.6:443?type=ws&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&path=/ed=mitivpn&security=tls&fp=chrome&sni=www.ssl.global.digi.my.mitivpn.xyz&alpn=http/1.1#RzChanel1
+trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
