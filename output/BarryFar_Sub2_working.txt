@@ -1,20 +1,20 @@
-trojan://MITIVPN@151.101.1.194:80?path=/ed=mitivpn&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
-trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
-trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#vipp - #6
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Proxy_Se7en
-trojan://humanity@159.112.235.52:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Proxy_Se7en
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#TEHRANARGO
-trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#پروتئین 2 پیمانه بعد تمرین
 trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#kurdconfig
-trojan://k2CQ2JboS7@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&host=s6.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=s6.aananas.ir#https://t.me/v2raynplus |🇹🇼
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
-trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%FREE_VPN02 🍭
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
+trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇫🇷-irconfiig⚡
+trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#TEHRANARGO
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
+trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://MITIVPN@151.101.1.194:80?path=/ed=mitivpn&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
+trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#vipp - #6
+trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?path=/br-orcl&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇧🇷
 trojan://humanity@198.62.62.23:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Proxy_Se7en
 trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#Proxy_Se7en
-trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Proxy_Se7en
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/br-orcl#سپهر بابا :)
+trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#پروتئین 2 پیمانه بعد تمرین
+trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Proxy_Se7en
+trojan://N53GqFZAHv@45.130.125.75:8080?path=/?ed=2048&security=none&host=c.aananas.ir&type=ws#Proxy_Se7en
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
