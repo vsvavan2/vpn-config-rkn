@@ -1,1 +1,1 @@
-vless://3509334e-bda5-4c03-91b3-b0122ae00291@anchor.fm:80?security=none&type=ws&headerType=&path=%2Fgraphql&host=amuqatel.global.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+vless://d52aa2ea-e61a-47e9-8bb9-58881a681cbc@20.84.155.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=Yh2qNHiFk-PLlSG6s7JXgfe6BZj3siDLsm0TsAsBfmU&sid=de37c2e5#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Des%20Moines%20%7C%20%5BBL%5D
