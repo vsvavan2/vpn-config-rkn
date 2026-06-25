@@ -1,1 +1,1 @@
-vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%3E%3E%40configV2rayNG%3A%3AXX
+vless://c2f39bad-4213-42bc-bdd4-915739acf015@151.101.194.219:443?security=tls&amp%3Bsni=speedtest.net&amp%3Btype=ws&amp%3Bhost=ggghtrubngjbngibvn.com&amp%3Bpath=ws/%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40hope_net%20%231
