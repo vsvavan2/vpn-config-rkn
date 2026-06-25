@@ -1,1 +1,1 @@
-vless://c2f39bad-4213-42bc-bdd4-915739acf015@151.101.194.219:443?security=tls&amp%3Bsni=speedtest.net&amp%3Btype=ws&amp%3Bhost=ggghtrubngjbngibvn.com&amp%3Bpath=ws/%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40hope_net%20%231
+vless://qeshmserver@151.101.3.8:80?type=xhttp&amp%3Bmode=auto&amp%3Bhost=qeshmserverfree.global.ssl.fastly.net&amp%3Bsecurity=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40qeshmserver%20%231
