@@ -1,1 +1,1 @@
-trojan://MiTiVPN@151.101.193.242:443?security=tls&sni=f6r.ir&alpn=http%2F1.1&type=ws&host=f6r.ir&path=%2Fusa%3Dmitivpn#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%3E%3E%40configV2rayNG%3A%3AXX
