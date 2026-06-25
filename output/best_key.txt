@@ -1,1 +1,1 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.60:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%3E%3E%40v2ray1_ng%3A%3ADE
+vless://3509334e-bda5-4c03-91b3-b0122ae00291@anchor.fm:80?security=none&type=ws&headerType=&path=%2Fgraphql&host=amuqatel.global.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
