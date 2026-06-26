@@ -1,1 +1,1 @@
-vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@local.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#🇺🇸
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.118.151:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#ProxyMtpVPN-125
