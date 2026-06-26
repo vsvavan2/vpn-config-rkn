@@ -1,1 +1,1 @@
-vless://41f46aa9-da29-45f6-b33e-50ed736c8646@local.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#Proxy_Se7en
+vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@local.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#🇺🇸
