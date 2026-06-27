@@ -1,20 +1,20 @@
-trojan://MITIVPN@151.101.1.194:80?path=/ed&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/au-do#1401
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@MoOon_proxy ⭐  trojan://humanity@45.130.125.32:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.c
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#t.me/ConfigFori  -  Config 79363
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#t.me/ConfigFori  -  Config 79370
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#t.me/ConfigFori  -  Config 79368
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#t.me/ConfigFori  -  Config 79360
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#t.me/ConfigFori  -  Config 79361
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/au-do#1401
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#t.me/ConfigFori  -  Config 79371
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#Russia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#t.me/ConfigFori  -  Config 79368
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#t.me/ConfigFori  -  Config 79370
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#t.me/ConfigFori  -  Config 79361
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#t.me/ConfigFori  -  Config 79363
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#t.me/ConfigFori  -  Config 79360
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#t.me/ConfigFori  -  Config 79369
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russia
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%B8%40FreakConfig
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#t.me/ConfigFori  -  Config 79362
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#t.me/ConfigFori  -  Config 79369
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russia
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#Russia
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%B8%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#t.me/ConfigFori  -  Config 79358
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#irconfiig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#t.me/ConfigFori  -  Config 79365
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp#V2rayng_Fast
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#%40bored_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
