@@ -1,1 +1,1 @@
-vless://6e9893e3-e3db-48d7-b909-e185517c44e9@euro.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#kurdconfig
+trojan://Mitivpn@iranpoems.ir:443?security=tls&sni=cdn.gamingdll.ir&insecure=0&allowInsecure=0&type=ws&host=cdn.gamingdll.ir&path=%2Fde%3Dmitivpn#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
