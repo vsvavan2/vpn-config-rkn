@@ -1,1 +1,1 @@
-trojan://Mitivpn@iranpoems.ir:443?path=%2Fde&security=tls&alpn=h2&insecure=0&host=cdn.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+vless://3e0e4c48-9cc4-4903-98ec-e007f78ab5de@speedtest.net:80?security=none&type=ws&headerType=&path=%2Fchat%2Fws&host=Nextsession.global.ssl.fastly.net#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
