@@ -1,1 +1,1 @@
-trojan://Mitivpn@151.101.1.242:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
