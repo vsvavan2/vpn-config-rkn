@@ -1,1 +1,1 @@
-trojan://Mitivpn@iranpoems.ir:443?path=%2Fusa%3Dmitivpn&security=tls&insecure=0&host=www.gamingdll.ir&type=ws&allowInsecure=0&sni=www.gamingdll.ir#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+trojan://Mitivpn@151.101.1.242:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
