@@ -1,20 +1,20 @@
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=/us-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc#kurdconfig
-trojan://114514@cf2.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
-trojan://114514@cf5.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
-trojan://114514@cf7.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#irconfiig✨تو جنگم وصلیم✨
+trojan://114514@cf1.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 trojan://114514@cf4.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
+trojan://114514@cf2.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=/us-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc#kurdconfig
 trojan://114514@cf6.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
-trojan://114514@cf3.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
+trojan://114514@cf7.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 trojan://114514@cf10.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 trojan://114514@cf9.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#irconfiig✨تو جنگم وصلیم✨
+trojan://114514@cf3.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 trojan://114514@cf8.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
-trojan://114514@cf1.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#t.me/ConfigFori  -  Config 79371
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#t.me/ConfigFori  -  Config 79368
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#t.me/ConfigFori  -  Config 79370
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#https://t.me/v2rayNplus |🍁
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#t.me/ConfigFori  -  Config 79361
+trojan://114514@cf5.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#t.me/ConfigFori  -  Config 79363
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#t.me/ConfigFori  -  Config 79360
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#t.me/ConfigFori  -  Config 79361
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#https://t.me/v2rayNplus |🍁
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#t.me/ConfigFori  -  Config 79370
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#t.me/ConfigFori  -  Config 79368
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#t.me/ConfigFori  -  Config 79371
