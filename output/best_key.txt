@@ -1,1 +1,1 @@
-vless://75dc57ca-6e1c-4f7d-977e-beeb2b622ce4@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40freeland8%3A%3AXX
+trojan://Mitivpn@151.101.1.242:443?security=tls&sni=cdn.gamingdll.ir&type=ws&sni=cdn.gamingdll.ir&path=/de&fp=chrome&alpn=h2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
