@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Los%20Angeles
 vless://f465fe94-87f4-448b-abc3-4855d2351a3a@5.180.173.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&sid=cd8971da5a669139#%F0%9F%87%AA%F0%9F%87%B8%20Spain
