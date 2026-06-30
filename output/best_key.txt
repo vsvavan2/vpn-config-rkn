@@ -1,1 +1,1 @@
-vless://a4609f6a-5a02-44b1-9d35-303608665ee4@SPEEDtest.Net:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=hormiz5.global.ssl.fastly.net&type=xhttp#EPODONIOS
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
