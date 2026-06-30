@@ -1,1 +1,1 @@
-trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.gamingdll.ir#EPODONIOS
+vless://a4609f6a-5a02-44b1-9d35-303608665ee4@SPEEDtest.Net:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=hormiz5.global.ssl.fastly.net&type=xhttp#EPODONIOS
