@@ -1,7 +1,8 @@
 trojan://MiTiVPN@151.101.193.242:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🥝
-trojan://MITIVPN@151.101.1.194:80?path=/ed&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
-trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Proxy_Se7en
-trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
-trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#https://t.me/FREE_VPN02
+trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#t.me/ConfigFori  -  Config 81943
 trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🍍
+trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
+trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Proxy_Se7en
+trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#https://t.me/FREE_VPN02
+trojan://MITIVPN@151.101.1.194:80?path=/ed&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
 trojan://MiTiVPN@172.67.210.215:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#kurdconfig
