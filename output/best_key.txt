@@ -1,1 +1,1 @@
-trojan://Mitivpn@iranpoems.ir:443?path=/de=mitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#EPODONIOS
+vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
