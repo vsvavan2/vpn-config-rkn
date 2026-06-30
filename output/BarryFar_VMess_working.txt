@@ -1,2 +1,1 @@
-vmess://85bf5801-4658-441c-a2e5-842c6c71a521@de5.niekotin.de:80?encryption=auto&host=de5.niekotin.de&path=/vmess&security=none&type=ws#appxa-dark
-vmess://38ed5d70-443e-4ac3-b877-ea21d97fed93@de4.niekotin.de:80?encryption=auto&host=de4.niekotin.de&path=/vmess&security=none&type=ws#appxa-light
+vmess://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:18746?encryption=auto&path=/&security=none&type=ws

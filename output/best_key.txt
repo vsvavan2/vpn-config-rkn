@@ -1,1 +1,1 @@
-vless://05f7b98c-3cd4-4f15-cb80-ac38e1c08a96@192.80.63.51:443?host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx&security=tls&sni=us2.wxgqlfx.icu&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Francisco%20%7C%20%5BBL%5D
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/&security=none#🇩🇪 Germany [fast🟢2]
