@@ -1,1 +1,1 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
+trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#EPODONIOS
