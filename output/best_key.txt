@@ -1,1 +1,1 @@
-trojan://MITIVPN@assets.fiverr.com:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=De#t.me/W570W🚀〽️
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/&security=none#EPODONIOS
