@@ -1,20 +1,20 @@
-trojan://MITIVPN@140.248.185.252:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=mitivpn----a.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🕯️ - 12
-trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Proxy_Se7en
-trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=/MiTiVPN=De&host=miticonfig.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🕯️ - 13
-trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Proxy_Se7en
-trojan://MiTiVPN@167.82.101.252:443?type=ws&security=tls&path=/MiTiVPN=Se&host=miticonfig.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🕯️ - 10
-trojan://MiTiVPN@199.232.78.140:443?type=ws&security=tls&path=/MiTiVPN=fL&host=miticonfig.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🕯️ - 14
-trojan://MITIVPN@188.114.98.193:443?type=ws&security=tls&path=/MiTiVPN=De&host=Ge.App-Cloud.ir&sni=Ge.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🕯️ - 8
-trojan://MiTiVPN@openai.com:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Finl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Finl.App-Cloud.ir#🚀 t.me/iProxyChannel 17
-trojan://MiTiVPN@assets.fiverr.com:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=NL#t.me/W570W🚀〽️
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#https://t.me/FREE_VPN02
-trojan://MiTiVPN@assets.fiverr.com:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=fL#t.me/W570W🚀〽️
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇦🇺Telegram. V2raySaman
-trojan://MiTiVPN@104.16.72.101:443?type=ws&security=tls&path=/MiTiVPN=NL&host=N--l.App-Cloud.ir&sni=N--l.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🕯️ - 7
-trojan://MiTiVPN@assets.fiverr.com:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=N--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=N--l.App-Cloud.ir#🚀 t.me/iProxyChannel 3
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🚀 t.me/iProxyChannel 8
 trojan://MiTiVPN@www.speedtest.net:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#telegram % mtmvpn 4
-trojan://MiTiVPN@104.16.72.41:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🚀 t.me/iProxyChannel 12
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#Proxy_Se7en
-trojan://MITIVPN@brezzen.com:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#🚀 t.me/iProxyChannel 5
+trojan://MiTiVPN@assets.fiverr.com:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=NL#t.me/W570W🚀〽️
+trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Proxy_Se7en
+trojan://MiTiVPN@openai.com:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Finl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Finl.App-Cloud.ir#🚀 t.me/iProxyChannel 17
+trojan://MiTiVPN@assets.fiverr.com:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=fL#t.me/W570W🚀〽️
+trojan://MiTiVPN@assets.fiverr.com:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=Se#t.me/W570W🚀〽️
+trojan://MITIVPN@assets.fiverr.com:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=De#t.me/W570W🚀〽️
+trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Proxy_Se7en
 trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
+trojan://MiTiVPN@brezzen.com:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Finl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Finl.App-Cloud.ir#🚀 t.me/iProxyChannel 15
+trojan://MiTiVPN@brezzen.com:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nel.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nel.App-Cloud.ir#🚀 t.me/iProxyChannel 9
+trojan://MITIVPN@assets.fiverr.com:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=Usa#t.me/W570W🚀〽️
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇦🇺
+trojan://MiTiVPN@assets.fiverr.com:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=N--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=N--l.App-Cloud.ir#🚀 t.me/iProxyChannel 3
+trojan://MITIVPN@140.248.185.252:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=mitivpn----a.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🕯️ - 12
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#3vip526282
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#Proxy_Se7en
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇦🇺V2raySaman
+trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#Proxy_Se7en
+trojan://MiTiVPN@199.232.237.250:443?type=ws&security=tls&path=/MiTiVPN=NL&host=mitivpn----a.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🕯️ - 11

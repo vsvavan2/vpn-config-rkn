@@ -1,1 +1,1 @@
-trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#EPODONIOS
+trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
