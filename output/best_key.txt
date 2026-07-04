@@ -1,1 +1,1 @@
-vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
+vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.120:443?type=ws&security=tls&fp=chrome&sni=global.fastly.com&path=/&host=npnl-2-two.global.ssl.fastly.net#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
