@@ -1,20 +1,20 @@
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#kurdconfig
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#TEL;Father_vpn
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.5:443?path=/&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#Proxy_Se7en
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷Telegram. V2raySaman
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.2:443?path=/br-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🚀 t.me/iProxyChannel 16
 trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?path=/br-orcl&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Proxy_Se7en
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#kurdconfig
-trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.multiplydose.com#Proxy_Se7en
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#https://t.me/AarazV2ray
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#kurdconfig
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.creationlong.org#Proxy_Se7en
+trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#V2raySaman
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#TEL;Father_vpn
 trojan://d682c8f4-e719-577e-cbe9-2e5b00000001@0406.infinityconfig7.workers.dev:2053?security=tls&sni=0406.infinityconfig7.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=0406.infinityconfig7.workers.dev&path=/sync#FREE_VPN02
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#kurdconfig
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#vip - 🫰 6
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#kurdconfig
+trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#vipp - #6
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#https://t.me/AarazV2ray
+vless://04969b01-ac6a-4056-b5cd-852ccf45f102@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
 trojan://a4dbc061021f2931c0e28901a602f3c5@hk-007.pg13900.com:443?security=tls&sni=hk-007.pg13900.com&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&host=hk-007.pg13900.com&path=/atlas-cdn#🇭🇰HK_6 | ⬇️ 486KB/s
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#https://t.me/AarazV2ray
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Proxy_Se7en
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.70:443?path=/br-orcl&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇧🇷
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@space.byu.id.yxls.eu.cc:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome&allowInsecure=0&type=ws&path=/br-orcl#🇧🇷%#V2raySaman
+trojan://humanity@104.19.230.21:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#https://t.me/AarazV2ray
+trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.calmloud.com#Proxy_Se7en
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#kurdconfig
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#9
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#vip - 🫰 6
