@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#%F0%9F%87%A6%F0%9F%87%BA%20Australia
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@hub.oneoknews.com:443?type=grpc&mode=gun&serviceName=api.v1.StreamService&security=reality&fp=chrome&sni=hub.oneoknews.com&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&sid=064c2d37308aeeb6#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#%F0%9F%87%A6%F0%9F%87%BA%20Australia
