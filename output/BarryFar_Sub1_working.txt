@@ -1,20 +1,20 @@
-trojan://MITIVPN@151.101.1.194:80?path=/ed&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
 trojan://MITIVPN@140.248.185.252:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=mitivpn----a.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🕯️ - 12
-trojan://MITIVPN@104.16.72.41:443?type=ws&security=tls&path=/MiTiVPN=De&host=De.App-Cloud.ir&sni=De.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🕯️ - 6
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇦🇺
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇦🇺V2raySaman
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇺🇸
+trojan://MITIVPN@104.16.72.41:443?type=ws&security=tls&path=/MiTiVPN=De&host=De.App-Cloud.ir&sni=De.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🕯️ - 6
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇦🇺Telegram. V2raySaman
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇦🇺
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.18.153.10:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇺🇸
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Proxy_Se7en
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇦🇺
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇦🇺
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇦🇺
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇺🇸
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=/au-do&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Proxy_Se7en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#美国
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#filembad-19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#TEL;Father_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#t.me/ConfigFori  -  Config 87927
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#TEL;Father_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#[] 🇳🇱 NL-632
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%FREE_VPN02 🛸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#🚀 t.me/iProxyChannel 24
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#Proxy_Se7en
