@@ -1,1 +1,1 @@
-vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.120:443?type=ws&security=tls&fp=chrome&sni=global.fastly.com&path=/&host=npnl-2-two.global.ssl.fastly.net#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://3f7aeb33-4501-48f8-8946-3ee9b88c3f69@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=idk.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#EPODONIOS
