@@ -1,1 +1,1 @@
-vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@speedtest.net:80?encryption=none&type=ws&path=/&host=pinghub.global.ssl.fastly.net#EPODONIOS
+vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@speedtest.net:80?path=/&security=none&encryption=none&host=pinghub.global.ssl.fastly.net&type=ws#EPODONIOS
