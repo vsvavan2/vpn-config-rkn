@@ -1,1 +1,1 @@
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?allowInsecure=0&host=relay-6bcjt33c.edgecompute.app&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&mode=auto&sni=relay-6bcjt33c.edgecompute.app&path=%2Fdana1365#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@ns2.zabidat.ir:2086?mode=auto&path=/?ed=2082&security=none&encryption=none&host=aa.cafearen.ir&type=xhttp#EPODONIOS
