@@ -1,1 +1,1 @@
-vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/vip1&security=tls&alpn=h2&encryption=none&insecure=0&host=hamshahriesfahan.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#https://t.me/AarazV2ray
+vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=/containers/fi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#EPODONIOS
