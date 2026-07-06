@@ -1,1 +1,1 @@
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@ns2.zabidat.ir:2086?mode=auto&path=/?ed=2082&security=none&encryption=none&host=aa.cafearen.ir&type=xhttp#EPODONIOS
+trojan://MiTiVPN@199.232.78.140:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
