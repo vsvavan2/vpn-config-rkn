@@ -1,1 +1,1 @@
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=sevenfeshab.global.ssl.fastly.net&path=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://37b6394a-eba6-4c2d-8d00-d69f48090387@104.16.45.222:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-ct0i83.zeus-witof2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ct0i83.zeus-witof2.workers.dev#best net-6-2053
