@@ -1,1 +1,1 @@
-vless://c6c5ad2f-b4d5-450f-862f-341cebb7f9b5@log.bpminecraft.com:8880?encryption=none&host=empty-rain-1df4.332-633.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://1fa15134-5ece-481d-91cf-0f67694fc009@simplefv.asan-ps.ir:443?mode=auto&path=/NEWS&security=tls&encryption=none&insecure=1&host=de247ks0922222aq.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#https://t.me/AarazV2ray
