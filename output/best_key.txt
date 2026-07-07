@@ -1,1 +1,1 @@
-vless://1fa15134-5ece-481d-91cf-0f67694fc009@simplefv.asan-ps.ir:443?mode=auto&path=/NEWS&security=tls&encryption=none&insecure=1&host=de247ks0922222aq.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#https://t.me/AarazV2ray
+trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS

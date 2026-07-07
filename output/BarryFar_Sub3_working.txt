@@ -1,20 +1,20 @@
-trojan://kZSruDyvxP@45.130.125.2:443?path=/da&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sk.farxmode.ir#Proxy_Se7en
 trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#TEL;Father_vpn
+trojan://n5e2zkchvqzbjrv2@104.17.108.21:2083?alpn=h2,http/1.1&extra={"mode":"auto","xPaddingBytes":"10-100","xPaddingObfsMode":true}&fp=chrome&host=&mode=auto&path=/tanha&security=tls&sni=Shopfrance.mroza.ir&type=xhttp&x_padding_bytes=10-100#https://t.me/AarazV2ray
+trojan://jZKsbuRpEB@45.130.125.2:443?path=/db&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sl.farxmode.ir#Proxy_Se7en
+trojan://humanity@104.16.72.2:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷#V2raySaman
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
-trojan://kZSruDyvxP@45.130.125.2:443?path=/da&security=tls&insecure=0&host=sk.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sk.farxmode.ir#V2rayng_Fast
-trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#🕯️ - 13
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
-trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@45.130.125.112:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#🕯️ - 3
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#Proxy_Se7en
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?path=/proxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#🇯🇵
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇫🇷
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Proxy_Se7en
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#TEL;Father_vpn
-vless://00722148-3d6c-403d-854e-581b105ceffd@104.16.44.99:443?path=/api/v3/ws/events&security=tls&encryption=none&insecure=0&host=0iXGgvWA3b.geekylinux.com&fp=chrome&type=ws&allowInsecure=0&sni=0iXGgvWA3b.geekylinux.com#Channel : MTMVPN
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#kurdconfig
+trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦103967 | ⚡️Telegram = t.me/v2ray_configs_pools
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#kurdconfig
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#vip - 🫰 6
+trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=/assignment#https://t.me/AarazV2ray
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#9
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#kurdconfig
