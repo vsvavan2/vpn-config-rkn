@@ -1,1 +1,1 @@
-vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@skk.moe:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=crimson-wind-71bc.19-5fd.workers.dev&type=ws#🚀 t.me/iProxyChannel 12
+trojan://Mitivpn@iranpoems.ir:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=cdn.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#EPODONIOS
