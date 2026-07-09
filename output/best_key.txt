@@ -1,1 +1,1 @@
-ss://TOFAN-TRADE@fastly.com:80?mode=auto&path=/&security=&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp#EPODONIOS
+vless://7b19a5a7-8bf7-4b37-be3c-3251f9c43241@151.101.193.57:80?encryption=none&security=none&type=xhttp&mode=auto&host=monopoli.global.ssl.fastly.net&path=/&extra={"scMaxEachPostBytes":"1000-1000000"}#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Wattrelos%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
