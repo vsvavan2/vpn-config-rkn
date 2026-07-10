@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#EPODONIOS
