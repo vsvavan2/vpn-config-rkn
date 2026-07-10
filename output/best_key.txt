@@ -1,1 +1,1 @@
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=/au-do&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#EPODONIOS
+vless://df7f6532-8f1e-4b76-a3e9-2699771867d1@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=idk.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#102
