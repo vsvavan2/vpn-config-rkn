@@ -1,4 +1,3 @@
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@cand.appcodes.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#%F0%9F%87%A8%F0%9F%87%A6%20Canada
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@56a186a3d3464b11.sorcepack.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYTBGWFpBOGdoS0NjajZXUHNrbEZkeDE5USt6MEdlNEEwSTc2alIwWGtRPQ@e4.cover20.ir:16156#%F0%9F%87%AE%F0%9F%87%B7%20Iran
