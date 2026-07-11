@@ -1,20 +1,20 @@
 trojan://1N2o5bPwwA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#V2ray_Alpha⛱️ 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#美国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#%40V2rayng_Fast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Proxy_Se7en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#https://t.me/FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#%40V2rayng_Fast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#TEL;Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#https://t.me/FREE_VPN02
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26657?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/KFfG8SKWE2bkdl3&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56#🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#TEL;Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Proxy_Se7en
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:30000?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/nctesNoRBmMFXBj&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956#🇨🇭
-trojan://-----------y------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:52727?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=162666c3acca7a&spx=/YWIn3NIXieCvhqs#configprxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#France 🇫🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#Proxy_Se7en
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:27111?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/BJl0f3MxZgdYyYB&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956#filembad-23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXTU5GRmpRcWRGTlg0b0RvMWIyTFZP@5.253.59.156:32140#The Netherlands 🇳🇱
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#%40bored_vpn
+trojan://-----------y------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:48189?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=a68956&spx=/UCakiBT61RqYl2Q#configprxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%FREE_VPN02 🛸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#TEL;Father_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#https://t.me/FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#https://t.me/FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#Proxy_Se7en
+trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:30000?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/nctesNoRBmMFXBj&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956#🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#TEL:Father_vpn
