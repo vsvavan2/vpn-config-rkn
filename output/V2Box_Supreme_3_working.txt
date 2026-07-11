@@ -1,1 +1,2 @@
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@cand.appcodes.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#%F0%9F%87%A8%F0%9F%87%A6%20Canada
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@56a186a3d3464b11.sorcepack.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
