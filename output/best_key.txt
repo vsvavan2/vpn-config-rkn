@@ -1,1 +1,1 @@
-trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?&sni=Fastapi.Org&type=ws&headerType=none&host=Fastapi.Org&path=%2F%3Fed%3D1024#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
