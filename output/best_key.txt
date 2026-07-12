@@ -1,1 +1,1 @@
-vless://12f1bad8-3cc4-49bb-9dd9-432ebcbb46a8@151.101.0.155:80?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+trojan://zBfIAxaXtz@151.101.34.144:443?mode=packet-up&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
