@@ -1,1 +1,1 @@
-vless://d08c3d5e-ef85-48ac-b532-0fe6d3ae14d1@speedtest.net:80?path=%2F&security=&encryption=none&host=iophgyhuw2.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://12f1bad8-3cc4-49bb-9dd9-432ebcbb46a8@151.101.0.155:80?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
