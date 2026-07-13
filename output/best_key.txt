@@ -1,1 +1,1 @@
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=deicl.redstone
+trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
