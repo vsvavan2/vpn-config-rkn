@@ -1,3 +1,2 @@
-vless://9c9fe5fa-6984-467b-a933-4c147886b9b9@wng.legendcr.ir:440?security=reality&encryption=none&pbk=iLVvvJXzlbyq94w1V94GHzb_gwWyjKLRZNwbDgat2Fo&headerType=none&fp=chrome&spx=/XFhRZOQUKIVIXp3&type=tcp&sni=www.yahoo.com&sid=8cf90532de323c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20Paris%20%231
 vless://e539c072-a9ff-4c5d-8366-80e5e9552699@TuN.temas-bor.iR:2087?type=tcp&encryption=none&headerType=http&security=none&host=play.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Tehran
