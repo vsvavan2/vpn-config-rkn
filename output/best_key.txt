@@ -1,1 +1,1 @@
-vless://cb5d5d72-4df6-41fe-a6bc-580346aeff8f@speedtest.net:80?path=/&security=none&encryption=none&host=vvvv7iq.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
