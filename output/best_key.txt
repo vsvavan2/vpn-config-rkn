@@ -1,1 +1,1 @@
-vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan21.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
+vless://cb5d5d72-4df6-41fe-a6bc-580346aeff8f@speedtest.net:80?path=/&security=none&encryption=none&host=vvvv7iq.global.ssl.fastly.net&type=ws#EPODONIOS
