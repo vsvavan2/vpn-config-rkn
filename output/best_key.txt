@@ -1,1 +1,1 @@
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#canfingV2rayNG-242
+vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@zeus-panel-tln7ap.kingworkerr.workers.dev:8080?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#دریافت کانفیگ های رایگان بیشتر 𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜-8080
