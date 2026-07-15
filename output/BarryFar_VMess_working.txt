@@ -1,2 +1,1 @@
-vmess://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s3.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp
-vmess://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s4.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp
+vmess://5ed7206a-cd8d-4b02-add1-4f7b787178c9@31.77.149.131:110?encryption=auto&security=none&type=tcp
