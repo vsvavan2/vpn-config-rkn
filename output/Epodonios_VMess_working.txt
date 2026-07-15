@@ -1,1 +1,1 @@
-vmess://5cae7714-9c61-4c5c-876e-c45a1cb13be4@138.252.100.85:18746?encryption=auto&path=/&security=none&type=ws
+vmess://5ed7206a-cd8d-4b02-add1-4f7b787178c9@31.77.149.131:110?encryption=auto&security=none&type=tcp
