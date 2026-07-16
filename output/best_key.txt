@@ -1,1 +1,1 @@
-trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#kurdconfig
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@45.130.125.207:443?path=/cbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#EPODONIOS
