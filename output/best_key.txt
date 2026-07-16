@@ -1,1 +1,1 @@
-vless://158c4903-ec26-4cf7-a47d-a323bfcdcf1e@speedtest.net:443?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=speedtest.net#EPODONIOS
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
