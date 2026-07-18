@@ -1,1 +1,1 @@
-vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@skk.moe:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=&encryption=none&host=floral-resonance-4baf.468.workers.dev&type=ws#⚪t.me/iProxyChannel 1
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.22.39:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan21.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
