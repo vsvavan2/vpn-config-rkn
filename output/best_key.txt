@@ -1,1 +1,1 @@
-vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#EPODONIOS
+vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@skk.moe:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=&encryption=none&host=floral-resonance-4baf.468.workers.dev&type=ws#⚪t.me/iProxyChannel 1
