@@ -1,1 +1,1 @@
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.97:443?encryption=none&fp=firefox&host=vp9.cc.cd&path=%2F&security=tls&sni=vp9.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107
