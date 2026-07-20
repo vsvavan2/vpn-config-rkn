@@ -1,1 +1,1 @@
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#V2ray_Alpha🦒 5
+trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig

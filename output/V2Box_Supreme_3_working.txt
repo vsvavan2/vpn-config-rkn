@@ -1,7 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.34.200:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%C2%B7%20New%20Taipei%20City
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.162.159:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%C2%B7%20Banqiao
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@163.172.244.41:1080#%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Amsterdam
 trojan://NQ26071394@63.178.193.196:443?fp=chrome&sni=quiet-condor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Frankfurt%20am%20Main%20%232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@163.172.244.41:1080#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@85.192.48.81:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=joings-file-import.ru&sid=d9662905#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@89.167.16.234:8526?security=reality&encryption=none&pbk=-zNDEqKkScKvMWB7spEper78GE_u-nR4jDHZ3DpOoxM&headerType=none&fp=firefox&type=tcp&sni=www.yahoo.com&sid=62ad184af31fc8cf#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Gunzenhausen
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.34.200:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%C2%B7%20New%20Taipei%20City
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.162.159:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%C2%B7%20Banqiao
 vless://1a3b82de-d8a5-4d18-b15d-4ff10b3dba19@panel1.legendcr.ir:2087?encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=panel1.legendcr.ir&mode=auto&path=/path&pbk=y45HXAPytyFncm6ISdBcVhDLkHgK8v435pZgaoQwklA&security=reality&sid=e898156ae00ddeb8&sni=yahoo.com&spx=/HLN1XHt91iK35KU&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
