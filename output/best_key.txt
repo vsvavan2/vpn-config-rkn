@@ -1,1 +1,1 @@
-trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#EPODONIOS
+vless://44e8b804-6b08-4468-baa4-950944ba5976@SPEEDtest.Net:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=farangis.global.ssl.fastly.neT.&type=xhttp#🟣 HORMOZ 🏞️
