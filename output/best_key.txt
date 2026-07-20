@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://50ddc182-968b-48b8-a714-453ebe71d093@ser.coolfrog-bot.ir:80?type=ws&encryption=none&path=/stream&host=ser.coolfrog-bot.ir&security=none#🇨🇦116221 | ⚡️Telegram = t.me/SOSkeyNET
