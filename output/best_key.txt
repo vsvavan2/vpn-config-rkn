@@ -1,1 +1,1 @@
-vless://16522a1d-0ba0-4a98-9ce0-941b208bf187@speedtest.net:443?path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=AlibdooliachaMeta.net&fp=chrome&type=ws&sni=speedtest.net#🇨🇦116792 | ⚡️Telegram = t.me/SOSkeyNET
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
