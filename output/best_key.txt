@@ -1,1 +1,1 @@
-vless://50ddc182-968b-48b8-a714-453ebe71d093@ser.coolfrog-bot.ir:80?type=ws&encryption=none&path=/stream&host=ser.coolfrog-bot.ir&security=none#🇨🇦116221 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.134:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5gydl.936.us.ci#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
