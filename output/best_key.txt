@@ -1,1 +1,1 @@
-trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
+vless://16522a1d-0ba0-4a98-9ce0-941b208bf187@speedtest.net:443?path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=AlibdooliachaMeta.net&fp=chrome&type=ws&sni=speedtest.net#🇨🇦116792 | ⚡️Telegram = t.me/SOSkeyNET
