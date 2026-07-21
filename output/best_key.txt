@@ -1,1 +1,1 @@
-vless://50414e45-4c5f-5a45-5553-13fe7db46a3e@zeus-panel-rdil7t.zeus-qm5lw3.workers.dev:2053?path=/stream/PANEL_ZEUS/50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-rdil7t.zeus-qm5lw3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-rdil7t.zeus-qm5lw3.workers.dev#EPODONIOS
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#V2ray_Alpha🗽 4
