@@ -1,1 +1,1 @@
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://44e8b804-6b08-4468-baa4-950944ba5976@SPEEDtest.Net:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=farangis.global.ssl.fastly.neT.&type=xhttp#🟣 HORMOZ 🏞️
