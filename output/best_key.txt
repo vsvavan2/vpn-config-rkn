@@ -1,1 +1,1 @@
-trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?mode=packet-up&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#⚪t.me/iProxyChannel 7
+vless://1b611f89-c650-492b-89ce-71926f9ff1f8@SPEEDtest.Net:80?security=none&type=ws&headerType=&path=&host=SvnTeam.global.ssl.fastly.neT.#filembad-118
