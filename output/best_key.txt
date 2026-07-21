@@ -1,1 +1,1 @@
-vless://c6c5ad2f-b4d5-450f-862f-341cebb7f9b5@log.bpminecraft.com:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=empty-rain-1df4.332-633.workers.dev#%3E%3E%40ShadowsocksM%3A%3AUS
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
