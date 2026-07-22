@@ -1,1 +1,1 @@
-vless://89b33bbb-d4ed-8c8c-de79-a24e9b97f3d3@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/89b33bbb-d4ed-8c8c-de79-a24e9b97f3d3#103
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
