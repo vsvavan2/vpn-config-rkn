@@ -1,1 +1,1 @@
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?security=tls&type=ws&path=/poiuyws&host=amoosamiii.net&packetEncoding=xudp&sni=amoosamiii.net&fp=chrome&encryption=none#v2ray_configs_pool-223
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
