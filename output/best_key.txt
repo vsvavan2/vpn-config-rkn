@@ -1,1 +1,1 @@
-vless://50414e45-4c5f-5a45-5553-21b67d16f38f@z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev:443?path=/stream/PANEL_ZEUS/50414e45&security=tls&encryption=none&insecure=0&host=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev#🇸🇪 | PeekConfig_Sweden | ‎z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev | ‎443
+vless://9b13e10c-74a8-46bf-9b13-64d791941b35@SPEEDtest.Net:80?security=none&type=ws&headerType=&path=&host=loosboijji.global.ssl.fastly.net#🇨🇦118916 | ⚡️Telegram = t.me/SOSkeyNET
