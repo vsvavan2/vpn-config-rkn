@@ -1,1 +1,1 @@
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&fp=edge&path=/?Telegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&security=tls&sni=deicl.redstone-vex.sbs&fp=chrome&allowinsecure=0&type=ws&host=deicl.redstone-vex.sbs&path=/sea#EPODONIOS
