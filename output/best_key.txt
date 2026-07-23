@@ -1,1 +1,1 @@
-vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#Unblocked_ir
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@104.254.140.21:2087?type=xhttp&security=tls&path=/?Telegram-WangCai2&sni=ch-de.sdcards.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D
