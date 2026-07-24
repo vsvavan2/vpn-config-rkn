@@ -1,1 +1,1 @@
-vless://3a38b35b-7b31-452c-954f-99c2f45dda19@172.66.170.53:8880?encryption=none&host=sweet-truth-0f0c.71-fca.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#EPODONIOS
+vless://66bcb167-7663-45ca-a3ad-e4ef21f18b6c@speedtest.net:443?path=ws/?ed=2048&security=tls&encryption=none&host=s4jkhvuvjnouuibbctyl.com&type=ws&sni=speedtest.net#EPODONIOS
