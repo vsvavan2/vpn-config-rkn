@@ -1,1 +1,1 @@
-vless://66bcb167-7663-45ca-a3ad-e4ef21f18b6c@speedtest.net:443?path=ws/?ed=2048&security=tls&encryption=none&host=s4jkhvuvjnouuibbctyl.com&type=ws&sni=speedtest.net#EPODONIOS
+vless://ef2459fd-336f-42c8-8e40-a6f80ca724d7@199.232.78.155:443?encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=/&security=tls&sni=+global.fastly.com&type=xhttp&x_padding_bytes=100-1000#Xhttp-15-vistav2ray-30.00GB📊-1D⏳
