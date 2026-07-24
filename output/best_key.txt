@@ -1,1 +1,1 @@
-vless://0c13ef54-3890-4bbc-baec-e80335db9fe7@download.yunzhongzhuan.com:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&alpn=http%2F1.1&encryption=none&host=plain-dawn-765f.452.workers.dev&fp=chrome&type=ws#%3E%3E%40ShadowsocksM%3A%3AUS
+trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Proxy_Se7en
