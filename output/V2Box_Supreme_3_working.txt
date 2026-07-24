@@ -1,5 +1,5 @@
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?encryption=none&headerType=http&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Frankfurt%20am%20Main
-trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=&type=grpc&sni=yahoo.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%C2%B7%20Geneva%20%231
 vless://2a376e86-d906-4440-a9ec-77dc205ada18@178.105.111.169:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Falkenstein%20%231
+trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=&type=grpc&sni=yahoo.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%C2%B7%20Geneva%20%231
 ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz0@94.183.124.95:82#%F0%9F%87%AE%F0%9F%87%B7%20Iran
