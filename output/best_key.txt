@@ -1,1 +1,1 @@
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#https://t.me/FREE_VPN02
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@155.46.167.21:2087?type=xhttp&security=tls&path=/&sni=ch-de.sdcards.ir&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D
