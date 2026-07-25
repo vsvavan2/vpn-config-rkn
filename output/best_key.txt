@@ -1,1 +1,1 @@
-vless://0ba5211f-fb2b-42a0-8e18-9ce7a41745a5@skk.moe:443?encryption=none&security=tls&sni=sg.xfj123.top&insecure=0&allowInsecure=0&type=ws&host=sg.xfj123.top&path=/0ba5211f-fb2b-42a0-8e18-9ce7a41745a5-vless#🇨🇦121817 | ⚡️Telegram = t.me/SOSkeyNET
+vless://57d68ec3-6cc5-10e9-2bca-5ba3994aa783@13.248.215.36:443?path=/glasspanel/0038ba35_0_1bdabe931208/&security=tls&encryption=none&insecure=0&host=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr#🇨🇦122126 | ⚡️Telegram = t.me/SOSkeyNET
