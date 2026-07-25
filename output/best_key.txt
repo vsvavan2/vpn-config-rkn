@@ -1,1 +1,1 @@
-vless://telegram-id-ArV2ray@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2,http/1.1&fp=chrome&type=ws&host=jie3.ir&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#EPODONIOS
+vless://5886b978-b080-4612-b420-4d829080561d@104.21.36.87:443?encryption=none&security=tls&sni=pPAl03.Dr-bRADY-gorczAny.woRKERS.DEv&type=ws&host=PPal03.dR-BradY-GoRcZANy.worKerS.DEV&path=/bxhZjqFfkUO6VHuC?ed=2048#EPODONIOS
