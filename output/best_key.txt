@@ -1,1 +1,1 @@
-vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=cnn.liamlomson.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cnn.liamlomson.dpdns.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://cf634a71-d416-40e0-9741-2ba23cbdee85@199.232.78.159:443?encryption=none&type=ws&host=lsjaoijji.global.ssl.fastly.neT&path=/&security=tls&sni=ssl.fastly.com#https://t.me/AarazV2ray
