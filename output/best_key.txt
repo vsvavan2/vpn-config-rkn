@@ -1,1 +1,1 @@
-vless://5886b978-b080-4612-b420-4d829080561d@104.21.36.87:443?encryption=none&security=tls&sni=pPAl03.Dr-bRADY-gorczAny.woRKERS.DEv&type=ws&host=PPal03.dR-BradY-GoRcZANy.worKerS.DEV&path=/bxhZjqFfkUO6VHuC?ed=2048#EPODONIOS
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&type=ws&fp=randomized&path=%252F&host=cnmfangbinxing.cnmfangbinxing-o.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
