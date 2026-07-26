@@ -1,1 +1,1 @@
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?encryption=none&fp=chrome&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://0432902e-6604-40cd-bbd0-57ab4e5d909f@www.speedtest.net:443?encryption=none&security=tls&sni=bPB-4dc4958B.hXjkcgHcHv.woRkeRs.deV&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-4dc4958b.hxjkcghchv.workers.dev&path=/eyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#🌐 AnsooyeFilter | CDN Route
