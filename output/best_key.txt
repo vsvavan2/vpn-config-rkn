@@ -1,1 +1,1 @@
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#kurdconfig
+vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?path=/&security=none&encryption=none&host=ads01-cdn.sabzi.name.ng.&type=ws#EPODONIOS
