@@ -1,1 +1,1 @@
-vless://cf634a71-d416-40e0-9741-2ba23cbdee85@199.232.78.159:443?encryption=none&type=ws&host=lsjaoijji.global.ssl.fastly.neT&path=/&security=tls&sni=ssl.fastly.com#https://t.me/AarazV2ray
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#kurdconfig
