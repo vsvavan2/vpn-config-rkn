@@ -1,1 +1,1 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://66bd12ca-cdc8-4b9d-b528-c15288e9f509@speedtest.net:443?path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&host=i-am-melo.ir&fp=chrome&type=ws&sni=speedtest.net#🇨🇦122363 | ⚡️Telegram = t.me/SOSkeyNET
