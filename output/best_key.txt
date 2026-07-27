@@ -1,1 +1,1 @@
-vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@176.124.223.16:2087?type=ws&security=tls&fp=firefox&sni=valid22.validbv9501.ir&path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D&host=valid22.validbv9501.ir#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
