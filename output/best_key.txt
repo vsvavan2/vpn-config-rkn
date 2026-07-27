@@ -1,1 +1,1 @@
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://e2d69ba7-dbce-442d-b5d7-c07f7944f7e0@speedtest.net:80?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=erfanyosyour-name.global.ssl.fastly.net&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D

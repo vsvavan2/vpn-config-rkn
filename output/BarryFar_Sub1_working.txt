@@ -1,20 +1,20 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F%3FTELEGRAM-ShadowProxy66%3Fed%3D512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+trojan://521314@46.202.30.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#🚀t.me/iProxyChannel 10
+trojan://521314@104.234.239.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#🚀t.me/iProxyChannel 9
+trojan://521314@170.114.45.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#🚀t.me/iProxyChannel 3
+trojan://521314@91.193.58.31:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#🚀t.me/iProxyChannel 2
+trojan://521314@45.192.223.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#🚀t.me/iProxyChannel 8
+trojan://521314@45.131.4.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#🚀t.me/iProxyChannel 13
+trojan://521314@104.16.97.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws#🇨🇦124108 | ⚡️Telegram = t.me/SOSkeyNET
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?encryption=none&type=ws&security=tls&path=%2Ffp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F%3FTELEGRAM-ShadowProxy66%3Fed%3D512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%40FarazV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@188.119.149.27:1080#filembad-15
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#United Kingdom 🇬🇧
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#%40bored_vpn
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪123853 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪123855 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#TEL:Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#Kia_Net::🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026?#🇨🇭123868 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#[🇨🇭]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080?#configprxy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#V2ray_Alpha🕶️ 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#filembad-45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#configprxy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#🇳🇱124103 | ⚡️Telegram = t.me/SOSkeyNET
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bnpSeStGSXhMUUZYZTN3MXBCV2hPU01tRC9pUnBlSEsxUHdSUkJNcklWTT06QzBqNzdZT05aOFFudGQ2SG93OGR2YjFHRUcvb2NYSmd0UjI5alg1YlpIWT0@46.226.166.205:39531#🚀t.me/iProxyChannel 14
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eHlsdGt1YUxncjMyNnByeDZWOGp1cUgzYldrNmpKSWVQNDViN3NQVDhyUT06Y2dEVUUweUN2QnErL0ZiY1V5OC9lMm5YVHRnVjl1Ym5uRGRWbzFhd0lUVT0@46.226.166.205:45811#🚀t.me/iProxyChannel 9
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c05xQ2EyV01xWnhWSGlpZXZRd0NwZEFLUDVRbEpROS9XUlFIZlhydGhjbz06dmR1WEdrczA1cEYyVHhxZG9nZzJJT3FBTVptKzh6SDNHZk5UdHI1M2NFUT0@46.226.166.205:49901#🇫🇷124182 | ⚡️Telegram = t.me/SOSkeyNET
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Nm5jV3RtQ3dJZndJRElrZXY2K0pabG53TlZpTmFIMWdiVWYxUkRUU0ZIbz06dm56V2puMmN2L001dllLdkdBL0pacVJOc0hmNnVaSHZXdEI2V1czSU1JOD0@46.226.166.205:50067#🚀t.me/iProxyChannel 13
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Nm5jV3RtQ3dJZndJRElrZXY2K0pabG53TlZpTmFIMWdiVWYxUkRUU0ZIbz06dm56V2puMmN2L001dllLdkdBL0pacVJOc0hmNnVaSHZXdEI2V1czSU1JOD0@46.226.166.205:50067#🇫🇷124183 | ⚡️Telegram = t.me/SOSkeyNET
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bnpSeStGSXhMUUZYZTN3MXBCV2hPU01tRC9pUnBlSEsxUHdSUkJNcklWTT06QzBqNzdZT05aOFFudGQ2SG93OGR2YjFHRUcvb2NYSmd0UjI5alg1YlpIWT0@46.226.166.205:39531#🇫🇷124184 | ⚡️Telegram = t.me/SOSkeyNET
