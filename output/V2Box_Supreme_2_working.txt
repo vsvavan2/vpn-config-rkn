@@ -1,4 +1,4 @@
 vless://ba001eb1-ef61-4d70-bfb0-b5c69815cd70@us.sv.temas-bor.ir:22027?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Falkenstein
-vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@5.231.80.219:443?mode=gun&security=reality&encryption=none&pbk=ayE6OYhZPTadQ_3Q00PcvN99n7SfvmFU5yffGQVxMG0&fp=chrome&type=grpc&sni=file.ax&sid=2387a1e00eca0913#%F0%9F%87%AE%F0%9F%87%B9%20Italy
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czechia
 vless://eeb75ded-02ad-4e8f-9bb1-ccc5cd96e7cc@abqwe.gfdcty.ir:443?path=/graphql-upgrade-t7XyZ&security=tls&encryption=none&insecure=0&host=abqwe.gfdcty.ir&type=httpupgrade&allowInsecure=0&sni=abqwe.gfdcty.ir#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@5.231.80.219:443?mode=gun&security=reality&encryption=none&pbk=ayE6OYhZPTadQ_3Q00PcvN99n7SfvmFU5yffGQVxMG0&fp=chrome&type=grpc&sni=file.ax&sid=2387a1e00eca0913#%F0%9F%87%AE%F0%9F%87%B9%20Italy

@@ -1,1 +1,1 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.49.246:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
+vless://08bc2f46-c8ae-421e-93cc-e1225923fa50@199.232.78.150:443?encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=/&security=tls&sni=global.fastly.com&type=xhttp&x_padding_bytes=100-1000#Xhttp-15-Vistav2ray-50.00GB📊-1D⏳
