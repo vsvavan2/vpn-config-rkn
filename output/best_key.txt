@@ -1,1 +1,1 @@
-vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#EPODONIOS
+vless://efa9da3c-f8da-4fdf-90d4-4159fc6fea03@speedtest.net:80?security=none&type=xhttp&headerType=&path=/&host=farangis.global.ssl.fastly.neT.&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
