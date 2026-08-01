@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.174.30:8880?encryption=none&host=vms.lifetime35.workers.dev&path=/&security=none&type=ws#EPODONIOS
+vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#%3E%3E%40FreakConfig%3A%3AUS
