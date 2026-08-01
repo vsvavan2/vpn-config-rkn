@@ -1,1 +1,1 @@
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#EPODONIOS
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.vector9nmb3.info:8443?encryption=none&fp=chrome&host=ad-020.vector9nmb3.info&path=%2F&security=tls&sni=ad-020.vector9nmb3.info&type=ws#EPODONIOS
