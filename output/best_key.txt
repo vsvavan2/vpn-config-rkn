@@ -1,1 +1,1 @@
-vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#🇩🇪132272 | ⚡️Telegram = t.me/SOSkeyNET
+vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=/knl8&security=&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#Unblocked_ir
