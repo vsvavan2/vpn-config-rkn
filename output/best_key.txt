@@ -1,1 +1,1 @@
-vless://1a7015d0-1790-452f-a31d-d863b69b7bcb@web-production-9a1f3.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-9a1f3.up.railway.app&path=/ws/1a7015d0-1790-452f-a31d-d863b69b7bcb&sni=web-production-9a1f3.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
