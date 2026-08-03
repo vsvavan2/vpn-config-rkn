@@ -1,1 +1,1 @@
-vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=/knl8&security=&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#Unblocked_ir
+trojan://humanity@104.18.8.83:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
