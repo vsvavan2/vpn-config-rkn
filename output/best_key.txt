@@ -1,1 +1,1 @@
-vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=/knl8&security=&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#Unblocked_ir
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector9nmb3.info:8443?encryption=none&fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
