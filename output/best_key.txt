@@ -1,1 +1,1 @@
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.vector2llqn.info:8443?encryption=none&fp=chrome&host=ad-004.vector2llqn.info&path=%2F&security=tls&sni=ad-004.vector2llqn.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
