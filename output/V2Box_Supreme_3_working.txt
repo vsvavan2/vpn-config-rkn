@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Seattle
-vless://74ae950f-95c6-417b-9409-a0f58be33429@195.123.216.28:443?encryption=none&fp=&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&security=reality&sid=4e6e39c4&sni=www.intel.com&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#%F0%9F%87%AE%F0%9F%87%AA%20Ireland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@190.2.147.119:1080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Naaldwijk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.193.5.112:1080#%F0%9F%87%AE%F0%9F%87%B9%20Italy
