@@ -1,1 +1,1 @@
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.242:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.242:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=oh1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
