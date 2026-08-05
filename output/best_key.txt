@@ -1,1 +1,1 @@
-vless://50414e45-4c5f-5a45-5553-87784dde8e7a@173.245.49.57:443?path=/stream/PANEL_ZEUS/87784dde8e7a&security=tls&encryption=none&insecure=0&host=z-e-u-s-jipumr.nova-69a264.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-jipumr.nova-69a264.workers.dev#EPODONIOS
+vless://140b8981-d737-77df-7fba-6a6c060909df@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/140b8981-d737-77df-7fba-6a6c060909df#112
