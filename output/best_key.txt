@@ -1,1 +1,1 @@
-vless://dbe85a41-4f66-4874-89b2-580c7896951c@151.101.56.6:443?encryption=none&type=xhttp&security=tls&path=/&host=blueb.global.ssl.fastly.net&mode=auto&sni=ssl.fastly.com&fp=chrome&insecure=1&allowInsecure=1#🇺🇸133689 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.242:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
