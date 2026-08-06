@@ -1,1 +1,1 @@
-vless://@𝐕𝟐𝐗𝐍𝐄𝐓@fastly.com:80?encryption=none&security=none&sni=ggabjigg.global.ssl.fastly.net&fp=chrome&type=xhttp&host=ggabjigg.global.ssl.fastly.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.85:2096?encryption=none&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Pioneer%29%20%7C%20%5BBL%5D
