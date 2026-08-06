@@ -1,1 +1,1 @@
-vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=/knl8&security=&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#Unblocked_ir
+vless://XpnTeam-2@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
