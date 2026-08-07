@@ -1,1 +1,1 @@
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.52:2096?type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Pioneer%29%20%7C%20%5BBL%5D
+vless://565b1495-039d-4921-9f13-9a796899e6e4@151.101.108.244:443?security=tls&type=xhttp&path=%2F1ht&host=Fred443portlarucin.com&alpn=h3&sni=developer.fastly.com&mode=auto&encryption=none&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
