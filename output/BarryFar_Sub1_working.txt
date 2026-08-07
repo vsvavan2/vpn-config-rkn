@@ -1,20 +1,20 @@
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#🇺🇸 Los Angeles
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVU0Tg@45.10.164.157:8388#🚀t.me/iProxyChannel 10
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20%287%29
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Server%203
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Server%2019
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🚀t.me/iProxyChannel 14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443?#filembad-9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443?#vpnsal
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Server%2019
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20%287%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@sah1.levikogjgfdd.ir:443#🇮🇪 direct
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#_
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443?#vpnsal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#_
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443?#vpnsal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#🇺🇸 Los Angeles
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#𝑫𝑨𝑹𝑲
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443?#filembad-9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#_
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#_
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#✅ t.me/bigAVPN ایران آزاد 👑
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443?#vpnsal

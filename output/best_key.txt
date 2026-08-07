@@ -1,1 +1,1 @@
-vless://@𝐕𝟐𝐗𝐍𝐄𝐓@fastly.com:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Butimcreepimweirdeo.shop&fp=chrome&type=xhttp#EPODONIOS
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#EPODONIOS
