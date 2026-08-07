@@ -1,1 +1,1 @@
-vless://605e09f2-cf37-4b7c-95f8-ae1615bb3d6c@SPEEDTEST.NET:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net#рҹҮЁрҹҮҰ136403 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+vless://@𝐕𝟐𝐗𝐍𝐄𝐓@fastly.com:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=ggabjigg.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=ggabjigg.global.ssl.fastly.net#EPODONIOS
