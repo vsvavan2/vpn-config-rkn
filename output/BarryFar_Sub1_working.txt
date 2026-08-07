@@ -1,20 +1,20 @@
 vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@meshbuzz.bond:443?path=%2Fmashdi&security=tls&encryption=none&insecure=0&host=OhPwIlJo8.RoBoRoCkS.Ir&fp=firefox&type=ws&allowInsecure=0&sni=OhPwIlJo8.RoBoRoCkS.Ir#Server%20175
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.85.61.177:443#美国
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#Tel%3A%40Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🚀t.me/iProxyChannel 18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🚀t.me/iProxyChannel 14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#🇺🇸135985 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#🇺🇸 Los Angeles
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVU0Tg@45.10.164.157:8388#🚀t.me/iProxyChannel 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20%287%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#🇮🇪135945 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#🇮🇪135941 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#🇮🇪135942 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#🇮🇪135943 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@gr005.bamajobin.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#Server%2014
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🚀t.me/iProxyChannel 14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🚀t.me/iProxyChannel 18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.177.236:50099#🇹🇼136013 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@190.2.147.119:1080#🇳🇱荷兰
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ==@130.61.102.202:59924#🇩🇪136039 | ⚡️Telegram = t.me/SOSkeyNET
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#TEL;Father_vpn
+vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@gr005.bamajobin.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#Server%2014
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#🇨🇴
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#🚀t.me/iProxyChannel 11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#%FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#T.me/Vpn_Mafia 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReFUzUTNPNDRzcHpIQmI2ejNsNE9T@pl1.levikogjgfdd.ir:45635#🇵🇱 direct
