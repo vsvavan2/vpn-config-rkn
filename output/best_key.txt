@@ -1,1 +1,1 @@
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&alpn=h2&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#Proxy_mtm 2
+vless://XpnTeam-9@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
