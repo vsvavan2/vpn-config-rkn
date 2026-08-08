@@ -1,1 +1,1 @@
-vless://885417a5-b568-4299-bde4-db01b654ebed@SPEEDTEST.NET:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net#EPODONIOS
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#EPODONIOS
