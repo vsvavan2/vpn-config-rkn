@@ -1,1 +1,1 @@
-vless://ca4b1ca3-e1cd-4162-b7cc-24c90dff1a7d@SPEEDTEST.NET:80?path=/&security=none&encryption=none&host=SvnTeamChannel.global.ssl.fastly.net&type=ws#🇨🇦137407 | ⚡️Telegram = t.me/SOSkeyNET
+vless://885417a5-b568-4299-bde4-db01b654ebed@SPEEDTEST.NET:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net#🇨🇦137502 | ⚡️Telegram = t.me/SOSkeyNET
