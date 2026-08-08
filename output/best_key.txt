@@ -1,1 +1,1 @@
-vless://54502a61-2af6-40e7-8331-2c9fc40e5903@time.is:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=old-cloud-a96a.rohamsahh90.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=old-cloud-a96a.rohamsahh90.workers.dev#configprxy
+vless://f04c31f7-cfab-4824-d167-4137d836ea82@i3.cloud--vpn.site:443?path=%2F&security=tls&encryption=none&insecure=0&host=c12.com&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
