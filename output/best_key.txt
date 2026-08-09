@@ -1,1 +1,1 @@
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#EPODONIOS
+vless://XpnTeam-4@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
