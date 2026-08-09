@@ -1,1 +1,1 @@
-vless://07f82c34-bd45-4a7e-b70a-d4e73e2e5a39@cctvhikvision.center:2083?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=uwu.blueknight.site&fp=chrome&type=ws&allowInsecure=0&sni=uwu.blueknight.site#🇨🇦139011 | ⚡️Telegram = t.me/SOSkeyNET
+vless://Tel-ELiV2ray-Tel-ELiV2ray@repo.steampowered.com:80?path=/eli.elmahstyle.ir?ed=80&security=none&encryption=none&host=eLi.eLMaHstYlE.ir&type=ws#EPODONIOS
