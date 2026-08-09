@@ -1,1 +1,1 @@
-vless://@𝐕𝟐𝐗𝐍𝐄𝐓@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=imcreeprd3.global.ssl.fastly.net&fp=chrome&type=xhttp#EPODONIOS
+vless://07f82c34-bd45-4a7e-b70a-d4e73e2e5a39@cctvhikvision.center:2083?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=uwu.blueknight.site&fp=chrome&type=ws&allowInsecure=0&sni=uwu.blueknight.site#🇨🇦139011 | ⚡️Telegram = t.me/SOSkeyNET
