@@ -1,1 +1,1 @@
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:2052?path=/v-hu&security=none&encryption=none&host=tr.cdn.doctor-alan.ir&type=httpupgrade#EPODONIOS
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
