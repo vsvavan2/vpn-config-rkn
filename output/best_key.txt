@@ -1,1 +1,1 @@
-vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:2052?path=/v-hu&security=none&encryption=none&host=tr.cdn.doctor-alan.ir&type=httpupgrade#EPODONIOS
