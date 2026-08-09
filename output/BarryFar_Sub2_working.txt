@@ -1,20 +1,20 @@
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#ARGO_VPNN_9
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#VConfing
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
-trojan://8r<[9'l6hAO#8ZQi@104.21.7.21:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#v2rayng3
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigV2RayNG
-trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
-trojan://humanity@millionaire.levikogjgfdd.ir:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 CDN
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.69.44:443#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
-trojan://521314@millionaire.levikogjgfdd.ir:443?path=/&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Proxy_mtm 4
-trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#v2rayng3
-trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#1
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🏁]t.me/ConfigV2RayNG
 trojan://humanity@104.18.152.133:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
-trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#TEL;Father_vpn
-trojan://VPNCUSTOMIZE@188.114.97.6:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#ARGO_VPNN_16
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻
+trojan://humanity@104.18.152.159:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#2
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#join--&gt;NormanConfig
+trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#configprxy
+trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://Telegram_healer_config@104.21.24.95:443?path=/tr/zJi4ccv7FeEo780U?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV#[🇨🇦]t.me/ConfigV2RayNG
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@104.18.1.1:443?path=/in-pdr&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=space.byu.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇦🇪
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
+trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#%FREE_VPN02
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#VConfing
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#VConfing
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
+trojan://8r<[9'l6hAO#8ZQi@104.21.7.21:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#v2rayng3
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Proxy_mtm 4
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn

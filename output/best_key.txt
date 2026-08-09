@@ -1,1 +1,1 @@
-vless://XpnTeam-4@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
