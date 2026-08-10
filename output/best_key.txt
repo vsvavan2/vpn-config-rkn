@@ -1,1 +1,1 @@
-vless://00790c59-b1ef-402f-8305-20b938bfb7ca@178.248.236.0:56443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=l4a04BlcqPrdTrvx6uWjdSUr6ctSY6OfRvECpS4oR3E&sni=rutube.ru&sid=8f3c1a7d5be204c9&spx=%2F&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.66:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#configprxy
