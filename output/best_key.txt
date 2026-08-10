@@ -1,1 +1,1 @@
-vless://ed0e05af-49ab-4ea8-a39c-634855811b03@time.is:443?path=/ws?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev#configprxy
+vless://281431be-05d7-4752-a524-861b40a5eff8@199.232.78.155:443?encryption=none&type=xhttp&security=tls&path=/&host=sdcard.global.ssl.fastly.net&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
