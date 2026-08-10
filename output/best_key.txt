@@ -1,1 +1,1 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://00790c59-b1ef-402f-8305-20b938bfb7ca@178.248.236.0:56443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=l4a04BlcqPrdTrvx6uWjdSUr6ctSY6OfRvECpS4oR3E&sni=rutube.ru&sid=8f3c1a7d5be204c9&spx=%2F&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
