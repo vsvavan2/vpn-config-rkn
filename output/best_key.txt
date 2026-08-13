@@ -1,1 +1,1 @@
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?path=/&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#Cloudflare 🌐
+vless://efe18f67-927b-d4b3-9113-079007af6013@199.232.78.159:80?security=none&type=xhttp&headerType=none&encryption=none&path=&host=bsl.global.ssl.fastly.net&mode=auto#🇫🇷 [ HELP ] ³
