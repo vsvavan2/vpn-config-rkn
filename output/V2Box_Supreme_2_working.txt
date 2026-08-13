@@ -1,1 +1,2 @@
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#%F0%9F%87%A6%F0%9F%87%BF%20Azerbaijan
+vless://b40482b0-c9f1-4b1d-977d-ec91ba7b2636@185.126.236.181:8080?encryption=none&type=tcp&headerType=http&host=www.icloud.com&path=/#%F0%9F%87%A6%F0%9F%87%B9%20Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%F0%9F%87%B5%F0%9F%87%B1%20Poland
