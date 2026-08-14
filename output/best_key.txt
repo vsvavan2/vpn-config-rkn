@@ -1,1 +1,1 @@
-trojan://_Hqs2tyFXRK3mDAOZZocRqL_uWa95ssL@grpc.devmrzero.ir:2087?mode=gun&security=tls&alpn=h3,h2,http/1.1&authority=grpc.devmrzero.ir&insecure=0&type=grpc&serviceName=grpc&allowInsecure=0&sni=grpc.devmrzero.ir#🇨🇦142136 | ⚡️Telegram = t.me/SOSkeyNET
+vless://cf096732-3496-4c3c-a9e9-a16595a9692e@SPEEDtest.Net:80?encryption=none&security=none&type=xhttp&headerType=none&path=/V2ray?ed=2095&host=roter54Ahip.global.ssl.fastly.neT.&mode=auto#🇨🇦142232 | ⚡️Telegram = t.me/SOSkeyNET
