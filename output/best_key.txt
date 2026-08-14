@@ -1,1 +1,1 @@
-vless://XpnTeam-38@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
