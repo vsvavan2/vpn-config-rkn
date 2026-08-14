@@ -1,1 +1,1 @@
-vless://efe18f67-927b-d4b3-9113-079007af6013@199.232.78.159:80?security=none&type=xhttp&headerType=none&encryption=none&path=&host=bsl.global.ssl.fastly.net&mode=auto#🇫🇷 [ HELP ] ³
+vless://38135fde-7044-4407-8faf-e1ab08e47402@172.64.80.1:8880?encryption=none&security=none&alpn=http/1.1&type=ws&host=white-bush-712e.498-f8f.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%5BBL%5D
