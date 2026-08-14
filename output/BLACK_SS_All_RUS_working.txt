@@ -1,1 +1,2 @@
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&type=tcp&security=tls&encryption=none&fp=android&sni=speedtest.tinkoff.ru#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Sch%C3%B6tz%20%7C%20%5BBL%5D
+trojan://0010996f-3eab-4804-9b3a-3a889d6767fc@a8zbx9xj.catcat321.com:20056?security=tls&sni=iepl.idz1.cat.bilibili.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Kuningan%20Barat%20%7C%20%5BBL%5D
