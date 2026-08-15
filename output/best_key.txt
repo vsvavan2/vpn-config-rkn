@@ -1,1 +1,1 @@
-vless://8d391797-01f4-4393-92d0-504c96ca4c29@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=ihvtcd6ybun.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#EPODONIOS
+vless://0f93931f-31b3-4e40-a528-175c7716cb7e@199.232.78.159:443?path=/&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#EPODONIOS
