@@ -1,1 +1,1 @@
-vless://794bfec4-09ca-3a1f-f6ce-6e006485a359@x4g-production-c75b.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-c75b.up.railway.app&path=/ws/794bfec4-09ca-3a1f-f6ce-6e006485a359&sni=x4g-production-c75b.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139860 | ⚡️Telegram = t.me/SOSkeyNET
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
