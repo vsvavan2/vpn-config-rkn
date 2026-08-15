@@ -1,1 +1,1 @@
-vless://0f93931f-31b3-4e40-a528-175c7716cb7e@199.232.78.159:443?path=/&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#EPODONIOS
+vless://cf096732-3496-4c3c-a9e9-a16595a9692e@SPEEDtest.Net:80?mode=auto&path=/V2ray?ed=2095&security=none&encryption=none&host=roter54Ahip.global.ssl.fastly.neT.&type=xhttp#EPODONIOS
