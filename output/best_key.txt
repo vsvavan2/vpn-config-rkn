@@ -1,1 +1,1 @@
-vless://f2083aa4-f27d-43da-81cf-8bab317304c0@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#рҹҮ©рҹҮӘ CxrolVPN
+vless://018a6ab7-f54c-4a1c-bfc5-d6b04e6545d1@grimness-backlogs.cdn-content.com:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=grimness-backlogs.cdn-content.com&fp=chrome&type=ws&allowInsecure=0&sni=grimness-backlogs.cdn-content.com#🇩🇪143712 | ⚡️Telegram = t.me/SOSkeyNET
