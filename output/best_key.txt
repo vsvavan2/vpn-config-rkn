@@ -1,1 +1,1 @@
-vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&encryption=none&host=c12.com&type=ws&sni=ssl.fastly.com#EPODONIOS
+vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
