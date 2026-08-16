@@ -1,1 +1,1 @@
-vless://233251d4-0110-4ad7-9e54-79ff28d53393@mobiledevelop1212.global.ssl.fastly.net:80?path=/?ed&security=&encryption=none&host=mobiledevelop1212.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
