@@ -1,1 +1,1 @@
-vless://cf096732-3496-4c3c-a9e9-a16595a9692e@SPEEDtest.Net:80?mode=auto&path=/V2ray?ed=2095&security=none&encryption=none&host=roter54Ahip.global.ssl.fastly.neT.&type=xhttp#kurdconfig
+vless://233251d4-0110-4ad7-9e54-79ff28d53393@mobiledevelop1212.global.ssl.fastly.net:80?path=/?ed&security=&encryption=none&host=mobiledevelop1212.global.ssl.fastly.net&type=ws#EPODONIOS
