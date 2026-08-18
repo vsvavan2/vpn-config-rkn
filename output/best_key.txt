@@ -1,1 +1,1 @@
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?path=/download.php#TELEGRAM-TOOTFFARANGI_TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=amphetamine.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=amphetamine.adaspoloandco.com#EPODONIOS
+vless://f2083aa4-f27d-43da-81cf-8bab317304cb@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#EPODONIOS
