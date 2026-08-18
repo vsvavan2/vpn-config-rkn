@@ -1,1 +1,1 @@
-vless://c04e959d-3b7a-4d4f-881a-935762102704@www.zsu.gov.ua:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=&alpn=http/1.1&encryption=none&host=super-darkness-5bfb.298-142.workers.dev&fp=chrome&type=ws#🇨🇦145961 | ⚡️Telegram = t.me/SOSkeyNET
+vless://XpnTeam-1@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#
