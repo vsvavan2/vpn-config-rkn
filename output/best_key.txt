@@ -1,1 +1,1 @@
-vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN 45
+vless://77a89d8d-9de3-cf40-bafb-e68f0000001a@104.16.133.220:443?path=/sync&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ez-5b038e.ezaccess1c7f862.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-5b038e.ezaccess1c7f862.workers.dev#🚀t.me/iProxyChannel
