@@ -1,5 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYkVOMGc2UmJuc3llOEVKWno5NE9G@108.61.223.231:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20Minamishinagawa
 trojan://FH72359861@3.120.70.66:443?sni=renewed-porpoise.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://b748a230-b157-4401-8423-f8e44df31b5e@82.117.255.87:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=1xxZM10W-A8nuj6MOXFd1kA9lS7bEy-5SO5j-jrd_Cg&sid=b70076439f4a1340&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%B4%20Romania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYkVOMGc2UmJuc3llOEVKWno5NE9G@108.61.223.231:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20Minamishinagawa
 ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#%F0%9F%87%B7%F0%9F%87%BA%20Russia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea
