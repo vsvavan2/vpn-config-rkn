@@ -1,1 +1,1 @@
-vless://8937c203-8ec6-477f-830b-939992cba4eb@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#EPODONIOS
+vless://f25ee01c-7901-4fec-a582-699132749f14@soskeynets-production.up.railway.app:443?path=/ws/f25ee01c-7901-4fec-a582-699132749f14?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=grovestreetpanellll2-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=grovestreetpanellll2-production.up.railway.app#🇺🇸139737 | ⚡️Telegram = t.me/SOSkeyNET
