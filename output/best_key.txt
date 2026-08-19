@@ -1,1 +1,1 @@
-vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://d51b3246-21fe-47fb-b600-a7b7b9b6182d@grimness-backlogs.cdn-content.com:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&host=grimness-backlogs.cdn-content.com&fp=chrome&type=ws&sni=grimness-backlogs.cdn-content.com#EPODONIOS
