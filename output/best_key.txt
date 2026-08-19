@@ -1,1 +1,1 @@
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#%3E%3E%40ShadowsocksM%3A%3ATH
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@norway.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=Mc43P-2Jgj5ftBReWpTR_6xyZhJmpw8xSPtbmzbwBV8&sid=b4b4f713&type=tcp&headerType=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%B0%20%F0%9F%87%B3%F0%9F%87%B4%20%7C%20%5BBL%5D
