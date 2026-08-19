@@ -1,1 +1,1 @@
-vless://50414e45-4c5f-5a45-5553-7f29cf678cc7@fbzy8ge4uzls.3tzux7euu3gs.workers.dev:80?path=/stream/PANEL_ZEUS/7f29cf678cc7&security=&encryption=none&host=fbzy8ge4uzls.3tzux7euu3gs.workers.dev&fp=chrome&type=ws&sni=fbzy8ge4uzls.3tzux7euu3gs.workers.dev#ZEUS | 🌐 | Rokervpn
+vless://ac9933e9-0528-4a67-9fdf-0f111c3b3202@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in1&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Canada-ca-client
