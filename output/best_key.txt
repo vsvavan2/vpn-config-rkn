@@ -1,1 +1,1 @@
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@www.shopify.com:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://50414e45-4c5f-5a45-5553-7f29cf678cc7@fbzy8ge4uzls.3tzux7euu3gs.workers.dev:80?path=/stream/PANEL_ZEUS/7f29cf678cc7&security=&encryption=none&host=fbzy8ge4uzls.3tzux7euu3gs.workers.dev&fp=chrome&type=ws&sni=fbzy8ge4uzls.3tzux7euu3gs.workers.dev#ZEUS | 🌐 | Rokervpn
