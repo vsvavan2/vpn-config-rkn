@@ -1,1 +1,1 @@
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@time.is:443?path=/sg-melbi?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc.&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc.#🇦🇪
+vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?path=/api/vote/number/row/n1&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ger-full.deepinsane.com&fp=chrome&type=ws&allowInsecure=0&sni=ger-full.deepinsane.com#🚀t.me/iProxyChannel
