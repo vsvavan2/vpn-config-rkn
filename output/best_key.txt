@@ -1,1 +1,1 @@
-vless://37759a91-6fba-4816-8e7e-baae8f812313@mahdroo.ir:443?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.inAciB3I53AnkMDoEg-e2KjU3YxOk0_5B71RhhgIv2k&insecure=1&host=arvan2.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=arvan2.dearhossein-taktaz.ir#🇨🇦147620 | ⚡️Telegram = t.me/SOSkeyNET
+vless://65ef9922-6c08-4d57-9f1f-140ba21c36fb@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
