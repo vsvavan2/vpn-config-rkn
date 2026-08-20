@@ -1,1 +1,1 @@
-vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?path=/api/vote/number/row/n1&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ger-full.deepinsane.com&fp=chrome&type=ws&allowInsecure=0&sni=ger-full.deepinsane.com#🚀t.me/iProxyChannel
+vless://d84c0e47-7575-44cb-bc05-b55de8b51ca0@188.114.98.0:2053?path=/latest?ed=2560&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=hz.badomzamini.uk#Arshiavpn12
