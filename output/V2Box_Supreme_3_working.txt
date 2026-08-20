@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Los%20Angeles%20%232
 trojan://AE62539071@18.201.28.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=helped-haddock.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%C2%B7%20Dublin%20%232
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Los%20Angeles%20%232
 vless://95da2faa-ef78-4662-8ec5-e336003fca1c@cbd489865088.sueeostarrs.ir:443?security=reality&encryption=none&pbk=0ENMxZR2eBDzn4c_49siVm1Y_OxNGBmkXVp3UAZ7Vng&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=08f717284cf3c71a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzA2OWQyMjZmMDAzZmFi@154.205.147.166:11201#%F0%9F%87%B4%F0%9F%87%B2%20Oman
 vless://745bac6d-e48d-4556-aa77-09b68743a9ce@45.74.159.200:10131?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
