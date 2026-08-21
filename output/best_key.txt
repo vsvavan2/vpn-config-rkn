@@ -1,1 +1,1 @@
-vless://35dd6ec8-acb7-44be-9cde-7f03c6b9ef5b@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com#📦 60.46 GB 𓏺 ∞ Day
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
