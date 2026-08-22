@@ -1,1 +1,1 @@
-vless://7f337090-baa7-4702-a307-4b0a8f9a4659@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#𝐕𝐄𝐆𝐀𝐀𝐒_𝐕𝐏𝐍
+vless://8fa74247-8816-4caf-b2c8-0dadff14ee3c@grimness-backlogs.cdn-content.com:443?encryption=none&alpn=http/1.1&fp=chrome&type=ws&sni=grimness-backlogs.cdn-content.com&insecure=0&allowInsecure=0&security=tls&host=grimness-backlogs.cdn-content.com&path=/ws#🇩🇪149718 | ⚡️Telegram = t.me/SOSkeyNET
