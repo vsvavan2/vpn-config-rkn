@@ -1,1 +1,1 @@
-vless://35dd6ec8-acb7-44be-9cde-7f03c6b9ef5b@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com#📦 60.46 GB 𓏺 ∞ Day
+vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@de-11.th3store.ir:8080?encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&security=none&type=httpupgrade&host=de-11.th3store.ir&path=/play#EPODONIOS
