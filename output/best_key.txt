@@ -1,1 +1,1 @@
-vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@de-11.th3store.ir:8080?encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&security=none&type=httpupgrade&host=de-11.th3store.ir&path=/play#EPODONIOS
+vless://XpnTeam-13@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#EPODONIOS
