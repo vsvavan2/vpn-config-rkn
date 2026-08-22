@@ -1,6 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Los%20Angeles%20%231
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.108:443?sid=62b6d6e64d461d78&type=xhttp&fp=chrome&sni=api.getsavesafe.space&security=reality&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://93e37208-ef50-47cf-97cc-8a099b16311c@trone.soundfiy.ir:61169?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye
 vless://95da2faa-ef78-4662-8ec5-e336003fca1c@cbd489865088.sueeostarrs.ir:443?security=reality&encryption=none&pbk=0ENMxZR2eBDzn4c_49siVm1Y_OxNGBmkXVp3UAZ7Vng&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=08f717284cf3c71a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#%F0%9F%87%B9%F0%9F%87%AD%20Thailand
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa
