@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@cf.levikogjgfdd.ir:8880?path=%2F&security=&encryption=none&host=weathered-lake-e883.35-bc4.workers.dev&type=ws#%3E%3E%40v2rayng_fast%3A%3AUS
