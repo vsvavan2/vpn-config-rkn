@@ -1,1 +1,1 @@
-vless://bbb326ea-5e64-4bff-9a23-5bddcdd23205@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#𝐕𝐄𝐆𝐀𝐀𝐒_𝐕𝐏𝐍
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
