@@ -1,1 +1,1 @@
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&type=ws&security=tls&path=%2F&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3%2Ch2&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+vless://92a4cb10-228f-4239-8c63-c566b20a9167@104.16.100.66:8880?encryption=none&host=square-waterfall-c1de.199-82d.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
