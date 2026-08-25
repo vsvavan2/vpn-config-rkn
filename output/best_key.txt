@@ -1,1 +1,1 @@
-vless://29fb68bb-ff05-4fd4-8393-cc6c05d81a79@purple-butterfly-8496.erfannull36.workers.dev:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&path=%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://09f2c9cc-4275-4b4b-96d8-bacbe53f3c89@172.66.146.2:8443?path=/&security=tls&encryption=none&insecure=1&host=arvan.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=arvan.dearhossein-taktaz.ir#𝐕𝐄𝐆𝐀𝐀𝐒_𝐕𝐏𝐍🇫🇮
