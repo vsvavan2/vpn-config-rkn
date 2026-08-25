@@ -1,1 +1,1 @@
-vless://27315937-5479-49fd-867d-6b2f17246708@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸151924 | ⚡️Telegram = t.me/SOSkeyNET
+vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@199.232.78.159:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=v2mizbannnnn.global.ssl.fastly.net&type=xhttp#EPODONIOS
