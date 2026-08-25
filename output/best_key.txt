@@ -1,1 +1,1 @@
-vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
+vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/LnR5ZD5AxThxzVDc?ed=2560#EPODONIOS
