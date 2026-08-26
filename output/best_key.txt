@@ -1,1 +1,1 @@
-vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#EPODONIOS
