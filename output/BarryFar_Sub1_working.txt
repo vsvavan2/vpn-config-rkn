@@ -1,20 +1,20 @@
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@b2n.ir:443?type=xhttp&encryption=none&path=%2FTiMbErSaW&host=beaver.kaftarkakolbesarwifi.com&mode=auto&x_padding_bytes=16-64&extra=%7B%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=beaver.kaftarkakolbesarwifi.com#Beaver-x%20%7C%20%40Frog_V2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#[🏁]t.me/ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#MTMVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUzBTdmZvZmh1NXd4TzhlOHlJekV3bnZhdjBZNGdUTQ@138.124.123.127:1080#kurdconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYi1zbndIcUxIRnZfM2RaaFY4czdCODV3anVmUjVGSw==@138.124.123.127:1080#🇺🇸 『𝑼𝑺𝑨』 ¹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@ca4.levikogjgfdd.ir:8388#🇨🇦 direct
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUzBTdmZvZmh1NXd4TzhlOHlJekV3bnZhdjBZNGdUTQ@138.124.123.127:1080#kurdconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#🇨🇦 CA
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=none&encryption=none&headerType=none&type=tcp#%40FarazV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#🇨🇦 V2raySaman
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#🇨🇦 CA
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.122:8080?path=%2F%3Fed&security=none&encryption=none&type=ws#%E2%80%8C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#vpnsal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTM2MzcyYS1kOTc2LTRlMjUtOGIzYi0yOWMxYTU4NDFlMDY@140.238.64.207:42345#MTMVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYi1zbndIcUxIRnZfM2RaaFY4czdCODV3anVmUjVGSw==@176.65.151.90:1080#🇳🇱 『𝑵𝒆𝒕𝒉𝒆𝒓𝒍𝒂𝒏𝒅』 ²
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbzFxODdGcWdJR1VKN2sxTkZvRjF3@217.23.13.210:1080#نتورلد تو تلگرام جستجو کنید
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYi1zbndIcUxIRnZfM2RaaFY4czdCODV3anVmUjVGSw==@46.226.162.172:1080#🇬🇧 『𝑼𝒏𝒊𝒕𝒆𝒅』 ¹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZXBMdVlZQWl0czRyY1EwNHVoTTloNEZabFdhY3VQZA==@91.107.145.117:1080#🇩🇪154016 | ⚡️Telegram = t.me/SOSkeyNET
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=none&encryption=none&headerType=none&type=tcp#%40FarazV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#vpnsal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTM2MzcyYS1kOTc2LTRlMjUtOGIzYi0yOWMxYTU4NDFlMDY@140.238.64.207:42345#MTMVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbzFxODdGcWdJR1VKN2sxTkZvRjF3@217.23.13.210:1080#نتورلد تو تلگرام جستجو کنید
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@64.188.77.159:8390#T.me/Vpn_Mafia 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYi1zbndIcUxIRnZfM2RaaFY4czdCODV3anVmUjVGSw==@207.241.172.111:1080#🇩🇪 『𝑮𝒆𝒓𝒎𝒂𝒏𝒚』¹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#vpnsal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYi1zbndIcUxIRnZfM2RaaFY4czdCODV3anVmUjVGSw==@46.226.162.172:1080#🇬🇧 『𝑼𝒏𝒊𝒕𝒆𝒅』 ¹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#vpnsal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#vpnsal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#configprxy
