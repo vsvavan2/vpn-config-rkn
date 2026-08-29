@@ -1,1 +1,1 @@
-vless://27315937-5479-49fd-867d-6b2f17246708@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
+vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
