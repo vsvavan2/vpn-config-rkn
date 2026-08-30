@@ -1,1 +1,1 @@
-vless://50414e45-4c5f-5a45-5553-8516b0dd5664@y5zihgecul4s.x1z361egusys.workers.dev:80?path=/stream/PANEL_ZEUS/8516b0dd5664&security=none&encryption=none&host=y5zihgecul4s.x1z361egusys.workers.dev&type=ws#🇨🇦156436 | ⚡️Telegram = t.me/SOSkeyNET
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?security=tls&sni=ssl.fastly.com&allowInsecure=1&type=ws&path=/&host=7wwwspeedtestnet.global.ssl.fastly.net&encryption=none#🏳️ Bisto4_Service 579678
