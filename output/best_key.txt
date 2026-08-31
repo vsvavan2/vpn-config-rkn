@@ -1,1 +1,1 @@
-vless://34ea329f-1148-4dd4-9c4b-9eaed0cd8757@199.232.78.155:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.com#EPODONIOS
+vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@151.101.56.7:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=cichar.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#configprxy
