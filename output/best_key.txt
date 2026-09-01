@@ -1,1 +1,1 @@
-vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@151.101.56.7:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=cichar.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#configprxy
+vless://4c027fc2-adb0-44e5-9e40-33a8d6c83a4a@hajlab.ucdavis.edu:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Vistitrohamfastvipnexttt.net&type=xhttp#🇨🇦157583 | ⚡️Telegram = t.me/SOSkeyNET
