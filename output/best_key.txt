@@ -1,1 +1,1 @@
-vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?host=soft-band-8da6.426.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#%3E%3E%40ShadowsocksM%3A%3AUS
+vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
