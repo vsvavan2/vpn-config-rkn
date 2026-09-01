@@ -1,1 +1,1 @@
-vless://XpnTeam-44@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:8080?path=/&security=&encryption=none&host=freeuse.firta.ru&type=ws#EPODONIOS
