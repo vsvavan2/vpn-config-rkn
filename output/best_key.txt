@@ -1,1 +1,1 @@
-vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:8080?path=/&security=&encryption=none&host=freeuse.firta.ru&type=ws#EPODONIOS
+vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AFI
