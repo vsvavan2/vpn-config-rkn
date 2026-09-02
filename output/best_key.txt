@@ -1,1 +1,1 @@
-vless://58d3a982-9d4b-4d32-90e4-95d37a9a42ab@t2.lock1.app:2087?encryption=none&type=ws&security=tls&path=/&host=t2.lock1.app&sni=t2.lock1.app&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#کانال ما
+vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=panchar.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
