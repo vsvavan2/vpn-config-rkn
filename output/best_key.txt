@@ -1,1 +1,1 @@
-vless://e60265c7-8b28-4b93-9a6e-c502c497cac3@199.232.78.159:80?path=/&security=&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#کانال ما
+vless://0c5e5c45-b5b9-4b62-b852-d39404c77c26@go.lumen.com:2052?path=/&security=&encryption=none&host=fin.v2shop.xyz&type=ws#🇫🇮 FIN _ CDN Cloud ایرانسل (5191973) [VLESS - ws]
