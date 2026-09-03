@@ -1,1 +1,1 @@
-vless://caf0d393-101a-4ac6-81e4-172fd8f87f5b@199.232.78.155:443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=/&security=tls&sni=+global.fastly.com&type=xhttp&x_padding_bytes=100-1000#Xhttp-15
+vless://e60265c7-8b28-4b93-9a6e-c502c497cac3@199.232.78.159:80?path=/&security=&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#کانال ما
