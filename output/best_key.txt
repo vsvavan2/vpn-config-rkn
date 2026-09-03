@@ -1,1 +1,1 @@
-vless://d60e2537-13e8-41db-bdad-cd5c054a0ec7@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#کانال ما
+vless://d6c595c9-bff4-4510-893a-dfa3c87fa0cd@skk.moe:8880?encryption=none&security=none&type=ws&host=lucky-cell-d20c.78-107.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#EPODONIOS
