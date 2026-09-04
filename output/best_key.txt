@@ -1,1 +1,1 @@
-vless://08ffff12-93bb-42eb-8c83-6489644a1d04@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?security=tls&sni=ssl.fastly.com&allowInsecure=1&type=ws&path=/&host=7wwwspeedtestnet.global.ssl.fastly.net&encryption=none#🏳️ Bisto4_Service 579678
