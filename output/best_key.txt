@@ -1,1 +1,1 @@
-vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?security=tls&sni=ssl.fastly.com&allowInsecure=1&type=ws&path=/&host=7wwwspeedtestnet.global.ssl.fastly.net&encryption=none#🏳️ Bisto4_Service 579678
+trojan://MiTiVPN@199.232.78.160:443?alpn=http/1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=/---kasibam1---kasibam1---kasibam1---kasibam1---kasibam1---kasibam1---kasibam1&sni=ssl.fastly.com&type=ws#EPODONIOS
