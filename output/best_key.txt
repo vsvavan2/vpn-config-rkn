@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://ccba4c0c-91a5-4af3-8177-ffeef96c9bfe@speedtest.net:80?mode=auto&path=/&security=&encryption=none&host=dshsjzjzagahJld.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
