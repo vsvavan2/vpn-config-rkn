@@ -1,1 +1,1 @@
-vless://0e36cfc2-66e2-43d9-91b4-a62b26bcfe4c@199.232.78.159:80?path=/&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#EPODONIOS
+trojan://MiTiVPN@199.232.78.160:443?path=/---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
