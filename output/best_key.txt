@@ -1,1 +1,1 @@
-vless://ccba4c0c-91a5-4af3-8177-ffeef96c9bfe@speedtest.net:80?mode=auto&path=/&security=&encryption=none&host=dshsjzjzagahJld.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
+vless://3f945d0c-0d5b-442e-aa10-7aced4c7ad9c@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=yaSharClass.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
