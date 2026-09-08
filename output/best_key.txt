@@ -1,1 +1,1 @@
-vless://6509c7a8-ca09-4988-b11d-ad355f894cdc@162.159.82.123:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=/&headerType=none#🇨🇦165257 | ⚡️Telegram = t.me/SOSkeyNET
+vless://87a4b6b9-d269-4959-bb80-1234b46c8d06@199.232.78.159:80?path=/&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#کانال ما
