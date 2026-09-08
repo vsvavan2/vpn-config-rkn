@@ -1,1 +1,1 @@
-vless://XpnTeam-64@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://caf0d393-101a-4ac6-81e4-172fd8f87f5b@199.232.78.150:443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=/&security=tls&sni=global.fastly.com&type=xhttp&x_padding_bytes=100-1000#Xhttp-15
