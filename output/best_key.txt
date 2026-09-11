@@ -1,1 +1,1 @@
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#EPODONIOS
+vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.96.1:2052?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/cFprDqqqyBOgsuPVMIZf6qBJV89?ed=2560#💦 14. VLESS - IPv4 : 2052
