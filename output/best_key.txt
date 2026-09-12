@@ -1,1 +1,1 @@
-vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://3a5a2bfd-97d5-4a35-bd9f-abb117b79f40@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=FastSvn.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#🇺🇸169443 | ⚡️Telegram = t.me/SOSkeyNET
