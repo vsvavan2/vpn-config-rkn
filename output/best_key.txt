@@ -1,1 +1,1 @@
-vless://0c5e5c45-b5b9-4b62-b852-d39404c77c26@go.lumen.com:2052?path=/&security=&encryption=none&host=fin.v2shop.xyz&type=ws#🇫🇮 FIN _ CDN Cloud ایرانسل (5191973) [VLESS - ws]
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.23.106:2053?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#4
