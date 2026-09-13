@@ -1,2 +1,1 @@
-trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?path=%2Fchatbot&security=tls&insecure=0&host=de2.x8lab.org&type=ws&allowInsecure=0&sni=de2.x8lab.org&fp=qq#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Gavar%20Municipality%20%7C%20%5BBL%5D
-trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?path=%2Fchatbot&security=tls&insecure=0&host=de2.x8lab.org&type=ws&allowInsecure=0&sni=de2.x8lab.org&fp=safari#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Gavar%20Municipality%20%7C%20%5BBL%5D
+trojan://2qin41vasoacn0bi@arianet.on1a.com:22445?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=arianet.on1a.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
