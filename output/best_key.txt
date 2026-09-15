@@ -1,1 +1,1 @@
-vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.245.94:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=rohamhaaaavista.com&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
+trojan://MiTiVPN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
