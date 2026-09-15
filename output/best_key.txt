@@ -1,1 +1,1 @@
-vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?security=tls&encryption=none&insecure=0&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
+vless://cc4a473a-2e15-4fc6-ec54-47c3aa5cec09@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=c12.com&path=/#EPODONIOS
