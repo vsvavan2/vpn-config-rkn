@@ -1,1 +1,1 @@
-trojan://MiTiVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
+vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@2.27.7.17:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=7e0WiztFk-5MNHx9-QGFM8WrinJZ2tbsoWo_fjB-NVs&sid=ff3fc228afdec470&sni=node3.gleb.space&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
