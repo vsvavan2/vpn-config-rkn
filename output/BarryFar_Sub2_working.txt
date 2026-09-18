@@ -1,20 +1,20 @@
-trojan://MiTiVPN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
-trojan://MiTiVPN@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
-trojan://Telegram_healer_config@5er0m2i2ens2ulpg7sjd45ugqs.87fcvt2k11501yno2txm6yw-mipj2kr.workers.dev:443?path=/tr/VCf8OF27gyXfyS3GNQ1ejyY7sy4?ed=2560&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=5Er0m2I2eNS2ULPg7Sjd45UGQs.87FCVt2K11501YnO2txm6yw-MiPJ2KR.worKERs.dEV#88
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#85
+trojan://MiTiVPN@151.101.56.6:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
 trojan://MiTiVPN@151.101.56.6:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
+trojan://Soliconf@69.46.46.9:443?mode=stream-up&path=/xhttp/trojan/stream-up/Soliconf&security=tls&alpn=h2,http/1.1&insecure=0&host=slvpanel-production-5f5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=slvpanel-production-5f5f.up.railway.app#🇺🇸174864 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://TgTrWOUNeU@66.33.22.242:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#🇺🇸139733 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#193
+trojan://MiTiVPN@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
 trojan://MiTiVPN@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸174817 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://MiTiVPN@199.232.78.101:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
-trojan://Telegram_healer_config@188.114.97.3:443?path=/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE?ed=2560&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev#220
-trojan://MiTiVPN@167.82.76.7:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
-trojan://MiTiVPN@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
-trojan://MiTiVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
+trojan://MiTiVPN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
 trojan://MiTiVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
-trojan://TgTrWOUNeU@66.33.22.242:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#🇺🇸139733 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#174
-trojan://humanity@104.18.23.63:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#183
-trojan://MITIVPN@199.232.78.160:443?path=mehrosaboram&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
-trojan://Soliconf@69.46.46.13:443?mode=stream-up&path=/xhttp/trojan/stream-up/Soliconf&security=tls&alpn=h2,http/1.1&insecure=0&host=slvpanel-production-5f5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=slvpanel-production-5f5f.up.railway.app#🇺🇸174865 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://Soliconf@69.46.46.19:443?mode=packet-up&path=/xhttp/trojan/packet-up/Soliconf&security=tls&alpn=h2,http/1.1&insecure=0&host=slvpanel-production-5f5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=slvpanel-production-5f5f.up.railway.app#🇺🇸174863 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://Soliconf@69.46.46.4:443?mode=stream-up&path=/xhttp/trojan/stream-up/Soliconf&security=tls&alpn=h2,http/1.1&insecure=0&host=slvpanel-production-5f5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=slvpanel-production-5f5f.up.railway.app#🇺🇸174862 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
+trojan://humanity@104.17.111.1:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#67
+trojan://humanity@104.17.111.4:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#97
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#85
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
+trojan://MiTiVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#5
+trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#68
