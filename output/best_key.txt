@@ -1,1 +1,1 @@
-vless://XpnTeam-6@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigV2RayNG
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#🇦🇲| 𝐀𝐫𝐦𝐞𝐧𝐢𝐚
