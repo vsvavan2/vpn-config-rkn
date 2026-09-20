@@ -1,1 +1,1 @@
-vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107  حجم: 50
+vless://XpnTeam-25@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
