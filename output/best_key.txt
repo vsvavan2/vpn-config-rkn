@@ -1,1 +1,1 @@
-trojan://MiTiVPN@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://c4107be5-6cf0-8e55-7913-f45b832d6da8@151.101.56.7:443?security=tls&alpn=h2&encryption=none&insecure=0&host=shshsujsjiiyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
