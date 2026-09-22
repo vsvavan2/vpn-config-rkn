@@ -1,1 +1,1 @@
-trojan://MiTIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://436251af-af1b-4f91-9a86-cb9faf2e9d91@go.lumen.com:2052?path=/&security=&encryption=none&host=fin.v2shop.xyz&type=ws#🇫🇮 FIN _ CDN Cloud ایرانسل (Hhfdrtu) [VLESS - ws]
