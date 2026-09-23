@@ -1,1 +1,1 @@
-vless://436251af-af1b-4f91-9a86-cb9faf2e9d91@go.lumen.com:2052?path=/&security=&encryption=none&host=fin.v2shop.xyz&type=ws#🇫🇮 FIN _ CDN Cloud ایرانسل (Hhfdrtu) [VLESS - ws]
+vless://ebfc0509-53ed-46c6-96d9-e6788ab31cac@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&allowinsecure=0&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=/#configprxy
