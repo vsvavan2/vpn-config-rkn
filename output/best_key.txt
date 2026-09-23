@@ -1,1 +1,1 @@
-trojan://MiTIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#84
+vless://c1acfee1-5199-4a4f-84bb-d14a7b651d0d@199.232.78.155:443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=tamashasdasaf3800.com&mode=auto&path=/&security=tls&sni=global.fastly.com&type=xhttp&x_padding_bytes=100-1000#Xhttp-14
