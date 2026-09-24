@@ -1,6 +1,4 @@
-vless://9bb7f798-e2f4-4f0c-b106-15cbfa3909d5@65.9.46.58:443?type=xhttp&host=dve6ghjs1ofmn.cloudfront.net&path=/&mode=packet-up&security=tls&sni=dve6ghjs1ofmn.cloudfront.net&alpn=h3&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@2.28.123.196:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@192.209.62.92:211#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://9bb7f798-e2f4-4f0c-b106-15cbfa3909d5@65.9.46.58:443?type=xhttp&host=dve6ghjs1ofmn.cloudfront.net&path=/&mode=packet-up&security=tls&sni=dve6ghjs1ofmn.cloudfront.net&alpn=h3&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@46.149.68.124:1088#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206NjY1ZTAwMzM1YmIyZmI1ZjdlZTgyNDM5NTIyMDVlNWU@74.222.12.141:2087#%F0%9F%87%AF%F0%9F%87%B5%20Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVnZnUDBCejY5aHNFclBCdnFLYndR@p1tun3.greewebservices.ir:2070#%F0%9F%87%AE%F0%9F%87%B7%20Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@192.209.62.92:211#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands

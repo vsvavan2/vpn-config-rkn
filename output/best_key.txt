@@ -1,1 +1,1 @@
-vless://282f68bd-d803-4136-9ff1-b8604587c42c@go.lumen.com:2095?path=download&security=&encryption=none&host=eco-de.v2shop.xyz&type=ws# 🇩🇪 - آلمان (55555442)
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#EPODONIOS
