@@ -1,1 +1,1 @@
-vless://XpnTeam-25@199.232.78.170:443?encryption=none&type=ws&host=Appxdn.global.ssl.fastly.net&fp=chrome&path=/&sni=ssl.fastly.com&security=tls&alpn=http/1.1#kurdconfig
+vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#vpnsal
