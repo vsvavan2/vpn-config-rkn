@@ -1,1 +1,1 @@
-vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#vpnsal
+vless://282f68bd-d803-4136-9ff1-b8604587c42c@go.lumen.com:2095?path=download&security=&encryption=none&host=eco-de.v2shop.xyz&type=ws# 🇩🇪 - آلمان (55555442)
