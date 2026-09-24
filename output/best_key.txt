@@ -1,1 +1,1 @@
-vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@151.101.56.6:443?path=/?&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://XpnTeam-25@199.232.78.170:443?encryption=none&type=ws&host=Appxdn.global.ssl.fastly.net&fp=chrome&path=/&sni=ssl.fastly.com&security=tls&alpn=http/1.1#kurdconfig
