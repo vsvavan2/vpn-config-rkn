@@ -1,4 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@2.28.123.196:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://9bb7f798-e2f4-4f0c-b106-15cbfa3909d5@65.9.46.58:443?type=xhttp&host=dve6ghjs1ofmn.cloudfront.net&path=/&mode=packet-up&security=tls&sni=dve6ghjs1ofmn.cloudfront.net&alpn=h3&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@46.149.68.124:1088#%F0%9F%87%B7%F0%9F%87%BA%20Russia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@192.209.62.92:211#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@46.149.68.124:1088#%F0%9F%87%B7%F0%9F%87%BA%20Russia
