@@ -1,1 +1,1 @@
-vless://2cf94f4d-9d5b-49ca-81a3-ddc0529a2dac@web-tomcat.pages.dev:443?encryption=none&fp=chrome&host=web-tomcat.pages.dev&path=/&security=tls&sni=web-tomcat.pages.dev&type=ws#🇨🇦181550 | ⚡️Telegram = t.me/SOSkeyNET
+vless://XlnTeam-36@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
