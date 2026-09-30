@@ -1,1 +1,1 @@
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=belgho.appleseraj.ir&sni=belgho.appleseraj.ir&fp=chrome#🇧🇪| 𝐁𝐞𝐥𝐠𝐢𝐮𝐦
+vless://XpnTeam-40@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
