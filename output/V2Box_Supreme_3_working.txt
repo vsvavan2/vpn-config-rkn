@@ -1,1 +1,1 @@
-vless://9bb7f798-e2f4-4f0c-b106-15cbfa3909d5@65.9.46.58:443?type=xhttp&host=dve6ghjs1ofmn.cloudfront.net&path=/&mode=packet-up&security=tls&sni=dve6ghjs1ofmn.cloudfront.net&alpn=h3&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://84ed0e09-6803-4ef9-a977-74b657d971e5@31.70.111.146:443?security=reality&encryption=none&pbk=ZNmuzIn-zyJi2C0sWRpL9fsMYCgYauXpJElXTqY_LEE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=d7de3a6ff4018957#%F0%9F%87%A9%F0%9F%87%AA%20Germany
