@@ -1,1 +1,1 @@
-vless://8da3dd3a-2e83-445b-8686-3bd5cc71054a@fs.koomeh.net:443?encryption=none&type=xhttp&path=/rmnwv&host=Ajbbwuvmiiiiiiir0097.global.ssl.fastly.net&mode=auto&security=tls&sni=ssl.fastly.com&fp=chrome#🇺🇸184859 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://mitivpn@199.232.78.188:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
