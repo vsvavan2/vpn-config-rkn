@@ -1,1 +1,1 @@
-vless://@V2XNET@199.232.78.105:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprddde43e.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://8137e9a6-22e6-4707-a120-a6dea17c7e00@www.speedtest.net:2086?path=/eyJqdW5rIjoic1VBWDhGMXJsREg5WUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4My4xNDcuMjU0LjI0NSJdfQ==?ed=2560&security=none&encryption=none&host=dry-snow-2e6f.fastip25478.workers.dev&type=ws#🇨🇦139895 | ⚡️Telegram = t.me/SOSkeyNET
