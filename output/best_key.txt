@@ -1,1 +1,1 @@
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.30:8880?encryption=none&host=vms.lifetime09.workers.dev&path=/&security=none&type=ws#EPODONIOS
