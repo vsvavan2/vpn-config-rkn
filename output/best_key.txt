@@ -1,1 +1,1 @@
-vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩
+vless://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?mode=auto&path=/?ed=2082&security=&encryption=none&host=h.cafearen.ir&type=xhttp#EPODONIOS
