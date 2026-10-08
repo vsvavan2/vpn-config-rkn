@@ -1,1 +1,1 @@
-vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.20.113:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=yakoozanman.global.ssl.fastly.neT.&path=/#EPODONIOS
+vless://c74e76e5-c1fb-4228-b840-dbeb398cf247@167.82.75.113:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=Splendidly-mystic-gecko-ivory.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
