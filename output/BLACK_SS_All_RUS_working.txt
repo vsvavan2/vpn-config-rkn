@@ -1,1 +1,1 @@
-trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@gz2.vatilon.cc:23823?security=tls&type=ws&host=us4.australiacaregroup.site&path=%2Ftrojan&sni=us4.australiacaregroup.site#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+trojan://UX82473651@inviting-rabbit.rooster465.autos:443?security=tls&sni=inviting-rabbit.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Incheon%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
