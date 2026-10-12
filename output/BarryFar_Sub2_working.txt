@@ -1,20 +1,20 @@
 trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#bisto4_service
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#🇺🇸139757 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY20677+977+9Ww@162.159.38.119:443#🇺🇸192349 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://TgTrWOUNeU@66.33.22.242:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#🇺🇸139733 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@jp2.vatilon.cc:10003?security=tls&sni=jp2.vatilon.cc#🇺🇸192403 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#🇺🇸192402 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#🇨🇦 V2RayyNGvpn 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.189.171.163:443#T.me/Vpn_Mafia 🇺🇸
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸188667 | ⚡️Telegram = t.me/v2ray_configs_pools
+trojan://humanity@104.18.4.5:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#61
+trojan://humanity@172.66.40.99:443?type=ws&security=tls&path=/assignment&host=www.trusteeforward.com&sni=www.trusteeforward.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#ZikkOVpnBot | تست رایگان
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#8
+trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#vpnsal
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#15
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#70
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#5
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#16
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#52
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#69
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#79
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
 trojan://humanity@104.17.44.17:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#90
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#6
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
-trojan://humanity@104.18.4.5:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#61
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4
-trojan://O5+31W&l1TnaLNaEfqur@u3dangs7bgo2yrjz4uhxmt3-m.e5iq1vr7gi52ww7-83t0h6fuxi1d.workers.dev:443?path=/tr/wITkfX2lvDk9IF41MvgctE8e7KWPbYpS?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=u3dangs7bgo2yrjz4uhxmt3-m.e5iq1vr7gi52ww7-83t0h6fuxi1d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=u3DANGs7bGo2yRJz4uhXMt3-M.e5Iq1Vr7gI52Ww7-83T0H6FUXI1D.WOrKerS.deV#🇨🇦192480 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#kurdconfig
-trojan://humanity@172.66.40.99:443?type=ws&security=tls&path=/assignment&host=www.trusteeforward.com&sni=www.trusteeforward.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#ZikkOVpnBot | تست رایگان
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#7
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#88
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#17
