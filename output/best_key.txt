@@ -1,1 +1,1 @@
-vless://f25b9e19-7e16-4bc3-808a-f57eee8f8aee@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#ًں‡«ًں‡® | 6
+vless://1ac4358d-76de-477b-9400-1bbef47814ad@pinterest.com:80?mode=auto&path=/cdn&security=none&encryption=none&host=uk-ultranv.global.ssl.fastly.net&type=xhttp#EPODONIOS
