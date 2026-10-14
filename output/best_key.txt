@@ -1,1 +1,1 @@
-vless://1ac4358d-76de-477b-9400-1bbef47814ad@pinterest.com:80?mode=auto&path=/cdn&security=none&encryption=none&host=uk-ultranv.global.ssl.fastly.net&type=xhttp#EPODONIOS
+trojan://mitivpn@167.82.76.7:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
