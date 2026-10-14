@@ -1,1 +1,1 @@
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=polobash.appleseraj.ir&sni=polobash.appleseraj.ir&fp=chrome#🇵🇱| 𝐏𝐨𝐥𝐚𝐧𝐝
+vless://XpnTeam-2@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=play.google.com#EPODONIOS
