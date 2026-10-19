@@ -1,1 +1,1 @@
-vless://824638d7-b08c-4c23-a842-73708a82f2b5@tamiiiiz.aryan-sport.ir:2095?path=/&security=none&encryption=none&host=dr4.aryan-sport.ir&type=httpupgrade#EPODONIOS
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=/cart/docs/www/proxyip&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#EPODONIOS
