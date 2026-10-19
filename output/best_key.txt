@@ -1,1 +1,1 @@
-vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
+trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
