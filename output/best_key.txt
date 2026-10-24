@@ -1,1 +1,1 @@
-vless://752e7b64-09bd-4aa6-8ac0-116a45457458@grimness-backlogs.cdn-content.com:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=grimness-backlogs.cdn-content.com&fp=chrome&type=ws&allowInsecure=0&sni=grimness-backlogs.cdn-content.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
