@@ -1,4 +1,4 @@
 vless://2f5cfa10-43e5-4912-800d-557308a26a29@45.95.98.135:443?security=reality&encryption=none&pbk=8MkHK9vGRtOA97_ag2qUoru4ONKe3W6r7SR1UtIKiWU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=8g6zbdoai3lb.cloudydigital.net&sid=c1c6c4326b5b#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20Paris
 vless://6ob0A9wRCRJH5h@130.49.218.36:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A95WNfoLr0YCFjI1QRGf_G-7eQmITHGprEqCEry1pmU&security=reality&sid=08170b96&sni=www.bouyguestelecom.fr&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20Saint-Avre
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.43.227:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%231
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?security=reality&encryption=none&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swedenafteraventura.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Orem
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.43.227:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%231
