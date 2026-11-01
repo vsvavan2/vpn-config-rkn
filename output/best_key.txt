@@ -1,1 +1,1 @@
-vless://0259b0b9-c954-4de2-988e-a5877b2cd6e5@151.101.1.242:443?encryption=none&fp=firefox&host=piracy-android.video-streams.org&path=/ws&security=tls&sni=piracy-android.video-streams.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&encryption=none#%3E%3E%40V2rayNG3%3A%3AUS
