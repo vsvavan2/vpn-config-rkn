@@ -1,1 +1,1 @@
-vless://b2aa6d03-4d3e-478d-98aa-2447f09d4cb1@151.101.193.242:443?&security=tls&fp=firefox&sni=adheres-scruple.quick-cdn.net&type=ws&headerType=none&host=adheres-scruple.quick-cdn.net&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0259b0b9-c954-4de2-988e-a5877b2cd6e5@151.101.1.242:443?encryption=none&fp=firefox&host=piracy-android.video-streams.org&path=/ws&security=tls&sni=piracy-android.video-streams.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
