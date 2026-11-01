@@ -1,1 +1,1 @@
-vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&encryption=none#%3E%3E%40V2rayNG3%3A%3AUS
+vless://XpnTeam-54@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#bored_vpn
