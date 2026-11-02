@@ -1,1 +1,1 @@
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@128.203.252.97:443?encryption=none&security=tls&type=ws&sni=cf-1rm.pages.dev&host=cf-1rm.pages.dev&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://46cb8a26-0712-4e85-89bf-2538a2788652@199.232.78.160:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#bored_vpn
