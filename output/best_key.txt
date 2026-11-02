@@ -1,1 +1,1 @@
-vless://XpnTeam-54@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#bored_vpn
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@128.203.252.97:443?encryption=none&security=tls&type=ws&sni=cf-1rm.pages.dev&host=cf-1rm.pages.dev&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
