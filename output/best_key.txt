@@ -1,1 +1,1 @@
-vless://c1a3a6ee-34d3-4fcd-8763-c2231adabed6@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=lrussiaaboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#vpnsal
+vless://69eb5502-0090-47be-a602-2c61c2074d93@199.232.78.159:443?encryption=none&security=tls&sni=firefox.com&insecure=0&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=looabgermanyoijji.global.ssl.fastly.net#🇩🇪 𝐆𝐞𝐫𝐦𝐚𝐧𝐲
