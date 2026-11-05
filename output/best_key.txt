@@ -1,1 +1,1 @@
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.8:443?security=tls&sni=vless2-8vx.pages.dev&type=ws&headerType=none&host=vless2-8vx.pages.dev&path=%2Ffp%3Dchrome&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#[115118]
