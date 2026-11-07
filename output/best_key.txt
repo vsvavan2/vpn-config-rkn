@@ -1,1 +1,1 @@
-vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?security=tls&type=ws&path=%2Fws-tesla&sni=fast.145779.xyz&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20North%20Bergen%20%7C%20%5BBL%5D
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@128.203.252.97:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&host=cf-1rm.pages.dev&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
