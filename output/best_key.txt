@@ -1,1 +1,1 @@
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.21.41.243:443?security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.111:443?security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&host=ovd11.global.ssl.fastly.net&path=%2F&mode=auto&encryption=none&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
