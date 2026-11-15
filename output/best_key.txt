@@ -1,1 +1,1 @@
-vless://69eb5502-0090-47be-a602-2c61c2074d93@146.75.59.186:443?encryption=none&security=tls&sni=firefox.com&insecure=0&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=looabnetheroijji.global.ssl.fastly.net.#🇳🇱 𝐍𝐞𝐭𝐡𝐞𝐫𝐥𝐚𝐧𝐝
+vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2C%20Chana%20%7C%20%5BBL%5D
