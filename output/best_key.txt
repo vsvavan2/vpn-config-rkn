@@ -1,1 +1,1 @@
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?type=ws&path=%252Fws-tesla&host=fast.145779.xyz&security=tls&sni=fast.145779.xyz&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20North%20Bergen%20%7C%20%5BBL%5D
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@173.245.49.114:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#⚜️𝗝𝗼𝗶𝗻 ➠[Telegram:tik7net_vpn]
