@@ -1,1 +1,1 @@
-vless://DIGiV2RAY-@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:8443?host=vp17.1145678.xyz&path=%2Fclass%2Ftoolfp%3Dchrome&security=tls&sni=vp17.1145678.xyz&type=ws&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
