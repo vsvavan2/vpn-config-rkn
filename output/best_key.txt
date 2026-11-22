@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://XpnTeam-128@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#bored_vpn
