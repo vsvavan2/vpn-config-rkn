@@ -1,1 +1,1 @@
-vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@188.114.98.0:443?alpn=http%2F1.1&host=fr-free.fastestrelay.com&path=%2F700gvl&security=tls&sni=fr-free.fastestrelay.com&type=ws&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
+vless://bad0e4b1-d24c-4f5c-91e1-d30d6e252225@wryly-messiest.video-streams.org:443?encryption=none&type=ws&path=%2Fws&host=wryly-messiest.video-streams.org&security=tls&sni=wryly-messiest.video-streams.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
