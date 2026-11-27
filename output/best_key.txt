@@ -1,1 +1,1 @@
-vless://ebfc0509-53ed-46c6-96d9-e6788ab31cac@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&allowinsecure=0&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=/#configprxy
+vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@188.114.98.0:443?alpn=http%2F1.1&host=fr-free.fastestrelay.com&path=%2F700gvl&security=tls&sni=fr-free.fastestrelay.com&type=ws&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
